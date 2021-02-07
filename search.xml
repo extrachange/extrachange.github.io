@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>数字合成器VS模拟合成器</title>
-    <url>/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/</url>
-    <content><![CDATA[<p>　　合成器很难选择是怎么回事呢？合成器相信大家都很熟悉，但是合成器很难选择是怎么回事呢，下面就让小编带大家一起了解吧。<br>　　合成器很难选择，其实就是数字和模拟合成器各有优点，大家可能会很惊讶合成器怎么会很难选择呢？但事实就是这样，小编也感到非常惊讶。<br>　　这就是关于合成器很难选择的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p>
-]]></content>
-      <tags>
-        <tag>器材党</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2021/02/06/hello-world/</url>
     <content><![CDATA[<h1 id="命不久矣的Hello-world"><a href="#命不久矣的Hello-world" class="headerlink" title="命不久矣的Hello, world!"></a>命不久矣的Hello, world!</h1><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -17,11 +8,22 @@
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<a id="more"></a>
+
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 <p><img src="https://rmt.dogedoge.com/fetch/~/source/unsplash/photo-1573066265159-37a92b483851?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>数字合成器VS模拟合成器</title>
+    <url>/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/</url>
+    <content><![CDATA[<p>　　合成器很难选择是怎么回事呢？合成器相信大家都很熟悉，但是合成器很难选择是怎么回事呢，下面就让小编带大家一起了解吧。<br>　　合成器很难选择，其实就是数字和模拟合成器各有优点，大家可能会很惊讶合成器怎么会很难选择呢？但事实就是这样，小编也感到非常惊讶。<br>　　这就是关于合成器很难选择的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p>
+]]></content>
+      <tags>
+        <tag>器材党</tag>
+      </tags>
   </entry>
 </search>
