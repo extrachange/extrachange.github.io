@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2021/02/06/hello-world/</url>
+    <content><![CDATA[<h1 id="命不久矣的Hello-world"><a href="#命不久矣的Hello-world" class="headerlink" title="命不久矣的Hello, world!"></a>命不久矣的Hello, world!</h1><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<a id="more"></a>
+
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p><img src="https://rmt.dogedoge.com/fetch/~/source/unsplash/photo-1573066265159-37a92b483851?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Minimoog Model D</title>
+    <url>/2021/02/08/Minimoog-Model-D/</url>
+    <content><![CDATA[<h1 id="Minimoog-Model-D"><a href="#Minimoog-Model-D" class="headerlink" title="Minimoog Model D"></a>Minimoog Model D</h1><h2 id="一个产品"><a href="#一个产品" class="headerlink" title="一个产品"></a>一个产品</h2><h2 id="一种声音"><a href="#一种声音" class="headerlink" title="一种声音"></a>一种声音</h2><h2 id="一个时代"><a href="#一个时代" class="headerlink" title="一个时代"></a>一个时代</h2><p><img src="https://i.loli.net/2021/02/12/3dAoIleW9j4HxDt.jpg"></p>
+<p><img src="https://i.loli.net/2021/02/12/Ah2yUpXk7CFqsut.jpg"></p>
+<p><strong>生存年份</strong>：1970-1981</p>
+<p>​                    2016-2017（复刻）</p>
+<p><strong>产量</strong>：约13000台</p>
+<p><strong>发售价格</strong>：约$1500（1970）、$3749（2016）</p>
+<p><strong>类型</strong>：减法模拟合成器</p>
+<p><strong>架构</strong>：3VCO(VCO3可运行在低频率模式), 噪声发生器(白/粉), 1VCF(Ladder, 24dB/OCT), 2ENV(ADS)</p>
+<p><strong>接口</strong>: 音量、滤波器、振荡器、外置调制源控制输入(CV)、音频输入(兼作V-Trig)</p>
+<p>​          V-Trig输出、音高调制输出</p>
+<p>复刻版新增：MIDI IN/THRU/OUT、力度输出、触后输出</p>
+<p><img src="https://i.loli.net/2021/02/11/1tDKxe8NVoZ7U6v.jpg"></p>
+<p><img src="https://i.loli.net/2021/02/11/TlAML8QEUwdmfur.jpg"></p>
+<p>​         </p>
+<p><img src="https://i.loli.net/2021/02/11/leamRhyXYCKIJTb.jpg"></p>
+<p>硬件复刻: Minimax ASB(DSP)、Roland SE-02(Analog)、Behringer Model D(Analog)</p>
+<p>软件复刻: Diva、Legend、Freemoog、Mini V、Monark、Mini beasts、Minimonsta、SampleMoog、Model•E、Model 72等</p>
+<hr>
+]]></content>
+      <tags>
+        <tag>-云收藏 -器材党</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Robert Moog</title>
     <url>/2021/02/08/Robert-Moog/</url>
     <content><![CDATA[<h1 id="Robert-Arthur-Moog-1934-–-2005"><a href="#Robert-Arthur-Moog-1934-–-2005" class="headerlink" title="Robert Arthur Moog (1934 – 2005)"></a><strong>Robert Arthur Moog</strong> (1934 – 2005)</h1><img src="https://i.loli.net/2021/02/08/WxevdOrgBYcliRS.jpg" style="zoom:50%;" />
@@ -45,31 +88,6 @@
       <tags>
         <tag>-人物</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Minimoog Model D</title>
-    <url>/2021/02/08/Minimoog-Model-D/</url>
-    <content><![CDATA[<h1 id="Minimoog-Model-D"><a href="#Minimoog-Model-D" class="headerlink" title="Minimoog Model D"></a>Minimoog Model D</h1><h2 id="一个产品"><a href="#一个产品" class="headerlink" title="一个产品"></a>一个产品</h2><h2 id="一种声音"><a href="#一种声音" class="headerlink" title="一种声音"></a>一种声音</h2><h2 id="一个时代"><a href="#一个时代" class="headerlink" title="一个时代"></a>一个时代</h2>]]></content>
-      <tags>
-        <tag>-云收藏 -器材党</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/02/06/hello-world/</url>
-    <content><![CDATA[<h1 id="命不久矣的Hello-world"><a href="#命不久矣的Hello-world" class="headerlink" title="命不久矣的Hello, world!"></a>命不久矣的Hello, world!</h1><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<a id="more"></a>
-
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<p><img src="https://rmt.dogedoge.com/fetch/~/source/unsplash/photo-1573066265159-37a92b483851?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></p>
-]]></content>
   </entry>
   <entry>
     <title>数字合成器VS模拟合成器</title>
