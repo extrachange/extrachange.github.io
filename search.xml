@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Minimoog Model D</title>
+    <url>/2021/02/08/Minimoog-Model-D/</url>
+    <content><![CDATA[<h1 id="Minimoog-Model-D"><a href="#Minimoog-Model-D" class="headerlink" title="Minimoog Model D"></a>Minimoog Model D</h1><h2 id="一个产品"><a href="#一个产品" class="headerlink" title="一个产品"></a>一个产品</h2><h2 id="一种声音"><a href="#一种声音" class="headerlink" title="一种声音"></a>一种声音</h2><h2 id="一个时代"><a href="#一个时代" class="headerlink" title="一个时代"></a>一个时代</h2><p><img src="https://i.loli.net/2021/02/12/3dAoIleW9j4HxDt.jpg"></p>
+<p><img src="https://i.loli.net/2021/02/12/Ah2yUpXk7CFqsut.jpg"></p>
+<p><strong>生存年份</strong>：1970-1981</p>
+<p>​                    2016-2017（复刻）</p>
+<p><strong>产量</strong>：约13000台</p>
+<p><strong>发售价格</strong>：约$1500（1970）、$3749（2016）</p>
+<p><strong>类型</strong>：减法模拟合成器</p>
+<p><strong>架构</strong>：3VCO(VCO3可运行在低频率模式), 噪声发生器(白/粉), 1VCF(Ladder, 24dB/OCT), 2ENV(ADS)</p>
+<p><strong>接口</strong>: 音量、滤波器、振荡器、外置调制源控制输入(CV)、音频输入(兼作V-Trig)</p>
+<p>​          V-Trig输出、音高调制输出</p>
+<p>复刻版新增：MIDI IN/THRU/OUT、力度输出、触后输出</p>
+<p><img src="https://i.loli.net/2021/02/11/1tDKxe8NVoZ7U6v.jpg"></p>
+<p><img src="https://i.loli.net/2021/02/11/TlAML8QEUwdmfur.jpg"></p>
+<p>​         </p>
+<p><img src="https://i.loli.net/2021/02/11/leamRhyXYCKIJTb.jpg"></p>
+<p>硬件复刻: Minimax ASB(DSP)、Roland SE-02(Analog)、Behringer Model D(Analog)</p>
+<p>软件复刻: Diva、Legend、Freemoog、Mini V、Monark、Mini beasts、Minimonsta、SampleMoog、Model•E、Model 72等</p>
+<hr>
+]]></content>
+      <tags>
+        <tag>-云收藏 -器材党</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/02/06/hello-world/</url>
+    <content><![CDATA[<h1 id="命不久矣的Hello-world"><a href="#命不久矣的Hello-world" class="headerlink" title="命不久矣的Hello, world!"></a>命不久矣的Hello, world!</h1><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<a id="more"></a>
+
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p><img src="https://rmt.dogedoge.com/fetch/~/source/unsplash/photo-1573066265159-37a92b483851?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>我认为值得购买的合成器</title>
     <url>/2021/02/19/%E4%B8%8D%E5%90%8C%E4%BB%B7%E4%BD%8D%E7%9A%84%E5%90%88%E6%88%90%E5%99%A8%E6%8E%A8%E8%8D%90/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>合成器的世界还是太小了，每年新出的设备也就几款，很多还只是换皮的产品。当然这也怨不得别人，合成器的受众本来就少，而天朝由于各种原因导致有音乐素养的人并不多，这也让电子音乐的发展受到不少影响。那么既然你看到了这篇文章，想必你也是对合成器充满兴趣的少数派，有想过自己应该从哪一台琴开始吗？</p>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p><img src="https://i.loli.net/2021/02/25/yT52jG3RKci4s1Z.png" alt="一堆合成器png.png"></p>
+<p>合成器的世界还是太小了，每年新出的设备也就几款，很多还只是换皮的产品。当然这也怨不得别人，合成器的受众本来就少，而天朝由于各种原因导致电子音乐市场极小，这也让电子音乐的发展受到不少影响。既然你看到了这篇文章，想必你也是对合成器充满兴趣的少数派，有想过自己应该从哪一台琴开始吗？</p>
 <p>本文将介绍一些我认为值得购买的带有键盘合成器，介绍的都是在产或是停产没多久且存量很大的产品。并且，是建立在适合新手，可以深入使用的前提上的，因而采样合成器以及操作难度过大的合成器不在此列。</p>
+<a id="more"></a>
+
 <h1 id="1000元以内"><a href="#1000元以内" class="headerlink" title="1000元以内"></a>1000元以内</h1><p><strong>这个价位显然买不到啥像样的合成器，唯二能推荐的就是<u>Volca Bass</u>和<u>Volca FM</u>了，当然，这两款都没有键盘，单独使用并不好。</strong></p>
 <p>Volca Bass的优势是3个振荡器、步进音序器，还有个不错的滤波器，声音很凶猛，就算是以后升级设备也很难取代它的位置。</p>
 <p>并且价格真的很便宜，虽然触摸键盘不太能用，不过用这个小东西捏捏音色还是很有趣的。</p>
@@ -57,13 +103,68 @@
 <p>如果再这样写下去上千字都说不完它的优点，因为这是在是一款近乎完美的合成器，滤波器、效果器、调制部分都非常完善，可以实现你最疯狂的构想——最重要的是，它很好听。如果你是现代音色的拥趸，那么这一款琴毫无疑问是这个价位的最优解。另外，此琴还有桌面版。</p>
 <h2 id="Korg-Prologue"><a href="#Korg-Prologue" class="headerlink" title="Korg Prologue"></a>Korg Prologue</h2><p><img src="https://i.loli.net/2021/02/24/zwuBeqTDFUZCs1j.jpg" alt="Prologue.jpg"></p>
 <p>本来这琴是基本被Prophet Rev2压一头的，但是Korg突然搞了一波降价，降了$400，这不是个小数字，Sweetwater上8复音版本仅售999刀。如果你能在含税9k以下拿到手的话可以说是相当不错的选择了。</p>
-<p>Prologue基本相当于两台Minilogue XD合体（而且可以同时使用两个音色），不过换上了更好的键盘，机身做工也提升了不少，一看就是高端琴的样子。16复音版本还有个酷炫的带VU表的模拟压缩器，非常亮骚。</p>
-<p>这琴的声音非常不错，相比Rev2更加复古一点，有一丝丝Jupiter-8的味道～，振荡器明显比Minilogue上的好听不少，Shape塑形功能也是一样的，各方面都是台标准的合成器——太标准了以至于没什么值得说的，建议购买之前听一听demo确定自己喜不喜欢它的声音。</p>
+<p>Prologue基本相当于两台Minilogue XD合体（而且可以同时使用两个音色），不过换上了更好的键盘，机身做工也提升了不少，一看就是高端琴的样子。16复音版本还有个酷炫的带VU表的模拟压缩器，非常亮骚。键盘手感据Korg官方说是非常好的，采用的也是日产键床，不过据一些人说手感比Rev2上用的Fatar要相对轻一点，看个人喜好。</p>
+<p>这琴的声音非常不错，相比Rev2更加复古一点，有一丝丝Jupiter-8的味道～，振荡器明显比Minilogue上的好听不少，毕竟是旗舰产品嘛。Shape塑形功能也是一样的，各方面都是台标准的合成器——太标准了以至于没什么值得说的，建议购买之前听一听demo确定自己喜不喜欢它的声音。</p>
 <p><img src="https://i.loli.net/2021/02/24/fqU39pAyXzrBlL2.jpg" alt="korg-prologue-8-2102385.jpg"></p>
-<h1 id="1000以上"><a href="#1000以上" class="headerlink" title="1000以上"></a>1000以上</h1><p>花这个数买琴的还真不用推荐了，如果你是小白不推荐买这么贵的…</p>
+<h1 id="1000以上"><a href="#1000以上" class="headerlink" title="1000以上"></a>1000以上</h1><p>肯花这个数买琴的还真不用推荐了，如果你是小白不推荐买这么贵的…</p>
 ]]></content>
       <tags>
         <tag>-器材党 -新手</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>奇葩的罗兰SH系列命名</title>
+    <url>/2021/02/25/%E5%A5%87%E8%91%A9%E7%9A%84%E7%BD%97%E5%85%B0SH%E7%B3%BB%E5%88%97%E5%91%BD%E5%90%8D/</url>
+    <content><![CDATA[<p><img src="https://i.loli.net/2021/02/25/T1F5ARQJxhVDnP9.png" alt="SH-101 logo.png"></p>
+<p>合成器这个词在日语里音译为シンセサイザー，罗马音写作Shinsesaizā，这就是罗兰SH合成器里“SH”的由来（看来雅马哈的SY是英语派系的）。SH系列不乏SH-101这样的名机，但是…对于众多玩家来说，SH系列的命名那叫一个奇葩，堪称合成器界的Xbox，看来是时候带大家捋一捋这奇葩的系列了。</p>
+<a id="more"></a>
+
+<h3 id="1973-SH-1000"><a href="#1973-SH-1000" class="headerlink" title="1973 SH-1000"></a><strong>1973 SH-1000</strong></h3><p><img src="https://i.loli.net/2021/02/25/7CjERY5Agboxdh1.jpg" alt="SH 1000.jpg"></p>
+<p>很好的开始，不是吗？从SH-1000到SH-9999一共可以出8999款产品呢！<del>妈妈再也不用担心我命名困难啦</del></p>
+<h3 id="1974-SH-2000"><a href="#1974-SH-2000" class="headerlink" title="1974 SH-2000"></a><strong>1974 SH-2000</strong></h3><p><img src="https://i.loli.net/2021/02/25/PSHIAExq2hY819Q.jpg" alt="roland-sh-2000-872.jpg"></p>
+<p>很标准的第二代命名，我相信没有人会被这种命名顺序弄糊涂。</p>
+<h3 id="1974-SH-3"><a href="#1974-SH-3" class="headerlink" title="1974 SH-3"></a><strong>1974 SH-3</strong></h3><p><img src="https://i.loli.net/2021/02/25/DqU42GrHd8FlNiS.jpg" alt="SH 3.jpg"></p>
+<p>等下，不是应该叫SH-3000吗？？你说名字太长了不好记？好吧，与时俱进嘛。</p>
+<h3 id="1974-SH-3a"><a href="#1974-SH-3a" class="headerlink" title="1974 SH-3a"></a><strong>1974 SH-3a</strong></h3><p><img src="https://i.loli.net/2021/02/25/Pb6YUVEzyNARXop.jpg" alt="SH 3a.jpeg"></p>
+<p>罗兰改了滤波器设计，名字后面加了个a，🉑️。</p>
+<h3 id="1975-SH-5"><a href="#1975-SH-5" class="headerlink" title="1975 SH-5"></a><strong>1975 SH-5</strong></h3><p><img src="https://i.loli.net/2021/02/25/fujEJB1Dq4k6phL.jpg" alt="SH-5.jpg"></p>
+<p>Wait，你们是不是漏了个叫SH-4的东西？</p>
+<h3 id="1978-SH-7"><a href="#1978-SH-7" class="headerlink" title="1978 SH-7"></a><strong>1978 SH-7</strong></h3><p><img src="https://i.loli.net/2021/02/25/aWAyZPliU8Igps2.jpg" alt="SH-7.jpeg"></p>
+<p>所以说罗兰想像英特尔那样采用3-5-7来标注产品线？行，再给你一次机会….</p>
+<h3 id="1978-SH-1"><a href="#1978-SH-1" class="headerlink" title="1978 SH-1"></a><strong>1978 SH-1</strong></h3><p><img src="https://i.loli.net/2021/02/25/XOzBH3n25eKJYbM.jpg" alt="SH-1.jpeg"></p>
+<p>好嘛，不知道该说什么了，这是要从头再来的节奏？早干啥去了？</p>
+<h3 id="1978-SH-09"><a href="#1978-SH-09" class="headerlink" title="1978 SH-09"></a><strong>1978 SH-09</strong></h3><p><img src="https://i.loli.net/2021/02/25/kY2q6jInAQwVfBm.jpg" alt="SH-09.jpeg"></p>
+<p>鉴定完毕，没有10年脑淤血想不出这个名字，下一个</p>
+<h3 id="1979-SH-2"><a href="#1979-SH-2" class="headerlink" title="1979 SH-2"></a><strong>1979 SH-2</strong></h3><p><img src="https://i.loli.net/2021/02/25/1nc9eOmv3NlZyG6.jpg" alt="roland-sh-2.jpg"></p>
+<p>好家伙，下一个是不是就该叫SH-4了？讲道理大部分人都会以为这货是SH系列的第二款。</p>
+<h3 id="1982-SH-101"><a href="#1982-SH-101" class="headerlink" title="1982 SH-101"></a><strong>1982 SH-101</strong></h3><p><img src="https://i.loli.net/2021/02/25/vVaTh7fZnbzXo6P.png" alt="SH-101.png"></p>
+<p>虽然各位应该挺熟悉这个名字的，但是我依然觉得罗兰的命名部出了点问题。如果说向波音学习？那下一款产品最好叫SH-202.</p>
+<h3 id="1983-2002-就这？？"><a href="#1983-2002-就这？？" class="headerlink" title="1983-2002 就这？？"></a><strong>1983-2002</strong> <strong>就这？？</strong></h3><hr>
+<p>没错，在这近20年里SH系列没有出过新产品，大部分人翻历史翻到这里大概会以为SH系列没了吧（就这命名混乱度，没了活该）</p>
+<h3 id="2002-SH-32"><a href="#2002-SH-32" class="headerlink" title="2002 SH-32"></a><strong>2002 SH-32</strong></h3><p><img src="https://i.loli.net/2021/02/25/vVaTh7fZnbzXo6P.png" alt="SH-101.png"></p>
+<p>鉴定完毕，没有30年脑淤血想不出这个名字，下一个</p>
+<h3 id="2006-SH-201"><a href="#2006-SH-201" class="headerlink" title="2006 SH-201"></a><strong>2006 SH-201</strong></h3><p><img src="https://i.loli.net/2021/02/25/oA6czIQb4rt52qg.jpg" alt="SH-201.jpg"></p>
+<p>不得不说我挺佩服做命名的人的，这是超时空产品线吗</p>
+<h3 id="2010-SH-01"><a href="#2010-SH-01" class="headerlink" title="2010 SH-01"></a><strong>2010 SH-01</strong></h3><p><img src="https://i.loli.net/2021/02/25/3cYtEmkxqN8u6sA.jpg" alt="sh-01.jpg"></p>
+<p>问题来了，它和SH-1、SH-101以及SH-09有什么关系？</p>
+<p>没有关系！这就是个简单的数字合成器！<strong>Surprise Motherfxxker！</strong></p>
+<h3 id="2017-SH-01a"><a href="#2017-SH-01a" class="headerlink" title="2017 SH-01a"></a><strong>2017 SH-01a</strong></h3><p><img src="https://i.loli.net/2021/02/25/KQZJXAsHM9pDEuO.jpg" alt="sh-01a_K25m.jpg"></p>
+<p>相信你也猜到了，这个SH-01a和SH-01同样没有任何关系，只是为了符合Boutique系列命名规则又为了避免重复才采取的名字，这是目前SH最新的产品。</p>
+<hr>
+<p>这次就写到这里了，希望SH系列好自为之，好好反思，不要再祸害人了哈哈哈哈哈。</p>
+<p>（灵感和部分资料来自于<a href="https://www.youtube.com/watch?v=XHUxR1S6r2s%EF%BC%89">https://www.youtube.com/watch?v=XHUxR1S6r2s）</a></p>
+]]></content>
+      <tags>
+        <tag>-器材党 -杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数字合成器VS模拟合成器</title>
+    <url>/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/</url>
+    <content><![CDATA[<p>　　合成器很难选择是怎么回事呢？合成器相信大家都很熟悉，但是合成器很难选择是怎么回事呢，下面就让小编带大家一起了解吧。<br>　　合成器很难选择，其实就是数字和模拟合成器各有优点，大家可能会很惊讶合成器怎么会很难选择呢？但事实就是这样，小编也感到非常惊讶。<br>　　这就是关于合成器很难选择的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p>
+]]></content>
+      <tags>
+        <tag>器材党</tag>
       </tags>
   </entry>
   <entry>
@@ -110,58 +211,6 @@
 ]]></content>
       <tags>
         <tag>-人物</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/02/06/hello-world/</url>
-    <content><![CDATA[<h1 id="命不久矣的Hello-world"><a href="#命不久矣的Hello-world" class="headerlink" title="命不久矣的Hello, world!"></a>命不久矣的Hello, world!</h1><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<a id="more"></a>
-
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<p><img src="https://rmt.dogedoge.com/fetch/~/source/unsplash/photo-1573066265159-37a92b483851?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Minimoog Model D</title>
-    <url>/2021/02/08/Minimoog-Model-D/</url>
-    <content><![CDATA[<h1 id="Minimoog-Model-D"><a href="#Minimoog-Model-D" class="headerlink" title="Minimoog Model D"></a>Minimoog Model D</h1><h2 id="一个产品"><a href="#一个产品" class="headerlink" title="一个产品"></a>一个产品</h2><h2 id="一种声音"><a href="#一种声音" class="headerlink" title="一种声音"></a>一种声音</h2><h2 id="一个时代"><a href="#一个时代" class="headerlink" title="一个时代"></a>一个时代</h2><p><img src="https://i.loli.net/2021/02/12/3dAoIleW9j4HxDt.jpg"></p>
-<p><img src="https://i.loli.net/2021/02/12/Ah2yUpXk7CFqsut.jpg"></p>
-<p><strong>生存年份</strong>：1970-1981</p>
-<p>​                    2016-2017（复刻）</p>
-<p><strong>产量</strong>：约13000台</p>
-<p><strong>发售价格</strong>：约$1500（1970）、$3749（2016）</p>
-<p><strong>类型</strong>：减法模拟合成器</p>
-<p><strong>架构</strong>：3VCO(VCO3可运行在低频率模式), 噪声发生器(白/粉), 1VCF(Ladder, 24dB/OCT), 2ENV(ADS)</p>
-<p><strong>接口</strong>: 音量、滤波器、振荡器、外置调制源控制输入(CV)、音频输入(兼作V-Trig)</p>
-<p>​          V-Trig输出、音高调制输出</p>
-<p>复刻版新增：MIDI IN/THRU/OUT、力度输出、触后输出</p>
-<p><img src="https://i.loli.net/2021/02/11/1tDKxe8NVoZ7U6v.jpg"></p>
-<p><img src="https://i.loli.net/2021/02/11/TlAML8QEUwdmfur.jpg"></p>
-<p>​         </p>
-<p><img src="https://i.loli.net/2021/02/11/leamRhyXYCKIJTb.jpg"></p>
-<p>硬件复刻: Minimax ASB(DSP)、Roland SE-02(Analog)、Behringer Model D(Analog)</p>
-<p>软件复刻: Diva、Legend、Freemoog、Mini V、Monark、Mini beasts、Minimonsta、SampleMoog、Model•E、Model 72等</p>
-<hr>
-]]></content>
-      <tags>
-        <tag>-云收藏 -器材党</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数字合成器VS模拟合成器</title>
-    <url>/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/</url>
-    <content><![CDATA[<p>　　合成器很难选择是怎么回事呢？合成器相信大家都很熟悉，但是合成器很难选择是怎么回事呢，下面就让小编带大家一起了解吧。<br>　　合成器很难选择，其实就是数字和模拟合成器各有优点，大家可能会很惊讶合成器怎么会很难选择呢？但事实就是这样，小编也感到非常惊讶。<br>　　这就是关于合成器很难选择的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p>
-]]></content>
-      <tags>
-        <tag>器材党</tag>
       </tags>
   </entry>
   <entry>
