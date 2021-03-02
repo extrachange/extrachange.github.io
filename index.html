@@ -62,6 +62,89 @@
     <h1 class="page-type-title"></h1>
     
     
+    <article id="post-合成器有哪几种？" class="article article-type-post" itemscope
+  itemprop="blogPost" data-scroll-reveal>
+
+  <div class="article-inner">
+    
+    <header class="article-header">
+      
+
+<h2 itemprop="name">
+  <a class="article-title" href="/2021/02/25/%E5%90%88%E6%88%90%E5%99%A8%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%EF%BC%9F/">合成器有哪几种？</a>
+</h2>
+
+
+
+    </header>
+    
+
+    
+    <div class="article-meta">
+      <a href="/2021/02/25/%E5%90%88%E6%88%90%E5%99%A8%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%EF%BC%9F/" class="article-date">
+  <time datetime="2021-02-25T08:50:37.000Z" itemprop="datePublished">2021-02-25</time>
+</a>
+      
+    </div>
+    
+
+    
+
+    <div class="article-entry" itemprop="articleBody">
+      
+      
+      
+      <p>工欲善其事，必先利其器，合成器进化了这么多年分类很多，很多人上来问选那种？模拟还是数字好？为什么模拟这么贵？今天就来扒一扒合成器的底。</p>
+<h2 id="合成器族谱图"><a href="#合成器族谱图" class="headerlink" title="合成器族谱图"></a>合成器族谱图</h2><p><img src="/images/%E5%90%88%E6%88%90%E5%99%A8%E5%88%86%E7%B1%BB%E6%A0%91%E7%8A%B6%E5%9B%BE.jpg" alt="合成器分类树状图"></p>
+<p>图上就是当今合成器的大体分类，这是一个比较常见的分类标准，即以模拟/数字为根本差异</p>
+<p>模拟和数字的区别是什么？很简单，模拟合成器依靠电路产生电子信号，经过一系列处理达成最终的声音，再通过放大器放大到线路水平，也就是声音信号。你在面板上看到的振荡器、滤波器等等都是真实存在的，也就是说，你可以在电路板上找到对应的部件。</p>
+<p>而数字合成器其实就是一个小电脑，只不过运行的是合成声音的程序。通过代码计算出每一个部件输出的声音数据，得到最终结果后，将数值转化为电信号输出。也就是说，信号链路种是否经过经过数字处理是判断其类型的关键。有的模拟合成器采用了数字生成的包络和LFO，但是它们并不会变成你听到的声音，所以这不影响其模拟合成器的属性。如果一台合成器内部既有模拟信号又有数字信号,那它就是混合合成器啦。</p>
+<p><strong>举几个典型的例子</strong></p>
+<p><strong>纯模拟合成器：</strong>Minimoog Model D、Moog Grandmother</p>
+<p><strong>数控模拟合成器：</strong>Juno-106、Sequential Prophet 6</p>
+<p><strong>混合合成器：</strong>Roland TR-909、Arturia Microfreak</p>
+<p><strong>数字合成器：</strong>Korg Microkorg、ASM Hydrasynth</p>
+<h2 id="先从比较简单的模拟合成器开始"><a href="#先从比较简单的模拟合成器开始" class="headerlink" title="先从比较简单的模拟合成器开始"></a>先从比较简单的模拟合成器开始</h2><p>现在的模拟合成器大多属于减法合成器，意味着你会有一个产生丰富谐波的振荡器，然后用一个滤波器减去一些频率来得到你的音色，因为是在做减法，所以叫减法合成器。</p>
+<p>让我们先从模块合成器开始，所谓模块合成器意思就是，产生声音的各个组件是独立作为一个模块存在的，比如说振荡器和滤波器都是一个个单独可移除的组件，想要得到声音除了调整各种参数以外还要手动把这些模块连接起来，就像下面这样：</p>
+<p><img src="/images/Modular-Synth-4685499.jpg" alt="Modular-Synth"></p>
+<p>这其实就是合成器最早的形式，因为那时没人知道一个合成器应该有哪些功能作为标准，所以让用户自行决定，一方面有自由度，另一方面可以减少不必要的组件，减少用户成本。</p>
+<p>一开始各家的模块合成器都是有自己的一套标准的，不过随着各公司转向数字化的潮流，模块合成器界只剩下Eurorack这一活跃的标准，现在你见到的模块合成器基本都是Eurorack标准的（Bulcha除外）。</p>
+<p><img src="/images/Eurorack-HP-Size-4686480.jpg" alt="Eurorack-HP-Size"></p>
+<p>模块合成器的特点是拓展性强，自由度高，缺点很明显：不能存储预设，调节音色可能很烦人，<strong>价格十分昂贵</strong>。</p>
+<p>那半模块合成器又是怎么回事呢？厂商们发现大部分用户都只会用几种相同的模块，并且大部分人都是按照VCO-VCF-AMP来连接的，LFO大多用于颤音，包络也往往是一个调制放大器一个调制滤波器。于是有人灵机一动，把这些部分预先连接好不就行了？于是，半模块合成器诞生了。其实半模块说白了就是预先接好线的模块合成器，当需要手动接线时，就自动断开遇预先的连线，这为使用带来了极大的方便，因为当你不需要复杂的调制时，无需连线就可以得到大部分有用的声音。当然，限制也很明显，由于预先连线的存在，每个模块都是不可拆卸的了，意味着半模块合成器一买就是一整台，不过价格也相对的低了许多，因而很适合入门使用。典型产品：ARP 2600、Korg MS-20、Moog Mother-32。</p>
+<p>也许你注意到了，上面的图中，模块合成器还被划分到了混合合成器一栏，因为现代的模块很多都是数字的，像振荡器、LFO等组件在数字的加持下可以获得广阔的声音可能性，不过由于要装在Eurorack里，依然是以模拟信号的方式与其他模块沟通的，所以算作是混合合成器，半模块合成器目前还没有这样的产品。</p>
+<p>![Arp 2600](/images/Arp 2600.png)</p>
+<p>标准模拟合成器就是最常见的那种，一切功能都在面板上，并且基本没有拓展的余地。一般认为是Minimoog开的头：把最常用的组件按照最常用的连接方式连接，然后打包在一起就是一台“标准“的模拟合成器。实际上，ARP Odyssey就是ARP 2600的标准化版，它基本上可以看作是去掉了接线能力的2600，却仍然保持了强劲的声音——这已经够用了。”标准“的好处就在于简单快速，调节音色无比简单，并且还可以使用预设，成本也大大降低。</p>
+<p><img src="/images/korg-minilogue.jpg" alt="korg-minilogue"></p>
+<h2 id="另类的加法合成器"><a href="#另类的加法合成器" class="headerlink" title="另类的加法合成器"></a>另类的加法合成器</h2><p>加法合成对很多人来说是一个很陌生的概念，因为根本就没有多少加法合成器，但是加法合成实际上有着很重要的意义，这是合成器最早的实现方式之一。与减法合成器相对，加法合成器的原理是叠加一系列的正弦波（或其它波形）来产生最终的声音，因为任何一个声波都可以分解成各种频段的正弦波叠加而成，所以加法合成器理论上可以合成任何声音。</p>
+<p>听起来很美好，但是实际上会遇到很大的问题。一方面我们不可能拥有无限个正弦波叠加，所以声音的塑造是有限制的，另一方面，我们听到的声音波形是在不断变化的，而单纯的加法只能产生不变的波形，并不好听。还有一点，用好加法合成器很难，可能比FM还难一点。这些都导致了加法合成器没能成为当今主流。</p>
+<p>哈蒙德的经典风琴就是一种加法合成器，通过一个机械旋转结构来产生声音，不过叠加的谐波次数相当有限，需要很多效果器来丰富它的音色。不过对于电子风琴来说，已经相当够用了。</p>
+<p>加法合成需要很多振荡器，所以用模拟电路来实现是比较困难的，罗兰SH-3可以看作是一种加法合成，不过叠加的是诸如锯齿波、方波这样的波形，所以并不是严格的加法合成器。第一个取得成功的加法合成器是Synclavier II，它是一台数字合成器，还搭载了FM与采样技术，作为一款8位芯片驱动的数字合成器有着难以想象的温暖声音，加法合成是其亮点之一，MJ的Beat it开头的合成器音色就是用Synclavier II制作的。</p>
+<p>![Synclavier II](/images/Synclavier II.jpeg)</p>
+<p>之后也有许多的硬件加法合成器，例如Kawai的K5000S， Casio SK-1。</p>
+<p>到了现在，你可以用软件来进行非常强大的加法合成，不过由于难度用的人依然很少orz，Ableton Live中的Operator合成器就自带了一个简单的加法合成功能，Alchemy也是一款强大的合成器，带有加法合成功能，如果你想了解加法合成不妨试一下。</p>
+<p>![截屏2021-03-02 下午8.48.42](/images/截屏2021-03-02 下午8.48.42.png)</p>
+<h2 id="多彩的数字世界"><a href="#多彩的数字世界" class="headerlink" title="多彩的数字世界"></a>多彩的数字世界</h2><p>不知道你有没有为家里的模拟电视升级到数字电视而激动过，至少在80年代的合成器领域里，各厂商都在为迎接数字时代摩拳擦掌，软件的超高自由度和不断变强的微处理器都展现了数字合成器的诱人图景。到了90年代，几乎所有的主流合成器厂商都将重心放在了数字技术上。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://synthfever.gitee.io/2021/02/25/%E5%90%88%E6%88%90%E5%99%A8%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%EF%BC%9F/" data-id="ckls0n6bh0005an3z5b3k42zc" class="article-share-link">
+        分享
+      </a>
+      
+<ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%96%B0%E6%89%8B-%E7%A7%91%E6%99%AE/" rel="tag">-新手 -科普</a></li></ul>
+
+    </footer>
+
+  </div>
+
+  
+
+  
+
+</article>
+    
     <article id="post-炒冷饭-罗兰合成器纪录片" class="article article-type-post" itemscope
   itemprop="blogPost" data-scroll-reveal>
 
@@ -96,13 +179,14 @@
       
       <p>这是我看到的第一个高质量的合成器纪录片，不仅介绍了罗兰具有代表性的产品，还为提到的产品做了Demo，搭配轻松的解说口吻，看完第一遍我就有为其制作字幕的年头。无奈人生苦短，整整花了一年多才完工（中间咕了大半年）。好在终于是做出来了，非常推荐那些对合成器历史感兴趣的人看一看。</p>
 <p>这篇文章就是单纯的捞一捞～</p>
+<p><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV17k4y1y7T5">https://www.bilibili.com/video/BV17k4y1y7T5</a></p>
 <iframe src="//player.bilibili.com/player.html?aid=754502763&bvid=BV17k4y1y7T5&cid=264197222&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://synthfever.gitee.io/2021/02/25/%E7%82%92%E5%86%B7%E9%A5%AD-%E7%BD%97%E5%85%B0%E5%90%88%E6%88%90%E5%99%A8%E7%BA%AA%E5%BD%95%E7%89%87/" data-id="cklkdv51i0009a5696iyo9fvs" class="article-share-link">
+      <a data-url="https://synthfever.gitee.io/2021/02/25/%E7%82%92%E5%86%B7%E9%A5%AD-%E7%BD%97%E5%85%B0%E5%90%88%E6%88%90%E5%99%A8%E7%BA%AA%E5%BD%95%E7%89%87/" data-id="ckls0n6bl000ban3zfgo0a9ap" class="article-share-link">
         分享
       </a>
       
@@ -160,7 +244,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://synthfever.gitee.io/2021/02/25/%E5%A5%87%E8%91%A9%E7%9A%84%E7%BD%97%E5%85%B0SH%E7%B3%BB%E5%88%97%E5%91%BD%E5%90%8D/" data-id="cklkdv51e0005a569gm125qvf" class="article-share-link">
+      <a data-url="https://synthfever.gitee.io/2021/02/25/%E5%A5%87%E8%91%A9%E7%9A%84%E7%BD%97%E5%85%B0SH%E7%B3%BB%E5%88%97%E5%91%BD%E5%90%8D/" data-id="ckls0n6bi0008an3zh90c54kz" class="article-share-link">
         分享
       </a>
       
@@ -219,7 +303,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://synthfever.gitee.io/2021/02/19/%E4%B8%8D%E5%90%8C%E4%BB%B7%E4%BD%8D%E7%9A%84%E5%90%88%E6%88%90%E5%99%A8%E6%8E%A8%E8%8D%90/" data-id="cklkdv51d0004a5699eqk73bp" class="article-share-link">
+      <a data-url="https://synthfever.gitee.io/2021/02/19/%E4%B8%8D%E5%90%8C%E4%BB%B7%E4%BD%8D%E7%9A%84%E5%90%88%E6%88%90%E5%99%A8%E6%8E%A8%E8%8D%90/" data-id="ckls0n6bh0004an3z6sw6hcd4" class="article-share-link">
         分享
       </a>
       
@@ -279,7 +363,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://synthfever.gitee.io/2021/02/08/Robert-Moog/" data-id="cklkdv5190001a56920iidx1p" class="article-share-link">
+      <a data-url="https://synthfever.gitee.io/2021/02/08/Robert-Moog/" data-id="ckls0n6bc0001an3zdclf4jxi" class="article-share-link">
         分享
       </a>
       
@@ -349,7 +433,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://synthfever.gitee.io/2021/02/08/Minimoog-Model-D/" data-id="cklkdv5150000a5699atb8o78" class="article-share-link">
+      <a data-url="https://synthfever.gitee.io/2021/02/08/Minimoog-Model-D/" data-id="ckls0n6b60000an3z2scm27ak" class="article-share-link">
         分享
       </a>
       
@@ -406,7 +490,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://synthfever.gitee.io/2021/02/08/%E5%8D%95%E9%9F%B3%E4%BA%94%E6%9D%B0/" data-id="cklkdv51s000ja5696omhe20d" class="article-share-link">
+      <a data-url="https://synthfever.gitee.io/2021/02/08/%E5%8D%95%E9%9F%B3%E4%BA%94%E6%9D%B0/" data-id="ckls0n6bo000man3z48dj1g09" class="article-share-link">
         分享
       </a>
       
@@ -459,7 +543,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://synthfever.gitee.io/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/" data-id="cklkdv51g0008a569csz1961s" class="article-share-link">
+      <a data-url="https://synthfever.gitee.io/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/" data-id="ckls0n6bj0009an3z1wrl1zr6" class="article-share-link">
         分享
       </a>
       
@@ -520,7 +604,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://synthfever.gitee.io/2021/02/06/hello-world/" data-id="cklkdv51c0003a569d9io45u0" class="article-share-link">
+      <a data-url="https://synthfever.gitee.io/2021/02/06/hello-world/" data-id="ckls0n6bg0003an3z2mix4q86" class="article-share-link">
         分享
       </a>
       
