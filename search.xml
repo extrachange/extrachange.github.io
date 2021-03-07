@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2021/02/06/hello-world/</url>
+    <content><![CDATA[<h1 id="命不久矣的Hello-world"><a href="#命不久矣的Hello-world" class="headerlink" title="命不久矣的Hello, world!"></a>命不久矣的Hello, world!</h1><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<a id="more"></a>
+
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p><img src="https://rmt.dogedoge.com/fetch/~/source/unsplash/photo-1573066265159-37a92b483851?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Minimoog Model D</title>
     <url>/2021/02/08/Minimoog-Model-D/</url>
     <content><![CDATA[<h1 id="Minimoog-Model-D"><a href="#Minimoog-Model-D" class="headerlink" title="Minimoog Model D"></a>Minimoog Model D</h1><h2 id="一个产品"><a href="#一个产品" class="headerlink" title="一个产品"></a>一个产品</h2><h2 id="一种声音"><a href="#一种声音" class="headerlink" title="一种声音"></a>一种声音</h2><h2 id="一个时代"><a href="#一个时代" class="headerlink" title="一个时代"></a>一个时代</h2><p><img src="https://i.loli.net/2021/02/12/3dAoIleW9j4HxDt.jpg"></p>
@@ -73,39 +90,29 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/02/06/hello-world/</url>
-    <content><![CDATA[<h1 id="命不久矣的Hello-world"><a href="#命不久矣的Hello-world" class="headerlink" title="命不久矣的Hello, world!"></a>命不久矣的Hello, world!</h1><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<a id="more"></a>
-
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<p><img src="https://rmt.dogedoge.com/fetch/~/source/unsplash/photo-1573066265159-37a92b483851?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></p>
+    <title>test</title>
+    <url>/2021/03/07/test/</url>
+    <content><![CDATA[<h1 id="这是一个一级标题"><a href="#这是一个一级标题" class="headerlink" title="这是一个一级标题"></a>这是一个一级标题</h1><h2 id="这是一个二级标题"><a href="#这是一个二级标题" class="headerlink" title="这是一个二级标题"></a>这是一个二级标题</h2><h2 id="这是一个二级标题-2"><a href="#这是一个二级标题-2" class="headerlink" title="这是一个二级标题_2"></a>这是一个二级标题_2</h2><p><strong>加粗</strong></p>
+<p><img src="https://pic2.zhimg.com/v2-fd77432865bded8b5cf56e08500094fb_1440w.jpg?source=172ae18b"></p>
 ]]></content>
   </entry>
   <entry>
     <title>人见人爱的Juno</title>
     <url>/2021/03/06/%E4%BA%BA%E8%A7%81%E4%BA%BA%E7%88%B1%E7%9A%84Juno/</url>
-    <content><![CDATA[<h1 id="带领孩子看到光明的神祇"><a href="#带领孩子看到光明的神祇" class="headerlink" title="带领孩子看到光明的神祇"></a>带领孩子看到光明的神祇</h1><p>也许罗兰的Juno就是这么的温柔吧，当第一次听到Juno-106时，我便被迷住了，我第一次意识到合成器还能如此般的珠圆玉润，清澈通透，当时的我，就像看到了光明的孩子…</p>
+    <content><![CDATA[<h3 id="带领孩子看到光明的神祇"><a href="#带领孩子看到光明的神祇" class="headerlink" title="带领孩子看到光明的神祇"></a>带领孩子看到光明的神祇</h3><p>也许罗兰的Juno就是这么的温柔吧，当第一次听到Juno-106时，我便被迷住了，我第一次意识到合成器还能如此般的珠圆玉润，清澈通透，当时的我，就像看到了光明的孩子…</p>
 <p><img src="/images/Juno-60.png" alt="Juno-60"></p>
 <p>当然，这里说的是Juno-6、Juno-60以及Juno-106这三个姐妹，Juno1和Juno2两个一直都生活在她们的阴影下，也没有获得这样的地位，只能说谋事在人，成事在天啦哈哈哈。</p>
 <p>如果说Jupiter系列是外强中干的阳刚之气，那Juno就是含蓄内敛的冰心玉壶，也和名字里的含义一样。</p>
-<p>Juno实际上是罗兰当时最底端的复音产品，目的也是打造一款廉价的复音合成器，这一点从各方面都看得出来，单振荡器，两个滤波器，单包络、单LFO无疑是最低配，但是Juno却有着扭转乾坤的一大神器——合唱。虽然这个合唱没有可以调整的参数，但是却有着最为丰厚的声音，同时其立体声效果也是一大亮点，这是罗兰在效果器的路上一步一步走过来的。只要打开合唱，整个声音马上就变的宽广饱满了，有效的弥补了单DCO声音单薄的缺点，这也是“Juno不开合唱不能用”吐槽的由来。</p>
+<p>Juno实际上是罗兰当时最底端的复音产品，目的也是打造一款廉价的复音合成器，这一点从各方面都看得出来，单振荡器，两个滤波器，单包络、单LFO无疑是最低配，但是Juno却有着扭转乾坤的一大神器——合唱。虽然这个合唱没有可以调整的参数，但是却有着最为丰厚的声音，同时其立体声效果也是一大亮点，这是罗兰在效果器的路上一步一步走过来的。只要打开合唱，整个声音马上就变的宽广饱满了，有效的弥补了单DCO声音单薄的缺点，这也是“<u>Juno不开合唱不能用</u>”吐槽的由来。</p>
 <p>Juno-6是最早的型号，有着一个琶音器和DCB连接，Juno60加入了预设功能，有64个槽位，而106去掉了琶音器，加入了MIDI、以及128个预设槽位。Juno-106微改了电路设计，听起来更现代，更清澈一点，而Juno-6则更有Analogue的风味，更适合做Bass。目前来看，Juno6的价格最低，106其次，60最高，都是收藏家的宠儿。</p>
 <p>Juno-6的滤波器和Jupiter-6、JX-3P是同款，高共鸣时的声音澄澈透明，和Korg MS-20形成了鲜明的对比。并且罗兰使了一个小技巧，滤波器的频率会和键盘按键的频率对其，这样开高共鸣时，共鸣的声音不会与振荡器的声音打架，结合滤波器本身的特性以及独特的合唱，可以制作出以假乱真的Organ音色。</p>
-<p>Juno的颜值也真的很棒，一看就是80年代的风格，配色丰富，在这一点上，Alpha Juno就毫无可比性了。Juno另外一个成功要素就是简单的操作界面，罗兰用有限的参数将你限制在设计好的甜蜜点(Sweet Spot)里，随便调调就能得到好听的音色，面对如此少的推子，想调节什么音色都信手拈来。这一点上JX-3P就吃了大亏，明明规格高于Juno，却因为编辑界面不行混的比Juno还差。</p>
-<p>罗兰以Boutique的形式复刻了Juno，将经典音色装进了小巧的机身中，不过只有4复音+操作捉急，并没有如想象中一样卖爆。如果你想体验Juno的魅力，可以试试TAL的U-NO-LX插件。</p>
+<p>Juno的颜值也真的很棒，一看就是80年代的风格，配色丰富，在这一点上，Alpha Juno就毫无可比性了。Juno另外一个成功要素就是简单的操作界面，罗兰用有限的参数将你限制在设计好的甜蜜点(Sweet Spot)里，随便调调就能得到好听的音色，面对如此少的推子，想调节什么音色都信手拈来。这一点上JX-3P就吃了大亏，明明规格高于Juno，却因为编辑界面不行混的不如它。</p>
+<p>罗兰以Boutique的形式复刻了Juno，将经典音色装进了小巧的机身中，不过只有4复音+操作捉急，并没有如想象中一样卖爆。如果你想体验Juno的魅力，可以试试TAL的U-NO-LX插件，TAL还出了免费的Juno合唱模拟，同样十分实用。</p>
 <p>如果我要去购买第一台古董琴，那它很可能是Juno，不仅有着处处可用的音色（实际上，我几乎每首歌都会用到Juno插件），还有着永不跑调的防弹级音准，凭借颜值，就算是摆在家里也是一处风景，怎能让人不爱？</p>
 <p><img src="https://i.loli.net/2021/03/06/lqYcJbCUiFBf431.jpg"></p>
 ]]></content>
       <tags>
-        <tag>-器材党 -杂谈</tag>
+        <tag>-器材党 -杂谈 -罗兰</tag>
       </tags>
   </entry>
   <entry>
@@ -167,7 +174,7 @@
     <title>奇葩的罗兰SH系列命名</title>
     <url>/2021/02/25/%E5%A5%87%E8%91%A9%E7%9A%84%E7%BD%97%E5%85%B0SH%E7%B3%BB%E5%88%97%E5%91%BD%E5%90%8D/</url>
     <content><![CDATA[<p><img src="https://i.loli.net/2021/02/25/T1F5ARQJxhVDnP9.png" alt="SH-101 logo.png"></p>
-<p>合成器这个词在日语里音译为シンセサイザー，罗马音写作Shinsesaizā，这就是罗兰SH合成器里“SH”的由来（看来雅马哈的SY是英语派系的）。SH系列不乏SH-101这样的名机，但是…对于众多玩家来说，SH系列的命名那叫一个奇葩，堪称合成器界的Xbox，看来是时候带大家捋一捋这奇葩的系列了。</p>
+<p>合成器这个词在日语里音译为シンセサイザー，罗马音写作Shinsesaizā，这就是罗兰SH合成器里“SH”的由来（看来雅马哈的SY是英语派系的）。SH系列不乏SH-101这样的名机，但是…对于众多玩家来说，SH系列的命名那叫一个奇葩，堪称合成器界的Xbox，看来有必要带大家捋一捋这奇葩的系列了。</p>
 <a id="more"></a>
 
 <h3 id="1973-SH-1000"><a href="#1973-SH-1000" class="headerlink" title="1973 SH-1000"></a><strong>1973 SH-1000</strong></h3><p><img src="https://i.loli.net/2021/02/25/7CjERY5Agboxdh1.jpg" alt="SH 1000.jpg"></p>
@@ -206,7 +213,7 @@
 <p>（灵感和部分资料来自于<a href="https://www.youtube.com/watch?v=XHUxR1S6r2s%EF%BC%89">https://www.youtube.com/watch?v=XHUxR1S6r2s）</a></p>
 ]]></content>
       <tags>
-        <tag>-器材党 -杂谈</tag>
+        <tag>-器材党 -杂谈 罗兰</tag>
       </tags>
   </entry>
   <entry>
