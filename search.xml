@@ -1,21 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/02/06/hello-world/</url>
-    <content><![CDATA[<h1 id="命不久矣的Hello-world"><a href="#命不久矣的Hello-world" class="headerlink" title="命不久矣的Hello, world!"></a>命不久矣的Hello, world!</h1><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<a id="more"></a>
-
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<p><img src="https://rmt.dogedoge.com/fetch/~/source/unsplash/photo-1573066265159-37a92b483851?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></p>
+    <title>20个合成器名词</title>
+    <url>/2021/04/09/20%E4%B8%AA%E5%90%88%E6%88%90%E5%99%A8%E5%90%8D%E8%AF%8D/</url>
+    <content><![CDATA[<h1 id="玩好合成器必懂的20个名词"><a href="#玩好合成器必懂的20个名词" class="headerlink" title="玩好合成器必懂的20个名词"></a>玩好合成器必懂的20个名词</h1><p><img src="/images/DX7.jpeg" alt="DX7"></p>
+<p><strong>1.VCO (Voltage Controlled Oscillator) 压控振荡器</strong></p>
+<p>压控振荡器，也就是用电压控制音高的振荡器，依靠振荡电路产生波形信号。VCO是最早的振荡器形式之一，出现在了几乎所有的模拟合成器中。</p>
+<p><strong>2.DCO (Digital Controlled Oscillator) 数控振荡器</strong></p>
+<p>数控振荡器，使用数字时钟电路来控制音高，可以保证音高的绝对稳定（这是VCO的一大难点），不过由于原理限制，难以实现FM调制和AM调制，首次出现在Roland Juno-6上，在之后的Korg Poly 800、Prophet Rev2等产品上都有它的身影。</p>
+<p><strong>3.Mixer 混音器</strong></p>
+<p>混音器，一般出现在振荡器和滤波器之间，用于混合多个振荡器和信号源，并调整它们的音量。信号源一般包含振荡器、噪声源、环形调制。有些合成器的Mixer可以被过载，产生谐波失真(Harmonic Distortion)，从而得到非常饱满的声音，这一点在Minimoog和同时代的许多产品上都有体现。</p>
+<p><strong>4.Filter 滤波器</strong></p>
+<p>滤波器，用于将声音信号的高频或低频部分滤除的电路。滤波器当初并未为合成器而设计，但却在合成器上找到了一片天地。合成器滤波器独特的地方在于，其并不追求声音过滤能力，弱反馈或者对声音的影响，唯一的考量是声音品质。滤波器是减法合成器的心脏，也是“减法”一词的由来。不同的滤波器有着自己的声音特点，带来了丰富的声音。常见的滤波器有低通(Low pass)滤波器、高通(High pass)滤波器、带通(Band pass)滤波器、陷波(Notch)滤波器、梳状(Comb)滤波器。生活中也有物理的滤波器，例如当隔着一扇门听音乐时，声音很闷，就是因为声音的高频部分被吸收了，这就是一种低通滤波器。</p>
+<p><strong>5.Cutoff 截止频率</strong></p>
+<p>截止频率，这是滤波器上的参数，表示滤波器开始发挥作用的频率，即高于/低于某个频率的声音会被滤除，对于带通、陷波滤波器则是保留/滤除某个频率附近的声音。</p>
+<p><img src="/images/VCF-Cutoff.jpeg" alt="VCF-Cutoff"></p>
+<p><strong>6.Resonance 共鸣</strong></p>
+<p>共鸣，也是滤波器的参数。滤波器通过将输出的信号送回滤波器来强调某一个频率的声音，这个参数有着不同的名称，MiniMoog上叫做Emphasis，MS-20上叫做Peak。当共鸣高于100%时，滤波器可以自激震荡，会在无信号输入（实际上是模拟电路中的噪音）时产生一个截止频率的正弦波，配合适当的调制，常被用于制作Kick音色，以及一些效果音。</p>
+<p><strong>7.Envenlope 包络</strong></p>
+<p>包络，合成器中最重要的一个调制源。其能产生一个随时间阶段性变化的调制值（调制：合成器中各组件在参数上的相互影响成为调制），用来营造各种动态变化效果。常见的Envenlope是ADSR型，有着4个参数：Attack（起音时间），Decay（衰减时间），Sustain（保持音量），Release（释放时间），其中Sustain是唯一一个与时间无关的参数。举个例子，Pluck音色需要接近0的Attack来达到快速的反应，之后接一个较为快速【的Decay以及为零的Sustain来模拟声音快速消去的效果，Release一般和Decay相等，这样就算短按一下琴键，也能得到和长按同等长度的声音。如果是Ambient风格的长音，那就需要非常长的Attack时间。</p>
+<p><img src="/images/ADSR-Env.jpeg" alt="ADSR-Env"></p>
+<p>包络可以调制各种参数，例如进行振荡器同步时，用包络调制振荡器2就可以得到经典的Sync音色。经典的模拟合成器有两个包络，一个调制AMP，另一个调制滤波器。</p>
+<p><strong>8.LFO 低频振荡器</strong></p>
+<p>全称Low Frequency Oscillator。曾经用来指代频率低于20Hz的振荡器。由于其处于次声波频率，所以自然不是用作声音源，而是用来进行调制。例如，用2Hz左右的LFO进行音高调制，就可以达到颤音的效果，用LFO调制脉冲宽度，就可以得到丰满的PWM声音。不过现在的LFO早已突破次声波的领域，现在已经轻轻松松地达到了1kHz以上。由于调制速度非常快，这已经达到了FM的领域，产生的声音相当有金属感。现在还有一种步进LFO，其实本质上就是一个音序器，但是其不会触发音符，而是产生不同的调制值。</p>
+<p><strong>9.AMP 放大器</strong></p>
+<p>Amplifier。这个很好理解，模拟合成器中的振荡器、滤波器都是真实存在的电路，而音频在其中的存在形式自然就是电信号。从实用的角度出发，电路中的电流是非常弱的，很明显你不能将其直接接到输出（这么做还会产生外部回路致使什么声音都发不出来），所以就需要一个放大器将电信号放大到线路水平（Line Level），并起到内外信号的隔离作用。通过调制AMP，就可以得到音量的动态变化。</p>
+<p><strong>10.FM 频率调制</strong></p>
+<p>Frequency Modulation。既是一种调制手段，也是一种合成原理。</p>
+<p>在调制手段中，我们将调制对象为频率（振荡器频率、滤波器频率等）的这种调制称为FM调制。不过这是广义上的描述，为了更精确地描述，我们一般把调制源为音频频率的信号的调制称为FM调制。例如，用振荡器1的音高调制振荡器2的音高，这就是一种FM调制。此举在模拟合成器中可以得到富有金属感、失真感的声音。</p>
+<p>而FM也是一种合成原理，大名鼎鼎的DX7就是一台FM合成器，不像模拟合成器，DX7有6个正弦波振荡器，它们互相进行FM调制，叠加得到独特的声音。其没有滤波器，而控制音量的AMP参数也集成在了每个振荡器内部，著名的DX7 Bell就是利用了FM做出的。FM十分擅长合成敲击声（例如马林巴琴）、还有击弦乐器的声音，同时也是音效合成中必不可少的部分。</p>
+<p><img src="/images/FM.png" alt="FM"></p>
+<p>几乎所有的FM合成器都是数字合成器，因为FM合成中的FM调制对振荡器音高的稳定程度要求非常高，并且为了音色一致，振荡器的起始相位也是一致的，这是模拟合成器做不到的，所以虽然模拟合成器中也有FM功能，产生的声音却大相径庭。</p>
+<p><strong>11.Operator</strong></p>
+<p>Operator是FM中的振荡器，是为了与模拟合成器区分开来而取的名字。由于FM是一个振荡器的输出用来调制另一个振荡器的音高，所以总会有一个被调制着和调制源，我们将被调制的振荡器称为<strong>Modulator</strong>，而被调制的振荡器称为<strong>Carrier</strong>。一个典型的Operator有以下参数：Coarse、Tune、Fine、Level、Envenlope。Coarse是大体的音高调整，不过与模拟合成器上的4’ 8’ 16’的八度关系不太一样，Coarse调整的是相对于基础频率的倍数，假如你谈的是标准A，那么Coarse为1时，就是440Hz，Coarse为2时是880Hz，当Coarse为3时，就是1320Hz了。</p>
+<p>Tune和Fine的含义与其在模拟合成器中的意义是一样的，是对音高进行半音和微小量的调整。</p>
+<p>Level是个很重要的参数，当一个振荡器不调制别的振荡器调制时（也就是作为声音输出时），Level就意味着音量。但当这个振荡器正在调制别的东西时，它的输出音量就是调制的深度Depth（换句话说，就是参数的改变量），对Level的各种调制构成了FM合成的关键一环。</p>
+<p><strong>12.Feedback 反馈</strong></p>
+<p>这也是一个多重含义的词语，在带有外部输入功能的模拟合成器中，你可以将辅助输出（例如耳机）接到音频输入中，这种将输出返回到输入的接线方法就叫Feedback。模拟合成器的过载非常独特，因为模拟电路的混音器通常会以一种悦耳的方式产生过载失真。Minimoog上就可以运用这个技巧，得到非常非常厚重的低频。</p>
+<p>另外一种Feedback是FM合成器上的。一个Operator在没有被调制的情况下可以自己对自己进行FM调制，这就是FM上的Feedback。使用Feedback可以轻松创建出带有复杂谐波的波形，丰富了FM的声音范围，调制Feedback也是FM的一个技巧。</p>
+<p><strong>13.Sync 振荡器同步</strong></p>
+<p>这是模拟合成器中非常基础和常见的一个功能，当你有两个振荡器时，你可以让一个振荡器与另一个振荡器同步，也就是振荡器1和2先自由运行，等到振荡器1完成一个周期以后，将振荡器2归零，再与振荡器1同步开始。</p>
+<p><img src="/images/sync.png" alt="sync"></p>
+<p>如此以来便可以使振荡器2始终拥有与振荡器1相同的基础频率（除非振荡器2频率更低），这样通过调制振荡器2的音高就可以改变总输出的谐波，从而得到富有电子味和摇滚味的声音。举个例子，周董的本草纲目开头就用了Sync音色。</p>
+<p><strong>14.Ring Modulation 环形调制</strong></p>
+<p><img src="/images/Ring_Modulator.png" alt="Ring_Modulator"></p>
+<p>通过一个首尾相接的二极管电路（这就是环形一次的由来）实现振荡器1对振荡器2的AM调制（振幅调制，也就是一个振荡器的音量调制第二个振荡器的音量），这是一种非常低成本的得到复杂声音的方法，在合成器中非常常见。运用的得当可以获得带有金属感的Bell音色，用两个三角波进行环形调制可以实现很好的Bell音色。</p>
+<p><img src="/images/Rb72c728ceb393b6ff7999d6e5bfa0799.png" alt="Rb72c728ceb393b6ff7999d6e5bfa0799"></p>
+<p><strong>15.Cross Modulation 交叉调制</strong></p>
+<p>其实就是两个振荡器的其中一个对另一个进行FM调制，不过由于VCO的音高都不太稳定，所以进行交叉调制时的声音往往不那么具有音乐性，微量的交叉调制可以为声音带来更丰富的质感，大量的调制则可以创造出狂野的音效。</p>
+<p><strong>16.S&amp;H 采样&amp;保持</strong></p>
+<p>这是一个早年合成器上的实验性功能，全称叫Sample&amp;Hold，简单来说就是对一个信号源不断采样，将得到的数值（在模拟合成器中是电压值）作为调制源。如果你的采样速度非常快，那么就会得到和原信号一样的信号。不过S&amp;H往往只有较慢的采样频率，采样可以通过键盘或者是LFO触发，也就是每按下一次键盘或者LFO走完一个循环后就取一个样。用S&amp;H对噪音采样可以得到一段一段的不断变化的调制值，将其调制音高你就可以得到R2D2的声音:D</p>
+<p><img src="/images/S&H.png" alt="S&amp;H"></p>
+<p>S&amp;H往往还会有一个Lag参数，效果类似于滑音，每一次采样后的调制值会按照你设定的速度过渡过去而不是瞬间切换过去。</p>
+<p><strong>17.Keytrack 键盘跟踪</strong></p>
+<p>本身是一个非常简单调制的方法，将键盘演奏的音高作为调制值就是了。其实，所有的合成器都是在用键盘的音高来调制振荡器的音高，否则当你按下键盘，振荡器的音高是不会改变的。Keytrack最常见的地方是滤波器中，这样演奏的音符越高，滤波器开的就越高。</p>
+<p>当你将滤波器的共鸣开到最大，将其当作一个正弦波振荡器时，Keytrack就十分有用了，因为此时滤波器发出的音高就是Cutoff频率，当Keytrack开到100%时，你就可以用键盘来控制滤波器的声音了。</p>
+<p><strong>18.Unison 合奏</strong></p>
+<p>复音合成器的功能。当你有两个振荡器时，你可以Detune它们，然后音高之差产生的相位变化就可以使声音更厚。如果你的振荡器有6复音，每复音有2个振荡器，那么这台合成器就有12个振荡器！如果将这12个振荡器放在一起用，那就能得到非常夸张的声音了。Unison就是这样，让复音合成器的所有声部演奏同一个音高，然后就像振荡器1和振荡器2的Detune一样，Unison模式下你通常可以控制Detune，也就是各声部间音高差异的量。</p>
+<p>随着数字技术发展，数字合成器上上百复音是很轻松的事，所以Unison也非常容易实现，在JP-8000中，著名的SuperSaw音色就是7个锯齿波叠加在一起而成。在现代的Serum、Sylenth等软件合成器中，你可以非常轻松的创建Unison。</p>
+<p><strong>19.Wavetable 波表</strong></p>
+<p>模拟合成器一般只有锯齿波、脉冲波（方波）、三角波作为基本波形可选，如果能扩充振荡器波形的数量，不久可以创造出更多声音吗？数字合成器的先驱者们就是这么想的，波表实际上就是将某种波形采样下来，再作为一个振荡器波形回放。所以这实际上就是一种带有采样的合成原理，由于只采样波形的一个周期，采样精度可以达到非常高，所以可以十分接近模拟合成器的音质表现。那为什么要叫“表”呢？因为很明显，单个波形还是太无趣了，如果想要PWM这种动态变化的声音，那么单个采样是无能为力的。所以，波表合成器中的一个波表实际上是<strong>一系列</strong>波形采样，你可以在一个波表里将PWM的各种宽度依次采样下来，回放时在这些波形中来回切换，就可以得到同样的效果了。波表一般是连续的，这样来回切换时声音是渐变的。波表振荡器的关键参数叫Position，也就是波表的位置，换句话说，就是这些波形中的哪一个在被播放，通过调制Position，就可以使声音不断变化。</p>
+<p>波表由于是数字的采样，声音会显得冷而富有金属感，不过这正是波表合成器独特的声音魅力，Serum就是一个优秀的波表合成器。</p>
+<p><strong>20.Paraphonic 协音</strong></p>
+<p>Paraphonic是Polyphonic的子集，后者指你能同时弹奏多个音符，而Paraphonic表示你弹的多个声音会通过同一个滤波器和放大器。不明白？想一想复音合成器，其实就是多个的单音的合成器叠加而成，每一个复音都是相互独立的，但是在Paraphonic的合成器中，只有振荡器是这样，所有复音的振荡器在这里合并在一起，通过同一个滤波器、放大器输出。这样的话，当连续弹奏多音，触发包络调制时，每次调制带来的效果会体现在所有音符上。比方说，当你做了一个Brass式音色，当你按住一些琴键再按下新的琴键时，新产生的声音应当是独立的，只有这一个音符的声音会再经历变明亮而有变暗的过程，但是在Paraphonic合成器中，所有的声音都会发生同样的变化，这减少了声音的多样性和真实性，所以Paraphonic往往是降低成本的选择。</p>
+<p><img src="/images/poly-para.jpg" alt="poly-para"></p>
 ]]></content>
+      <tags>
+        <tag>-新手 -科普</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2021/03/13/Freelancing/</url>
+    <content><![CDATA[<h1 id="Freelancing"><a href="#Freelancing" class="headerlink" title="Freelancing"></a>Freelancing</h1><p>1.Why Freelance</p>
+<p>Freelancing don’t mean work alone, you can have collages</p>
+<p><img src="https://public-media.interaction-design.org/images/uploads/8ec9b88188a2cb2a4a9b3e94f3818729.jpg" alt="8ec9b88188a2cb2a4a9b3e94f3818729"></p>
+<p>No Office Politics</p>
+<p>Freedom to work</p>
+<p>Have control over everything.</p>
+<p>2.Typical Freelance careers</p>
+<p>Programmer</p>
+<p>​    -Many IT companys prefer outsourcing on non-core business, with the assistance of distance working, it’s a good choice to be a freelance programmer. Some programmers’ personal projects finally turned into big business.</p>
+<p>Photographer</p>
+<p>​    -A lot of professional photographers choose to work for themselves, since photographers often work at different places, freelanciing is common.</p>
+<p>Youtuber</p>
+<p>​    -Being a Youtuber have been a hot topic over the years, because it seems to be the most fun way to earn money, sometimes a fortune. Due to it’s simplicity and the growth of the internet community, an increasing number of people are jumping into this industry.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>ARP Odyssey</title>
+    <url>/2021/02/08/ARP-Odyssey/</url>
+    <content><![CDATA[<h1 id="ARP-Odyssey"><a href="#ARP-Odyssey" class="headerlink" title="ARP Odyssey"></a>ARP Odyssey</h1><h2 id="一场Odyssey就此展开"><a href="#一场Odyssey就此展开" class="headerlink" title="一场Odyssey就此展开"></a>一场Odyssey就此展开</h2><p><img src="/Users/duanliyan/synthfever/source/images/Arp_OdysseyMk3_SB_05.jpg" alt="Arp_OdysseyMk3_SB_05"></p>
+<p><strong>生存年份</strong>：1972 - 1981</p>
+<p>​                    2015至今（复刻）</p>
+<p><strong>价格</strong>：约$1700（1980）、$829（2015）</p>
+<p><strong>类型</strong>：减法模拟合成器</p>
+<p><strong>架构</strong>：2VCO(VCO2可运行在低频率模式), 噪声发生器(白/粉), 1VCF, 2ENV(ADSR+AR)，LFO，S&amp;H，HPF，环形调制</p>
+<p><strong>接口</strong>: TRS与XLR输出（MK III），CV/GATE/Trigger (MK II之后)</p>
+<p>复刻版新增：MIDI IN/OUT、USB(Type B)</p>
+<p><strong>版本</strong>: MK I Model 2800  白脸为主，4023滤波器(12dB/Oct)，使用弯音旋钮             1972-1975年</p>
+<p>​          MK II Model 2810-2815  黑金配色，4072滤波器(24dB/Oct, Ladder设计)      1975-1978年</p>
+<p>​          MK III Model 2820-2823 橙黑配色，4075滤波器(24dB/Oct) 使用PPC控制器 1978-1981年</p>
+<p>硬件复刻: Korg ARP Odyssey、Behringer Odyssey、Prodyssey ASB（DSP）</p>
+<p>软件复刻: GForce Oddity, Korg ARP Odyssey</p>
+<hr>
+<p><img src="/Users/duanliyan/synthfever/source/images/10_ARP-ODYSSEY-FS_image.jpg" alt="Korg版Odyssey FS"></p>
+<p><img src="/Users/duanliyan/synthfever/source/images/ARP-Odyssey-Analog-Synthesizer-Cover-3-1.jpg" alt="ARP Odyssey MK I"></p>
+<p><img src="/Users/duanliyan/synthfever/source/images/Arp-Odyssey-MK-3-Model-2823-SN28231340-2.jpg" alt="ARP Odyssey MK III"></p>
+<p><img src="/Users/duanliyan/synthfever/source/images/arp_odyssey_feb79p61ck.jpg" alt="arp_odyssey_feb79p61ck"></p>
+<p><img src="/Users/duanliyan/synthfever/source/images/arp_odyssey_aug78pg41ck.jpg" alt="arp_odyssey_aug78pg41ck"></p>
+]]></content>
+      <tags>
+        <tag>-云收藏 -器材党</tag>
+      </tags>
   </entry>
   <entry>
     <title>Minimoog Model D</title>
@@ -90,10 +187,20 @@
       </tags>
   </entry>
   <entry>
-    <title>test</title>
-    <url>/2021/03/07/test/</url>
-    <content><![CDATA[<h1 id="这是一个一级标题"><a href="#这是一个一级标题" class="headerlink" title="这是一个一级标题"></a>这是一个一级标题</h1><h2 id="这是一个二级标题"><a href="#这是一个二级标题" class="headerlink" title="这是一个二级标题"></a>这是一个二级标题</h2><h2 id="这是一个二级标题-2"><a href="#这是一个二级标题-2" class="headerlink" title="这是一个二级标题_2"></a>这是一个二级标题_2</h2><p><strong>加粗</strong></p>
-<p><img src="https://pic2.zhimg.com/v2-fd77432865bded8b5cf56e08500094fb_1440w.jpg?source=172ae18b"></p>
+    <title>Hello World</title>
+    <url>/2021/02/06/hello-world/</url>
+    <content><![CDATA[<h1 id="命不久矣的Hello-world"><a href="#命不久矣的Hello-world" class="headerlink" title="命不久矣的Hello, world!"></a>命不久矣的Hello, world!</h1><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<a id="more"></a>
+
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p><img src="https://rmt.dogedoge.com/fetch/~/source/unsplash/photo-1573066265159-37a92b483851?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></p>
 ]]></content>
   </entry>
   <entry>
@@ -113,61 +220,6 @@
 ]]></content>
       <tags>
         <tag>-器材党 -杂谈 -罗兰</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>合成器有哪几种？</title>
-    <url>/2021/02/25/%E5%90%88%E6%88%90%E5%99%A8%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%EF%BC%9F/</url>
-    <content><![CDATA[<p>工欲善其事，必先利其器，合成器进化了这么多年分类很多，很多人上来问选那种？模拟还是数字好？为什么模拟这么贵？今天我们就来扒一扒合成器的底。</p>
-<a id="more"></a>
-
-<h2 id="合成器族谱图"><a href="#合成器族谱图" class="headerlink" title="合成器族谱图"></a>合成器族谱图</h2><p><img src="/images/%E5%90%88%E6%88%90%E5%99%A8%E5%88%86%E7%B1%BB%E6%A0%91%E7%8A%B6%E5%9B%BE.jpg" alt="合成器分类树状图"></p>
-<p>图上就是当今合成器的大体分类，这是一个比较常见的分类标准，即以模拟/数字为根本差异</p>
-<p>模拟和数字的区别是什么？很简单，模拟合成器依靠电路产生电子信号，经过一系列处理达成最终的声音，再通过放大器放大到线路水平，也就是声音信号。你在面板上看到的振荡器、滤波器等等都是真实存在的，也就是说，你可以在电路板上找到对应的部件。</p>
-<p>而数字合成器其实就是一个小电脑，只不过运行的是合成声音的程序。通过代码计算出每一个部件输出的声音数据，得到最终结果后，将数值转化为电信号输出。也就是说，信号链路种是否经过经过数字处理是判断其类型的关键。有的模拟合成器采用了数字生成的包络和LFO，但是它们并不会变成你听到的声音，所以这不影响其模拟合成器的属性。如果一台合成器内部既有模拟信号又有数字信号,那它就是混合合成器啦。</p>
-<p><strong>举几个典型的例子</strong></p>
-<p><strong>纯模拟合成器：</strong>Minimoog Model D、Moog Grandmother</p>
-<p><strong>数控模拟合成器：</strong>Juno-106、Sequential Prophet 6</p>
-<p><strong>混合合成器：</strong>Roland TR-909、Arturia Microfreak</p>
-<p><strong>数字合成器：</strong>Korg Microkorg、ASM Hydrasynth</p>
-<h2 id="先从比较简单的模拟合成器开始"><a href="#先从比较简单的模拟合成器开始" class="headerlink" title="先从比较简单的模拟合成器开始"></a>先从比较简单的模拟合成器开始</h2><p>现在的模拟合成器大多属于减法合成器，意味着你会有一个产生丰富谐波的振荡器，然后用一个滤波器减去一些频率来得到你的音色，因为是在做减法，所以叫减法合成器。</p>
-<p>让我们先从模块合成器开始，所谓模块合成器意思就是，产生声音的各个组件是独立作为一个模块存在的，比如说振荡器和滤波器都是一个个单独可移除的组件，想要得到声音除了调整各种参数以外还要手动把这些模块连接起来，就像下面这样：</p>
-<p><img src="/images/Modular-Synth-4685499.jpg" alt="Modular-Synth"></p>
-<p>这其实就是合成器最早的形式，因为那时没人知道一个合成器应该有哪些功能作为标准，所以让用户自行决定，一方面有自由度，另一方面可以减少不必要的组件，减少用户成本。</p>
-<p>一开始各家的模块合成器都是有自己的一套标准的，不过随着各公司转向数字化的潮流，模块合成器界只剩下Eurorack这一活跃的标准，现在你见到的模块合成器基本都是Eurorack标准的（Bulcha除外）。</p>
-<p><img src="/images/Eurorack-HP-Size-4686480.jpg" alt="Eurorack-HP-Size"></p>
-<p>模块合成器的特点是拓展性强，自由度高，缺点很明显：不能存储预设，调节音色可能很烦人，<strong>价格十分昂贵</strong>。</p>
-<p>那半模块合成器又是怎么回事呢？厂商们发现大部分用户都只会用几种相同的模块，并且大部分人都是按照VCO-VCF-AMP来连接的，LFO大多用于颤音，包络也往往是一个调制放大器一个调制滤波器。于是有人灵机一动，把这些部分预先连接好不就行了？于是，半模块合成器诞生了。其实半模块说白了就是预先接好线的模块合成器，当需要手动接线时，就自动断开遇预先的连线，这为使用带来了极大的方便，因为当你不需要复杂的调制时，无需连线就可以得到大部分有用的声音。当然，限制也很明显，由于预先连线的存在，每个模块都是不可拆卸的了，意味着半模块合成器一买就是一整台，不过价格也相对的低了许多，因而很适合入门使用。典型产品：ARP 2600、Korg MS-20、Moog Mother-32。</p>
-<p>也许你注意到了，上面的图中，模块合成器还被划分到了混合合成器一栏，因为现代的模块很多都是数字的，像振荡器、LFO等组件在数字的加持下可以获得广阔的声音可能性，不过由于要装在Eurorack里，依然是以模拟信号的方式与其他模块沟通的，所以算作是混合合成器，半模块合成器目前还没有这样的产品。</p>
-<p>![Arp 2600](/images/Arp 2600.png)</p>
-<p>标准模拟合成器就是最常见的那种，一切功能都在面板上，并且基本没有拓展的余地。一般认为是Minimoog开的头：把最常用的组件按照最常用的连接方式连接，然后打包在一起就是一台“标准“的模拟合成器。实际上，ARP Odyssey就是ARP 2600的标准化版，它基本上可以看作是去掉了接线能力的2600，却仍然保持了强劲的声音——这已经够用了。”标准“的好处就在于简单快速，调节音色无比简单，并且还可以使用预设，成本也大大降低。</p>
-<p><img src="/images/korg-minilogue.jpg" alt="korg-minilogue"></p>
-<h2 id="另类的加法合成器"><a href="#另类的加法合成器" class="headerlink" title="另类的加法合成器"></a>另类的加法合成器</h2><p>加法合成对很多人来说是一个很陌生的概念，因为根本就没有多少加法合成器，但是加法合成实际上有着很重要的意义，这是合成器最早的实现方式之一。与减法合成器相对，加法合成器的原理是叠加一系列的正弦波（或其它波形）来产生最终的声音，因为任何一个声波都可以分解成各种频段的正弦波叠加而成，所以加法合成器理论上可以合成任何声音。</p>
-<p>听起来很美好，但是实际上会遇到很大的问题。一方面我们不可能拥有无限个正弦波叠加，所以声音的塑造是有限制的，另一方面，我们听到的声音波形是在不断变化的，而单纯的加法只能产生不变的波形，并不好听。还有一点，用好加法合成器很难，可能比FM还难一点。这些都导致了加法合成器没能成为当今主流。</p>
-<p>哈蒙德的经典风琴就是一种加法合成器，通过一个机械旋转结构来产生声音，不过叠加的谐波次数相当有限，需要很多效果器来丰富它的音色。不过对于电子风琴来说，已经相当够用了。</p>
-<p>加法合成需要很多振荡器，所以用模拟电路来实现是比较困难的，罗兰SH-3可以看作是一种加法合成，不过叠加的是诸如锯齿波、方波这样的波形，所以并不是严格的加法合成器。第一个取得成功的加法合成器是Synclavier II，它是一台数字合成器，还搭载了FM与采样技术，作为一款8位芯片驱动的数字合成器有着难以想象的温暖声音，加法合成是其亮点之一，MJ的Beat it开头的合成器音色就是用Synclavier II制作的。</p>
-<p>![Synclavier II](/images/Synclavier II.jpeg)</p>
-<p>之后也有许多的硬件加法合成器，例如Kawai的K5000S， Casio SK-1。</p>
-<p>到了现在，你可以用软件来进行非常强大的加法合成，不过由于难度用的人依然很少orz，Ableton Live中的Operator合成器就自带了一个简单的加法合成功能，Alchemy也是一款强大的合成器，带有加法合成功能，如果你想了解加法合成不妨试一下。</p>
-<p>![截屏2021-03-02 下午8.48.42](/images/截屏2021-03-02 下午8.48.42.png)</p>
-<h2 id="多彩的数字世界"><a href="#多彩的数字世界" class="headerlink" title="多彩的数字世界"></a>多彩的数字世界</h2><p>不知道你有没有为家里的模拟电视升级到数字电视而激动过，至少在80年代的合成器领域里，各厂商都在为迎接数字时代摩拳擦掌，软件的超高自由度和不断变强的微处理器都展现了数字合成器的诱人图景。到了90年代，几乎所有的主流合成器厂商都将重心放在了数字技术上。</p>
-<p>数字合成器实际上很早就出现了，但第一台取得成功的合成器还是1983年Yamaha的DX7。DX7是一台6OP的FM合成器，鹤立鸡群的声音使得它成为了音乐人竞相购买的产品，拉开了80年代合成器战争的序幕。</p>
-<p><img src="/images/DX7.jpg" alt="DX7"></p>
-<p>FM是一种十分复杂的合成原理，通过一个振荡器（FM里称作Operator）调制另一个振荡器的音高来产生谐波，并通过不同的振荡器连接方式与振荡器的包络、频率调节来实现声音的动态，可以产生与传统减法合成器截然不同的声音。DX7的Slap Bass和EP就是非常出名的两个音色，同期的模拟合成器根本做不出来。</p>
-<p>![FM Synthesis](/images/FM Synthesis.jpeg)</p>
-<p>简单解释一下Bell音色，其实只需要4个Operator，两两调制，Modulator的Coarse调到12左右，并且在包络上做一个快速衰减，就可以产生富有金属感的音头，再将另一对Operator的CarrierCoarse调低，使声音的本体厚起来，你就得到了一个经典的FM Bell音色。</p>
-<p>采样合成在编曲键盘和一些带有采样功能的合成器中非常常见，采样回放本质上就是回放采样，而关键算法就是采样如何移调同时保持音色之类，成本很低，效果也不错，所谓的电子琴大部分都是这个原理。</p>
-<p>粒子合成是偏向实验性的采样技术，原理是将一段采样切分成很多个几毫秒的片段，然后按一定（或是随机）顺序依次播放，这会彻底破坏原有的音色，但是能得到的可用音色也不容易，所以一直是实验性质。</p>
-<p>采样分解就是如Wavesstation这种，采用的原理是按照一定顺序播放、切分采样，得到新的声音。这一技术在Wavestate上复活了，不过对于新手来说学习难度比较大。</p>
-<p>虚拟模拟合成器(VA)是比较独特的类型，自从数字合成被发明以后，又有人想，既然数字芯片的计算能力这么强大，我可不可以用它来模仿模拟合成器的声学特性，做出成本更低，复音更多，但用起来和模拟合成器一样的数字合成器呢？Nord Lead就是这一理念的先行者，数字很快展现了它的优势：超多复音、强大的调制，多种波形都是其亮点。不过与任何数字合成器一样，VA也有抗混叠的问题，为了减少混叠的影响，数字合成器不得不做一些弥补和妥协，这也是所谓数字味的主要由来。不过随着现在计算能力的不断提高，数字合成已经能很好的抗混叠了，现在的VA达到了前所未有的高度，已经不是一耳朵就能听出来差距的那种了。</p>
-<p>波表合成器是一个独特的门类，实际上和VA差不多，但是把振荡器换成了波表。什么是波表呢？就是非常短的单周期采样。因为只有一个周期，采样密度做的很高也不会占用大量存储，所以波表可以获得比常规采样好的多的音质。为什么要用波表呢？既然声音的本质就是各种波形，那么只要采样非常复杂的波形到波表，就可以在单振荡器上实现复杂的声音了。为什么叫“表”呢？因为我们采样的不是单个波形，而是一系列波形，一般是128个。比方说，我想要PWM的效果，那只要把PWM从0%至100%依次做采样，使用的时候再按照这个顺序依次播放就行了。这就是波表合成器的核心思想，其他地方一般与VA无异。由于是数字合成，声音显得更通透冰冷一些，与VA不同的是，波表并不需要追求模拟的质感，玻璃般的Pad，尖锐中带点毛糙的Lead，奇特的FX，都是波表的独特吸引力。</p>
-<p><img src="/images/piano_wavetable.jpg__800x324_q85_crop_subsampling-2_upscale.jpg" alt="piano_wavetable.jpg__800x324_q85_crop_subsampling-2_upscale"></p>
-<p>最后一种是物理建模合成器，这不是一个常见的名次。物理建模顾名思义，就是用数学和物理的方法对乐器的声音特征建模，通过计算来得到声音。现在的物理建模一般是采样和合成并行。比如说建模钢琴，我可以对分析琴弦的声音相应、分析琴身的共振、按键的键噪、麦克风的位置，来将其组合成一个整体，而每个部件可以单独对力度作出反应，因而比单纯的采样有更丰富的声音。Dexibell的钢琴建模可以说是业内顶级。</p>
-<h2 id="选哪个？"><a href="#选哪个？" class="headerlink" title="选哪个？"></a>选哪个？</h2><p>这是新手在选择合成器时遇到的经典问题，个人观点：从使用难度上来说采样回放&lt;物理建模&lt;减法(VA\波表和模拟)&lt;模块&lt;加法≈FM&lt;采样分解，新手优先考虑前三项就可以了。不过我相信你不想做一个只会用预设的傻瓜式玩家，标准模拟合成器是最佳选择。写这篇文章时(2021/3/6)我仍然认为Minilogue是入门最佳之选，较低的价格加上示波器和丰富的旋钮控制十分适合起步阶段的人使用，就算在编曲/演出中也是强大的武器。</p>
-<p>如果选择FM合成器作为开端其实也不差，但是在你能自如地捏声音之前，你需要做大量的功课，不过目前的FM合成器并不多，Korg OPsix和Yamaha Reface DX都是不错的选择。</p>
-]]></content>
-      <tags>
-        <tag>-新手 -科普</tag>
       </tags>
   </entry>
   <entry>
@@ -223,6 +275,61 @@
 ]]></content>
       <tags>
         <tag>器材党</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>合成器有哪几种？</title>
+    <url>/2021/02/25/%E5%90%88%E6%88%90%E5%99%A8%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%EF%BC%9F/</url>
+    <content><![CDATA[<p>工欲善其事，必先利其器，合成器进化了这么多年分类很多，很多人上来问选那种？模拟还是数字好？为什么模拟这么贵？今天我们就来扒一扒合成器的底。</p>
+<a id="more"></a>
+
+<h2 id="合成器族谱图"><a href="#合成器族谱图" class="headerlink" title="合成器族谱图"></a>合成器族谱图</h2><p><img src="/images/%E5%90%88%E6%88%90%E5%99%A8%E5%88%86%E7%B1%BB%E6%A0%91%E7%8A%B6%E5%9B%BE.jpg" alt="合成器分类树状图"></p>
+<p>图上就是当今合成器的大体分类，这是一个比较常见的分类标准，即以模拟/数字为根本差异</p>
+<p>模拟和数字的区别是什么？很简单，模拟合成器依靠电路产生电子信号，经过一系列处理达成最终的声音，再通过放大器放大到线路水平，也就是声音信号。你在面板上看到的振荡器、滤波器等等都是真实存在的，也就是说，你可以在电路板上找到对应的部件。</p>
+<p>而数字合成器其实就是一个小电脑，只不过运行的是合成声音的程序。通过代码计算出每一个部件输出的声音数据，得到最终结果后，将数值转化为电信号输出。也就是说，信号链路种是否经过经过数字处理是判断其类型的关键。有的模拟合成器采用了数字生成的包络和LFO，但是它们并不会变成你听到的声音，所以这不影响其模拟合成器的属性。如果一台合成器内部既有模拟信号又有数字信号,那它就是混合合成器啦。</p>
+<p><strong>举几个典型的例子</strong></p>
+<p><strong>纯模拟合成器：</strong>Minimoog Model D、Moog Grandmother</p>
+<p><strong>数控模拟合成器：</strong>Juno-106、Sequential Prophet 6</p>
+<p><strong>混合合成器：</strong>Roland TR-909、Arturia Microfreak</p>
+<p><strong>数字合成器：</strong>Korg Microkorg、ASM Hydrasynth</p>
+<h2 id="先从比较简单的模拟合成器开始"><a href="#先从比较简单的模拟合成器开始" class="headerlink" title="先从比较简单的模拟合成器开始"></a>先从比较简单的模拟合成器开始</h2><p>现在的模拟合成器大多属于减法合成器，意味着你会有一个产生丰富谐波的振荡器，然后用一个滤波器减去一些频率来得到你的音色，因为是在做减法，所以叫减法合成器。</p>
+<p>让我们先从模块合成器开始，所谓模块合成器意思就是，产生声音的各个组件是独立作为一个模块存在的，比如说振荡器和滤波器都是一个个单独可移除的组件，想要得到声音除了调整各种参数以外还要手动把这些模块连接起来，就像下面这样：</p>
+<p><img src="/images/Modular-Synth-4685499.jpg" alt="Modular-Synth"></p>
+<p>这其实就是合成器最早的形式，因为那时没人知道一个合成器应该有哪些功能作为标准，所以让用户自行决定，一方面有自由度，另一方面可以减少不必要的组件，减少用户成本。</p>
+<p>一开始各家的模块合成器都是有自己的一套标准的，不过随着各公司转向数字化的潮流，模块合成器界只剩下Eurorack这一活跃的标准，现在你见到的模块合成器基本都是Eurorack标准的（Bulcha除外）。</p>
+<p><img src="/images/Eurorack-HP-Size-4686480.jpg" alt="Eurorack-HP-Size"></p>
+<p>模块合成器的特点是拓展性强，自由度高，缺点很明显：不能存储预设，调节音色可能很烦人，<strong>价格十分昂贵</strong>。</p>
+<p>那半模块合成器又是怎么回事呢？厂商们发现大部分用户都只会用几种相同的模块，并且大部分人都是按照VCO-VCF-AMP来连接的，LFO大多用于颤音，包络也往往是一个调制放大器一个调制滤波器。于是有人灵机一动，把这些部分预先连接好不就行了？于是，半模块合成器诞生了。其实半模块说白了就是预先接好线的模块合成器，当需要手动接线时，就自动断开遇预先的连线，这为使用带来了极大的方便，因为当你不需要复杂的调制时，无需连线就可以得到大部分有用的声音。当然，限制也很明显，由于预先连线的存在，每个模块都是不可拆卸的了，意味着半模块合成器一买就是一整台，不过价格也相对的低了许多，因而很适合入门使用。典型产品：ARP 2600、Korg MS-20、Moog Mother-32。</p>
+<p>也许你注意到了，上面的图中，模块合成器还被划分到了混合合成器一栏，因为现代的模块很多都是数字的，像振荡器、LFO等组件在数字的加持下可以获得广阔的声音可能性，不过由于要装在Eurorack里，依然是以模拟信号的方式与其他模块沟通的，所以算作是混合合成器，半模块合成器目前还没有这样的产品。</p>
+<p>![Arp 2600](/images/Arp 2600.png)</p>
+<p>标准模拟合成器就是最常见的那种，一切功能都在面板上，并且基本没有拓展的余地。一般认为是Minimoog开的头：把最常用的组件按照最常用的连接方式连接，然后打包在一起就是一台“标准“的模拟合成器。实际上，ARP Odyssey就是ARP 2600的标准化版，它基本上可以看作是去掉了接线能力的2600，却仍然保持了强劲的声音——这已经够用了。”标准“的好处就在于简单快速，调节音色无比简单，并且还可以使用预设，成本也大大降低。</p>
+<p><img src="/images/korg-minilogue.jpg" alt="korg-minilogue"></p>
+<h2 id="另类的加法合成器"><a href="#另类的加法合成器" class="headerlink" title="另类的加法合成器"></a>另类的加法合成器</h2><p>加法合成对很多人来说是一个很陌生的概念，因为根本就没有多少加法合成器，但是加法合成实际上有着很重要的意义，这是合成器最早的实现方式之一。与减法合成器相对，加法合成器的原理是叠加一系列的正弦波（或其它波形）来产生最终的声音，因为任何一个声波都可以分解成各种频段的正弦波叠加而成，所以加法合成器理论上可以合成任何声音。</p>
+<p>听起来很美好，但是实际上会遇到很大的问题。一方面我们不可能拥有无限个正弦波叠加，所以声音的塑造是有限制的，另一方面，我们听到的声音波形是在不断变化的，而单纯的加法只能产生不变的波形，并不好听。还有一点，用好加法合成器很难，可能比FM还难一点。这些都导致了加法合成器没能成为当今主流。</p>
+<p>哈蒙德的经典风琴就是一种加法合成器，通过一个机械旋转结构来产生声音，不过叠加的谐波次数相当有限，需要很多效果器来丰富它的音色。不过对于电子风琴来说，已经相当够用了。</p>
+<p>加法合成需要很多振荡器，所以用模拟电路来实现是比较困难的，罗兰SH-3可以看作是一种加法合成，不过叠加的是诸如锯齿波、方波这样的波形，所以并不是严格的加法合成器。第一个取得成功的加法合成器是Synclavier II，它是一台数字合成器，还搭载了FM与采样技术，作为一款8位芯片驱动的数字合成器有着难以想象的温暖声音，加法合成是其亮点之一，MJ的Beat it开头的合成器音色就是用Synclavier II制作的。</p>
+<p>![Synclavier II](/images/Synclavier II.jpeg)</p>
+<p>之后也有许多的硬件加法合成器，例如Kawai的K5000S， Casio SK-1。</p>
+<p>到了现在，你可以用软件来进行非常强大的加法合成，不过由于难度用的人依然很少orz，Ableton Live中的Operator合成器就自带了一个简单的加法合成功能，Alchemy也是一款强大的合成器，带有加法合成功能，如果你想了解加法合成不妨试一下。</p>
+<p>![截屏2021-03-02 下午8.48.42](/images/截屏2021-03-02 下午8.48.42.png)</p>
+<h2 id="多彩的数字世界"><a href="#多彩的数字世界" class="headerlink" title="多彩的数字世界"></a>多彩的数字世界</h2><p>不知道你有没有为家里的模拟电视升级到数字电视而激动过，至少在80年代的合成器领域里，各厂商都在为迎接数字时代摩拳擦掌，软件的超高自由度和不断变强的微处理器都展现了数字合成器的诱人图景。到了90年代，几乎所有的主流合成器厂商都将重心放在了数字技术上。</p>
+<p>数字合成器实际上很早就出现了，但第一台取得成功的合成器还是1983年Yamaha的DX7。DX7是一台6OP的FM合成器，鹤立鸡群的声音使得它成为了音乐人竞相购买的产品，拉开了80年代合成器战争的序幕。</p>
+<p><img src="/images/DX7.jpg" alt="DX7"></p>
+<p>FM是一种十分复杂的合成原理，通过一个振荡器（FM里称作Operator）调制另一个振荡器的音高来产生谐波，并通过不同的振荡器连接方式与振荡器的包络、频率调节来实现声音的动态，可以产生与传统减法合成器截然不同的声音。DX7的Slap Bass和EP就是非常出名的两个音色，同期的模拟合成器根本做不出来。</p>
+<p>![FM Synthesis](/images/FM Synthesis.jpeg)</p>
+<p>简单解释一下Bell音色，其实只需要4个Operator，两两调制，Modulator的Coarse调到12左右，并且在包络上做一个快速衰减，就可以产生富有金属感的音头，再将另一对Operator的CarrierCoarse调低，使声音的本体厚起来，你就得到了一个经典的FM Bell音色。</p>
+<p>采样合成在编曲键盘和一些带有采样功能的合成器中非常常见，采样回放本质上就是回放采样，而关键算法就是采样如何移调同时保持音色之类，成本很低，效果也不错，所谓的电子琴大部分都是这个原理。</p>
+<p>粒子合成是偏向实验性的采样技术，原理是将一段采样切分成很多个几毫秒的片段，然后按一定（或是随机）顺序依次播放，这会彻底破坏原有的音色，但是能得到的可用音色也不容易，所以一直是实验性质。</p>
+<p>采样分解就是如Wavesstation这种，采用的原理是按照一定顺序播放、切分采样，得到新的声音。这一技术在Wavestate上复活了，不过对于新手来说学习难度比较大。</p>
+<p>虚拟模拟合成器(VA)是比较独特的类型，自从数字合成被发明以后，又有人想，既然数字芯片的计算能力这么强大，我可不可以用它来模仿模拟合成器的声学特性，做出成本更低，复音更多，但用起来和模拟合成器一样的数字合成器呢？Nord Lead就是这一理念的先行者，数字很快展现了它的优势：超多复音、强大的调制，多种波形都是其亮点。不过与任何数字合成器一样，VA也有抗混叠的问题，为了减少混叠的影响，数字合成器不得不做一些弥补和妥协，这也是所谓数字味的主要由来。不过随着现在计算能力的不断提高，数字合成已经能很好的抗混叠了，现在的VA达到了前所未有的高度，已经不是一耳朵就能听出来差距的那种了。</p>
+<p>波表合成器是一个独特的门类，实际上和VA差不多，但是把振荡器换成了波表。什么是波表呢？就是非常短的单周期采样。因为只有一个周期，采样密度做的很高也不会占用大量存储，所以波表可以获得比常规采样好的多的音质。为什么要用波表呢？既然声音的本质就是各种波形，那么只要采样非常复杂的波形到波表，就可以在单振荡器上实现复杂的声音了。为什么叫“表”呢？因为我们采样的不是单个波形，而是一系列波形，一般是128个。比方说，我想要PWM的效果，那只要把PWM从0%至100%依次做采样，使用的时候再按照这个顺序依次播放就行了。这就是波表合成器的核心思想，其他地方一般与VA无异。由于是数字合成，声音显得更通透冰冷一些，与VA不同的是，波表并不需要追求模拟的质感，玻璃般的Pad，尖锐中带点毛糙的Lead，奇特的FX，都是波表的独特吸引力。</p>
+<p><img src="/images/piano_wavetable.jpg__800x324_q85_crop_subsampling-2_upscale.jpg" alt="piano_wavetable.jpg__800x324_q85_crop_subsampling-2_upscale"></p>
+<p>最后一种是物理建模合成器，这不是一个常见的名次。物理建模顾名思义，就是用数学和物理的方法对乐器的声音特征建模，通过计算来得到声音。现在的物理建模一般是采样和合成并行。比如说建模钢琴，我可以对分析琴弦的声音相应、分析琴身的共振、按键的键噪、麦克风的位置，来将其组合成一个整体，而每个部件可以单独对力度作出反应，因而比单纯的采样有更丰富的声音。Dexibell的钢琴建模可以说是业内顶级。</p>
+<h2 id="选哪个？"><a href="#选哪个？" class="headerlink" title="选哪个？"></a>选哪个？</h2><p>这是新手在选择合成器时遇到的经典问题，个人观点：从使用难度上来说采样回放&lt;物理建模&lt;减法(VA\波表和模拟)&lt;模块&lt;加法≈FM&lt;采样分解，新手优先考虑前三项就可以了。不过我相信你不想做一个只会用预设的傻瓜式玩家，标准模拟合成器是最佳选择。写这篇文章时(2021/3/6)我仍然认为Minilogue是入门最佳之选，较低的价格加上示波器和丰富的旋钮控制十分适合起步阶段的人使用，就算在编曲/演出中也是强大的武器。</p>
+<p>如果选择FM合成器作为开端其实也不差，但是在你能自如地捏声音之前，你需要做大量的功课，不过目前的FM合成器并不多，Korg OPsix和Yamaha Reface DX都是不错的选择。</p>
+]]></content>
+      <tags>
+        <tag>-新手 -科普</tag>
       </tags>
   </entry>
   <entry>
