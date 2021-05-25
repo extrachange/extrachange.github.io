@@ -1,6 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Yamaha DX7的故事</title>
+    <url>/2021/05/25/DX7%E7%9A%84%E6%95%85%E4%BA%8B/</url>
+    <content><![CDATA[<h2 id="Yamaha-DX7的故事"><a href="#Yamaha-DX7的故事" class="headerlink" title="Yamaha DX7的故事"></a>Yamaha DX7的故事</h2><p><img src="/images/Yamaha-DX7-1.png" alt="Yamaha-DX7-1"></p>
+<p>​    雅马哈DX7可能是80年代最重要的合成器，它横扫了当时的合成器市场，还为合成器数字化的进程推进了一大步。本篇文章里，我们就来一起深入了解一下这台传奇的合成器的故事。</p>
+<a id="more"></a>
+
+<p>​    DX7是世界上第一台大获成功的数字合成器，也是有史以来销量最高的合成器之一，累计销售超过20万台。DX7带来了巨大而又深远的影响，它不仅影响了人们使用键盘的方式，甚至改变了键盘这个词本身。在DX7之前，人们提到”键盘(Keyboard)”时，通常都是指钢琴、电钢(Rhodes)、风琴(Organ)这种乐器的键盘本身，这时候的合成器还与大众相去甚远。然而DX7改变了这一切，DX7的外观就是完全从模拟合成器的反面出发，摒弃了密密麻麻的旋钮，并且以“选择一个预设，然后开始演奏”的角度设计了操作模式，这为DX7的大卖奠定了基础。DX7很快成为了键盘手的必备武器，人民开始用键盘这个词来称呼合成器。可以说，雅马哈的DX系列打开了合成器大众化的大门。</p>
+<p>在开启我们的时间机器之前，让我们先来听一听<a href="https://www.bilibili.com/video/BV1hq4y1j728">DX7的声音</a></p>
+<iframe src="//player.bilibili.com/player.html?aid=545864828&bvid=BV1hq4y1j728&cid=343755007&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<h2 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h2><p>​    说到DX7，那就不得不提<u>FM合成</u>，这在当时是一种全新的声音合成技术，声音清澈而丰满。第一台商业化的FM合成器是Synclavier I，而雅马哈第一台FM合成器是GS1。FM合成是十分复杂的一类合成方式，并且走入千家万户的DX7的编辑界面十分蹩脚，因此很少有人真正玩明白了FM这一合成方式，这也是DX7的预设被如此“滥用”的原因。</p>
+<p>​    FM合成器的发明人是一位作曲家而非工程师，他的大名叫John Chowning，来自美国新泽西州，在学习了作曲和乐理之后，Chowning在斯坦福大学获得了音乐艺术的博士学位。之后，在斯坦福的研究里，Chowning对于电脑音乐产生了浓厚的兴趣，这是Chowing被认作电子音乐先驱的起点。要记住，在1964年，电脑可是超级怪咖的玩具。</p>
+<p><img src="/images/Chowning&Yamaha.jpg" alt="Chowning&amp;Yamaha"></p>
+<p>​    John Chowning当时使用的是Max Mathews开发的开发的MUSIC IV程序，这是第一款被广泛使用的声音生成程序。那个时候，斯坦福没有模拟合成器，但是有一台大型计算机。斯坦福在1965年还开设了著名的人工智能实验室，这为Chowing研究数字合成技术创造了绝佳的条件。</p>
+<p>​    Chowning记得当时贝尔实验室里的一个研究课题，用一个电脑分析并重新合成小号的声音。在这个研究中他发现，铜管乐器起音部分的声音特质和声音信号频率的带宽迅速增长有紧密的联系。在开始的几毫秒内，声音的能量主要集中在基频处，之后，随着音量在30-40毫秒内增长，更多的谐波以更高的音量连续出现。Chowning思考了一下，随后意识到他可以用简单的FM调制达成相似的结果，只要用一个包络来控制FM调制的量即可。随后的实验中他发现了这种技术的应用前景：单是只用两个振荡器就能得到动听逼真的声音，而这是用其他手段很难达到的。</p>
+<p>​    Chowning在实验中成功合成了各类复杂的声音，包括模拟原声乐器，甚至是人声。这让Max Mathews印象深刻，他鼓励Chowning继续研究下去。电子风琴厂商也对此技术产生了兴趣，但是他们的工程师似乎并不看好这一技术，因而错失了合作的机会。“他们都专注于研究模拟技术，对我所说的毫无概念。”John Chowning后来说到。</p>
+<h2 id="诞生"><a href="#诞生" class="headerlink" title="诞生"></a>诞生</h2><p>​    当时，雅马哈是世界上最大的乐器生产商，但是在美国市场中只占据了很少的份额，雅马哈急于寻找占领市场的方法。这时，斯坦福大学的一位毕业生研究了这家公司，并且，让当时雅马哈在美国分部的首席工程师来到了斯坦福，给他展示所研究的FM技术。“不出10分钟，他就理解了这些，我猜雅马哈当时已经在研究数字技术了”，John Chowning说道。雅马哈随后立即派遣了一批人研究FM合成技术，Chowning为FM合成技术申请了专利，雅马哈则在1974年获得了专利的授权。这份专利成为了斯坦福第二赚钱的专利，在到期之前收获了高达两千万美元。不过正如之前提到的，Synclavier I成为了第一台FM合成器，更有趣的地方是，它的专利授权来自雅马哈。</p>
+<p>​    实际上，罗兰的创始人梯郁太郎也和Chowning见了面，不过那已经是在雅马哈获得专利的半年以后了。他说，雅马哈对于斯坦福是最适合的伙伴，他们是最有能力实现FM合成技术商业化的企业。</p>
+<p>​    雅马哈终于在1981年造出了自己首台FM合成器——GS1，但是高达13000美元的价格劝退了大部分音乐人，这是因为其中使用的落后芯片技术，GS1使用了约50块集成电路芯片，导致其成本居高不下。到了DX7，随着超大规模集成电路的应用，芯片数量缩减了约25倍，虽然两者的表现有一定差距，但远在可以接受的范围之内。</p>
+<p>​    雅马哈在研究如何将FM合成技术应用到现实时，也在设计自己的芯片，没错，这两项技术的结晶就是DX7。雅马哈不仅改进了芯片，还用Chowing所说的“很不同寻常”的方式改变了算法，这使得DX7获得了约57kHz的采样带宽，以及极其出众的声音。Chowning也对此很钦佩，他说，“在斯坦福的那台数字合成器里，当我们用着和DX7一样多的96个振荡器时，我们只有25k-30kHz的带宽，DX7在这一点上要好得多，这是用耳朵一听就能听出来的”</p>
+<h2 id="DX7风暴"><a href="#DX7风暴" class="headerlink" title="DX7风暴"></a>DX7风暴</h2><p>​    当DX7投入市场时，它带来了一股横扫市场的风暴，就像1954年徕卡M3发布时的场景。习惯了模拟合成器声音的键盘手们被FM独特的音色（以及DX7的价格标签）吸引了。一时间，大家纷纷认为这就是来自未来的声音。雅马哈为DX7开展了铺天盖地的营销，几乎所有人手上都有了一台DX系列合成器，雅马哈在美国的市场终于打开了。DX7有一个很有名的预设——E PIANO 1，它是在模仿Fender Rhodes的声音。不过有意思的是，大众似乎更喜欢DX7清亮的EP声音，到了1986年，86%的榜首单曲都用了这一预设，可见其影响力一般。</p>
+<p>​    学习FM合成需要全新的思维模式，也需要大量的实践。实际上在当时，人群中流传的观点是“<u>It’s impossible, or at least very difficult, to program a DX7</u>.”不过也有一部分人例如Brian Eno做了相当深入的学习，掌握了FM合成技术，并大量地将DX7用于其音乐中。在其1983年的**<em><a href="https://music.163.com/album?id=112844&userid=118468166">Apollo: Atmospheres and Soundtracks</a>**</em>里，DX7无处不在。实际上Brian Eno有整整7台DX7！</p>
+<h2 id="DX大家族"><a href="#DX大家族" class="headerlink" title="DX大家族"></a>DX大家族</h2><p>​    DX7的定价十分合理，只要1995美元，是完全超越同价位模拟合成器的存在，不过依然有很多人负担不起这样的价格。考虑到这一点，用着精准的刀法，雅马哈细(yan)分(ge)出了DX系列大家族，包括：</p>
+<p><img src="/images/DX1.png" alt="DX1"></p>
+<p><strong>DX1</strong>：DX系列里的巨无霸，实际上是CSDX原型机的零售版吧，可以看作是两台DX7拼在一起，并换了73键木制全配重键盘。它有着两倍的复音和存储，有着双层音色和键盘分割功能，并且搭载了16位精度的DAC。同时，控制面板也得到了相当大的改进，虽然依然要翻菜单，但是你至少可以直观的看到主要参数。DX1的价格是可怕的13900美元，这也难怪它只造了140台。</p>
+<p><img src="/images/DX5.png" alt="DX5">    </p>
+<p><strong>DX5</strong>：科技的发展真的非常快，“仅仅”用了4年，雅马哈就把DX1的技术下放到了更低价位的DX5上，DX5和DX1区别不大，但是没有木边，键盘换成了塑料材质，价格也比DX1低了许多（与两台DX7相当），DX5是需要多声部演奏的键盘手的理想选择，但其输出的噪声要略高于DX7。</p>
+<p><img src="/images/DX9.png" alt="DX9"></p>
+<p><strong>DX9</strong>：阉割版DX7，没有任何改进，但是保留了DX7所有的缺点，还去掉了两个Operator以及力度感应和触后功能。在当时是一个DX7的入门版本（只要DX7一半的价钱），但是在现在，由于毫无特色而备受冷落</p>
+<p><img src="/images/DX11.png" alt="DX11"></p>
+<p><strong>DX11</strong>：1988年的DX7改进版（DX3哪里去了），一大改进是增加了8声部分割功能，可以看作是TX81Z的键盘版。另外的改动是增加了更多快速编辑参数的功能，这使得DX11稍微好用了一点。DX11有8复音，并且与DX7不同的是，DX11的振荡器有8种波形可选择，这弥补了它只有4个OP的不足。不过，DX11终究只是小弟，虽然有着大家喜欢的DX声音，但是地位依然是低于DX7的存在，键盘很可惜的没有力度和触后，手感也没DX7那么高级。</p>
+<p><img src="/images/DX21.png" alt="DX21"></p>
+<p>DX21：升级一下DX9，你就得到了DX21，DX21的键盘同样没有力度，没有触后，有4个多波形OP以及合唱效果。不过DX21的预设很多——有192个固定预设和24个用户预设。另外，DX21的MIDI做的十分完备，有双层音色叠加，尺寸也更小，因而也有着自己的拥趸。这是许多人的DX入门机型，在A-Ha的Take Me On的MV里可以见到它的身影。</p>
+<p><img src="/images/DX100.png" alt="DX100"></p>
+<p><strong>DX100</strong>：DX系列的最低端，也是最便宜的型号，有着迷你琴键，且可以用电池供电。它的声音很薄，但是有一个合唱效果器，而预设都不怎么能用——除了那个令DX100出名的#1 Bass预设。DX100的声音比较独特，尤其适合做模拟味的Bass，在House、Acid音乐中很是流行。DX100还可以装上一个附件变声Keytar使用。现在的DX100很是少见，有的时候价格甚至会超过DX7🤔</p>
+<p><img src="/images/DX27.png" alt="DX27">    </p>
+<p><strong>DX27</strong>：DX100的全尺寸琴键版本，与DX100一同发售，声音与DX100无异 <del>科技以换壳为本</del>。DX27也并不常见，还有一个衍生型号DX27S，其在两侧加装了扬声器，定位家庭使用。</p>
+<p><img src="/images/DX7IIc.png" alt="DX7IIc">    </p>
+<p>​    DX7也有变种，如<strong>DX7iiD</strong>、DX7iiFD、<strong>DX7s</strong>以及<strong>DX7iiC 100周年纪念版</strong>，其中，DX7iiFD可能是最棒的DX7了，FD的意思是Floppy Disk，也就是说它有一个软驱，从而可以存储和加载海量的预设。DX7iiD就是FD去掉了软驱，而DX7s是一个廉价版本，没有立体声输出，但外观很接近。DX7iiC则是非常稀有的东西，一共只生产了300台，有着76键<strong>夜光</strong>键盘，更多的内置存储，不一样的配色，以及表面镀金的按钮。如今她已经成为收藏家的珍品，在防潮箱中静静地等待新主人的宠幸。</p>
+<p><img src="/images/Reface-DX.jpeg" alt="Reface-DX"></p>
+<p>​    2015年，在复古热潮下，雅马哈发布了Reface系列合成器，其中一款是<strong>Reface DX</strong>。</p>
+<p>​    这是1988年以来第一款带键盘的DX系列产品（中间还有一个非常特立独行的DX200音源模块，按下不表）。它几乎就是DX100的现代版本，也能当作Keytar使用，而声音和控制界面都有了十足的改进，这是DX系列的一次重生。</p>
+<h2 id="影响"><a href="#影响" class="headerlink" title="影响"></a>影响</h2><p>​    DX7在音乐上留下了十分深刻的烙印，80年代中期的流行音乐和90年代初期的Techno中都能听到DX7的声音。DX7也深刻影响了合成器产业，在DX7发布后，Sequential、Moog等大品牌在这次风暴中纷纷倒下，不是破产就是被收购重组（顺便一提，在被雅马哈收购后，Dave Smith领导的Sequential团队进入了雅马哈开发了SY35等著名产品），就连罗兰和KORG也遭受了很大的打击。甚至，当年Sequential设计Prophet VS时，产品经理的要求是：它一定要能做出DX7的Slap Bass音色！同期的JX-8P，上面的薄膜开关和预设的EP声音都是受DX7影响的产物，其他厂商的产品也纷纷去掉了原本布满面板的旋钮和推子，将外观向DX7靠拢。</p>
+<img src="/images/JX-8PPPhoto1.jpeg" alt="JX-8PPPhoto1" style="zoom: 25%;" />
+
+<p>​    DX系列红极一时，雅马哈不仅自己制造FM合成器，也出售FM芯片给KORG等厂商，授权他们制造自己的产品，雅马哈也专门开发了一款FM声音芯片YM2612提供给给<u>世嘉Genesis</u>使用，所以一些80年代的游戏机里的声音，也是DX7的风味！</p>
+<h2 id="余生"><a href="#余生" class="headerlink" title="余生"></a>余生</h2><p>​    不过再后来，DX7的预设逐渐变为烂大街的声音，加上编辑音色十分困难的老毛病，人们对DX7的兴趣逐渐减弱。1987年，罗兰发布了D-50，这是一款将数字采样和减法合成结合在一起的产品，相比DX7，有了采样的加持，D-50的声音更加真实。最重要的是，D-50的声音架构理解起来要容易得多，更像传统的模拟合成器。市场就是这样，D-50很快占领了DX7的市场，DX7既是屠龙者，也成了恶龙，DX7落得了被它干掉的旧产品一样的下场，它的时代就这样过去了。</p>
+<p>​    到了今天，古董合成器的价值被重新发掘，这时候，DX7以其新鲜（相比现代合成器）的复古声音回到了舞台。并且，随着电脑的大众化，玩家可以用电脑轻松地管理和使用成千上万的预设音色。更棒的是，由于其极大的产量，DX7的价格并不昂贵。DX7就这样在合成器复古浪潮中回到了荣誉室。顺便一提，DX7的设计元素还初音未来的形象中出现，初音未来的配色和衣服的许多元素，就是来自于DX7。</p>
+<img src="/images/Miku and DX7.jpeg" alt="Miku and DX7" style="zoom: 50%;" />
+
+<p>​    </p>
+<p>​    DX7是毫无疑问的传奇，也是时代的象征，今天，FM合成器依然是一个十分重要的分支，后来的Volca FM、Modx、OPSix等产品都在或多或少地向DX7致敬，它们甚至还有着加载DX7预设的功能。这就是对这一声音遗产最好的继承。</p>
+<p><u><strong>The performance is about to begin.</strong></u></p>
+<hr>
+<p>拓展链接：</p>
+<p><a href="https://yamahablackboxes.com/#synthesizers-keyboards">Yamaha Black Boxes online archive</a></p>
+<p><a href="https://yamahablackboxes.com/articles/how-to-program-yamaha-dx7/">如何为DX7设计音色</a></p>
+<p><a href="https://alexannesty.com/assets/dx7s-circuit-diagram.pdf">DX7s原理图</a></p>
+<p><a href="https://5mag.net/gear/history-science-yamaha-dx7/">Black Ice: The Science of the Yamaha DX7 | 5 Magazine</a></p>
+]]></content>
+      <tags>
+        <tag>-杂谈 -雅马哈 -DX7</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Minimoog Model D</title>
     <url>/2021/02/08/Minimoog-Model-D/</url>
     <content><![CDATA[<h1 id="Minimoog-Model-D"><a href="#Minimoog-Model-D" class="headerlink" title="Minimoog Model D"></a>Minimoog Model D</h1><h2 id="一个产品"><a href="#一个产品" class="headerlink" title="一个产品"></a>一个产品</h2><h2 id="一种声音"><a href="#一种声音" class="headerlink" title="一种声音"></a>一种声音</h2><h2 id="一个时代"><a href="#一个时代" class="headerlink" title="一个时代"></a>一个时代</h2><p><img src="https://i.loli.net/2021/02/12/3dAoIleW9j4HxDt.jpg"></p>
@@ -55,73 +120,6 @@
 ]]></content>
       <tags>
         <tag>-云收藏 -器材党</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Yamaha DX7的故事</title>
-    <url>/2021/05/25/DX7%E7%9A%84%E6%95%85%E4%BA%8B/</url>
-    <content><![CDATA[<h2 id="Yamaha-DX7的故事"><a href="#Yamaha-DX7的故事" class="headerlink" title="Yamaha DX7的故事"></a>Yamaha DX7的故事</h2><p><img src="/images/Yamaha-DX7-1.png" alt="Yamaha-DX7-1"></p>
-<p>雅马哈DX7可能是80年代最重要的合成器，它不仅横扫了当时的合成器市场，还为合成器数字化的进程推进了一大步。本篇文章里，我们就来一起深入了解一下这台传奇的合成器的故事。</p>
-<a id="more"></a>
-
-<p>DX7是世界上第一台大获成功的数字合成器，也是有史以来销量最高的合成器之一，累计销售超过20万台。DX7带来了巨大而又深远的影响，它不仅影响了人们使用键盘的方式，甚至改变了键盘这个词本身。在DX7之前，人们提到”键盘(Keyboard)”时，通常都是指钢琴、电钢(Rhodes)、风琴(Organ)这种乐器的键盘本身，这时候的合成器还与大众相去甚远。然而DX7改变了这一切，DX7的外观就是完全从模拟合成器的反面出发，摒弃了密密麻麻的旋钮，并且以“选择一个预设，然后开始演奏”的角度设计了操作模式，这为DX7的大卖奠定了基础。DX7很快成为了键盘手的必备武器，人民开始用键盘这个词来称呼合成器。可以说，雅马哈的DX系列打开了合成器大众化的大门。</p>
-<p>在开启我们的时间机器之前，让我们先来听一听<a href="https://www.bilibili.com/video/BV1hq4y1j728">DX7的声音</a></p>
-<iframe src="//player.bilibili.com/player.html?aid=545864828&bvid=BV1hq4y1j728&cid=343755007&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<h2 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h2><p>说到DX7，那就不得不提FM合成，这在当时是一种全新的声音合成技术，声音清澈而丰满。第一台商业化的FM合成器是Synclavier I，而雅马哈第一台FM合成器是GS1。FM合成是十分复杂的一类合成方式，并且走入千家万户的DX7的编辑界面十分蹩脚，因此很少有人真正玩明白了FM这一合成方式，这也是DX7的预设被如此“滥用”的原因。</p>
-<p>FM合成器的发明人是一位作曲家而非工程师，他的大名叫John Chowning，来自美国新泽西州，在学习了作曲和乐理之后，Chowning在斯坦福大学获得了音乐艺术的博士学位。之后，在斯坦福的研究里，Chowning对于电脑音乐产生了浓厚的兴趣，这是Chowing被认作电子音乐先驱的起点。要记住，在1964年，电脑可是超级怪咖的玩具。</p>
-<p><img src="/images/Chowning&Yamaha.jpg" alt="Chowning&amp;Yamaha"></p>
-<p>John Chowning当时使用的是Max Mathews开发的开发的MUSIC IV程序，这是第一款被广泛使用的声音生成程序。那个时候，斯坦福没有模拟合成器，但是有一台大型计算机。斯坦福在1965年还开设了著名的人工智能实验室，这为Chowing研究数字合成技术创造了绝佳的条件。</p>
-<p>Chowning记得当时贝尔实验室里的一个研究课题，用一个电脑分析并重新合成小号的声音。在这个研究中他发现，铜管乐器起音部分的声音特质和声音信号频率的带宽迅速增长有紧密的联系。在开始的几毫秒内，声音的能量主要集中在基频处，之后，随着音量在30-40毫秒内增长，更多的谐波以更高的音量连续出现。Chowning思考了一下，随后意识到他可以用简单的FM调制达成相似的结果，只要用一个包络来控制FM调制的量即可。随后的实验中他发现了这种技术的应用前景：单是只用两个振荡器就能得到动听逼真的声音，而这是用其他手段很难达到的。</p>
-<p>Chowning在实验中成功合成了各类复杂的声音，包括模拟原声乐器，甚至是人声。这让Max Mathews印象深刻，他鼓励Chowning继续研究下去。电子风琴厂商也对此技术产生了兴趣，但是他们的工程师似乎并不看好这一技术，因而错失了合作的机会。“他们都专注于研究模拟技术，对我所说的毫无概念。”John Chowning后来说到。</p>
-<h2 id="诞生"><a href="#诞生" class="headerlink" title="诞生"></a>诞生</h2><p>当时，雅马哈是世界上最大的乐器生产商，但是在美国市场中只占据了很少的份额，雅马哈急于寻找占领市场的方法。这时，斯坦福大学的一位毕业生研究了这家公司，并且，让当时雅马哈在美国分部的首席工程师来到了斯坦福，给他展示所研究的FM技术。“不出10分钟，他就理解了这些，我猜雅马哈当时已经在研究数字技术了”，John Chowning说道。雅马哈随后立即派遣了一批人研究FM合成技术，Chowning为FM合成技术申请了专利，雅马哈则在1974年获得了专利的授权。这份专利成为了斯坦福第二赚钱的专利，在到期之前收获了高达两千万美元。不过正如之前提到的，Synclavier I成为了第一台FM合成器，更有趣的地方是，它的技术授权来自雅马哈。</p>
-<p>实际上，罗兰的创始人梯郁太郎也和Chowning见了面，不过那已经是在雅马哈获得专利的半年以后了。他说，雅马哈对于斯坦福是最适合的伙伴，他们是最有能力实现FM合成技术商业化的企业。</p>
-<p>雅马哈终于在1981年造出了自己首台FM合成器——GS1，但是高达13000美元的价格劝退了大部分音乐人，这是因为其中使用的落后芯片技术，GS1使用了约50块集成电路芯片，导致其成本居高不下。到了DX7，随着超大规模集成电路的应用，芯片数量缩减了约25倍，虽然两者的表现有一定差距，但远在可以接受的范围之内。</p>
-<p>雅马哈在研究如何将FM合成技术应用到现实时，也在设计自己的芯片，没错，这两项技术的结晶就是DX7。雅马哈不仅改进了芯片，还用Chowing所说的“很不同寻常”的方式改变了算法，这使得DX7获得了约57kHz的采样率，以及极其出众的声音。Chowning也对此很钦佩，他说，“在斯坦福的那台数字合成器里，当我们用着和DX7一样多的96个振荡器时，我们只有25k-30kHz的带宽，DX7在这一点上要好得多，这是用耳朵一听就能听出来的”</p>
-<h2 id="DX7风暴"><a href="#DX7风暴" class="headerlink" title="DX7风暴"></a>DX7风暴</h2><p>当DX7投入市场时，它带来了一股横扫市场风暴，就像徕卡M3发布时那样。习惯了模拟合成器声音的键盘手们被FM独特的音色（以及DX7的价格标签）吸引了。一时间，大家纷纷认为这就是来自未来的声音。雅马哈为DX7开展了铺天盖地的营销，几乎所有人手上都有了一台DX系列合成器，雅马哈在美国的市场终于打开了。DX7有一个很有名的预设——E PIANO 1，它是在模仿Fender Rhodes的声音。不过有意思的是，大众似乎更喜欢DX7清亮的EP声音，到了1986年，86%的榜首单曲都用了这一预设，可见其影响力一般。</p>
-<p>学习FM合成需要全新的思维模式，也需要大量的实践。实际上在当时，人群中流传的观点是“It’s impossible, or at least very difficult, to program a DX7.”。不过也有一部分人例如Brian Eno做了相当深入的学习，掌握了FM合成技术，并大量地将DX7用于其音乐中。在其1983年的**<em><a href="https://music.163.com/album?id=112844&userid=118468166">Apollo: Atmospheres and Soundtracks</a>**</em>里，DX7无处不在。实际上Brian Eno有整整7台DX7！</p>
-<h2 id="DX大家族"><a href="#DX大家族" class="headerlink" title="DX大家族"></a>DX大家族</h2><p>DX7的定价十分合理，只要1995美元，是完全超越同价位模拟合成器的存在，不过依然有很多人负担不起这样的价格。考虑到这一点，用着精准的刀法，雅马哈细(yan)分(ge)出了DX系列大家族，包括：</p>
-<p><img src="/images/DX1.png" alt="DX1"></p>
-<p><strong>DX1</strong>：DX系列里的巨无霸，实际上是CSDX原型机的零售版吧，可以看作是两台DX7拼在一起，并换了73键木制全配重键盘。它有着两倍的复音和存储，有着双层音色和键盘分割功能，并且搭载了16位精度的DAC。同时，控制面板也得到了相当大的改进，虽然依然要翻菜单，但是你至少可以直观的看到主要参数。DX1的价格是可怕的13900美元，这也难怪它只造了140台。</p>
-<p><img src="/images/DX5.png" alt="DX5">    </p>
-<p><strong>DX5</strong>：科技的发展真的非常快，“仅仅”用了4年，雅马哈就把DX1的技术下放到了更低价位的DX5上，DX5和DX1区别不大，但是没有木边，键盘换成了塑料材质，价格也比DX1低了许多（与两台DX7相当），DX5是需要多声部演奏的键盘手的理想选择，但其输出的噪声要略高于DX7。</p>
-<p><img src="/images/DX9.png" alt="DX9"></p>
-<p><strong>DX9</strong>：阉割版DX7，没有任何改进，但是保留了DX7所有的缺点，还去掉了两个Operator以及力度感应和触后功能。在当时是一个DX7的入门版本（只要DX7一半的价钱），但是在现在，由于毫无特色而备受冷落</p>
-<p><img src="/images/DX11.png" alt="DX11"></p>
-<p><strong>DX11</strong>：1988年的DX7改进版（DX3哪里去了），一大改进是增加了8声部分割功能，可以看作是TX81Z的键盘版。另外的改动是增加了更多快速编辑参数的功能，这使得DX11稍微好用了一点。DX11有8复音，并且与DX7不同的是，DX11的振荡器有8种波形可选择，这弥补了它只有4个OP的不足。不过，DX11终究只是小弟，虽然有着大家喜欢的DX声音，但是地位依然是低于DX7的存在，键盘很可惜的没有力度和触后，手感也没DX7那么高级。</p>
-<p><img src="/images/DX21.png" alt="DX21"></p>
-<p>DX21：升级一下DX9，你就得到了DX21，DX21的键盘同样没有力度，没有触后，有4个多波形OP以及合唱效果。不过DX21的预设很多——有192个固定预设和24个用户预设。另外，DX21的MIDI做的十分完备，有双层音色叠加，尺寸也更小，因而也有着自己的拥趸。这是许多人的DX入门机型，在A-Ha的Take Me On的MV里可以见到它的身影。</p>
-<p><img src="/images/DX100.png" alt="DX100"></p>
-<p><strong>DX100</strong>：DX系列的最低端，也是最便宜的型号，有着迷你琴键，且可以用电池供电。它的声音很薄，但是有一个合唱效果器，而预设都不怎么能用——除了那个令DX100出名的#1 Bass预设。DX100的声音比较独特，尤其适合做模拟味的Bass，在House、Acid音乐中很是流行。DX100还可以装上一个附件变声Keytar使用。现在的DX100很是少见，有的时候价格甚至会超过DX7🤔</p>
-<p><img src="/images/DX27.png" alt="DX27">    </p>
-<p><strong>DX27</strong>：DX100的全尺寸琴键版本，与DX100一同发售，声音与DX100无异（科技以换壳为本）。DX27也并不常见，还有一个衍生型号DX27S，其在两侧加装了扬声器，定位家庭使用。</p>
-<p><img src="/images/DX7IIc.png" alt="DX7IIc">    </p>
-<p>DX7也有变种，如<strong>DX7iiD</strong>、DX7iiFD、<strong>DX7s</strong>以及<strong>DX7iiC 100周年纪念版</strong>，其中，DX7iiFD可能是最棒的DX7了，FD的意思是Floppy Disk，也就是说它有一个软驱，从而可以存储和加载海量的预设。DX7iiD就是FD去掉了软驱，而DX7s是一个廉价版本，没有立体声输出，但外观很接近。DX7iiC则是非常稀有的东西，一共只生产了300台，有着76键<strong>夜光</strong>键盘，更多的内置存储，不一样的配色，以及表面镀金的按钮。如今她已经成为收藏家的珍品，在防潮箱中静静地等待新主人的宠幸。</p>
-<p><img src="/images/Reface-DX.jpeg" alt="Reface-DX"></p>
-<p>2015年，在复古热潮下，雅马哈发布了Reface系列合成器，其中一款是<strong>Reface DX</strong>。</p>
-<p>这是1988年以来第一款带键盘的DX系列产品（中间还有一个非常特立独行的DX200音源模块，按下不表）。它几乎就是DX100的现代版本，也能当作Keytar使用，而声音和控制界面都有了十足的改进，这是DX系列的一次重生。</p>
-<h2 id="影响"><a href="#影响" class="headerlink" title="影响"></a>影响</h2><p>DX7在音乐上留下了十分深刻的烙印，80年代中期的流行音乐和90年代初期的Techno中都能听到DX7的声音。DX7也深刻影响了合成器产业，在DX7发布后，Sequential、Moog等大品牌在这次风暴中纷纷倒下，不是破产就是被收购重组（顺便一提，在被雅马哈收购后，Dave Smith领导的Sequential团队进入了雅马哈开发了SY35等著名产品），就连罗兰和KORG也遭受了很大的打击。甚至，当年Sequential设计Prophet VS时，产品经理的要求是：它一定要能做出DX7的Slap Bass音色！同期的JX-8P，上面的薄膜开关和预设的EP声音都是受DX7影响的产物，其他厂商的产品也纷纷去掉了原本布满面板的旋钮和推子，将外观向DX7靠拢。</p>
-<img src="/images/JX-8PPPhoto1.jpeg" alt="JX-8PPPhoto1" style="zoom: 25%;" />
-
-<p>​    DX系列红极一时，雅马哈不仅自己制造FM合成器，也出售FM芯片给KORG等厂商，授权他们制造自己的产品，雅马哈也专门开发了一款FM声音芯片YM2612提供给给世嘉Genesis使用，所以一些80年代的游戏机里的声音，也是DX7的风味！</p>
-<h2 id="余生"><a href="#余生" class="headerlink" title="余生"></a>余生</h2><p>不过再后来，DX7的预设逐渐变为烂大街的声音，加上编辑音色十分困难的老毛病，人们对DX7的兴趣逐渐减弱。1987年，罗兰发布了D-50，这是一款将数字采样和减法合成结合在一起的产品，相比DX7，有了采样的加持，D-50的声音更加真实。最重要的是，D-50的声音架构理解起来要容易得多，更像传统的模拟合成器。市场就是这样，D-50很快占领了DX7的市场，DX7既是屠龙者，也成了恶龙，DX7落得了被它干掉的旧产品一样的下场，它的时代过去了。</p>
-<p>​    到了今天，古董合成器的价值被重新发掘，这时候，DX7以其新鲜（相比现代合成器）的复古声音回到了舞台。并且，随着电脑的大众化，玩家可以用电脑轻松地管理和使用成千上万的预设音色。更棒的是，由于其极大的产量，DX7的价格并不昂贵。DX7就这样在合成器复古浪潮中回到了荣誉室。顺便一提，DX7的设计元素还初音未来的形象中出现，初音未来的配色和衣服的许多元素，就是来自于DX7。</p>
-<img src="/images/Miku and DX7.jpeg" alt="Miku and DX7" style="zoom: 50%;" />
-
-<p>​    </p>
-<p>​    DX7是毫无疑问的传奇，也是时代的象征，今天，FM合成器依然是一个十分重要的分支，后来的Volca FM、Modx、OPSix等产品都在或多或少地向DX7致敬，它们甚至还有着加载DX7预设的功能。这就是对这一声音遗产最好的继承。</p>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">&lt;font color=grey size=64&gt;&lt;center&gt;The performance is about to begin.&lt;/center&gt;&lt;/font&gt;</span><br></pre></td></tr></table></figure>
-
-
-<hr>
-<p>拓展链接：</p>
-<p><a href="https://yamahablackboxes.com/#synthesizers-keyboards">Yamaha Black Boxes online archive</a></p>
-<p><a href="https://yamahablackboxes.com/articles/how-to-program-yamaha-dx7/">如何为DX7设计音色</a></p>
-<p><a href="https://alexannesty.com/assets/dx7s-circuit-diagram.pdf">DX7s原理图</a></p>
-<p><a href="https://5mag.net/gear/history-science-yamaha-dx7/">Black Ice: The Science of the Yamaha DX7 | 5 Magazine</a></p>
-]]></content>
-      <tags>
-        <tag>-杂谈 -雅马哈</tag>
       </tags>
   </entry>
   <entry>
