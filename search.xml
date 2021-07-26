@@ -32,6 +32,75 @@
       </tags>
   </entry>
   <entry>
+    <title>Yamaha DX7的故事</title>
+    <url>/2021/05/25/DX7%E7%9A%84%E6%95%85%E4%BA%8B/</url>
+    <content><![CDATA[<h2 id="Yamaha-DX7的故事"><a href="#Yamaha-DX7的故事" class="headerlink" title="Yamaha DX7的故事"></a>Yamaha DX7的故事</h2><p><img src="/images/Yamaha-DX7-1.png" alt="Yamaha-DX7-1"></p>
+<p>​    雅马哈DX7可能是80年代最重要的合成器，它横扫了当时的合成器市场，还为合成器数字化的进程推进了一大步。本篇文章里，我们就来一起深入了解一下这台传奇合成器的故事。</p>
+<a id="more"></a>
+
+<p>​    DX7是世界上第一台大获成功的数字合成器，也是有史以来销量最高的合成器之一，累计销售超过20万台。DX7带来了巨大而又深远的影响，它不仅影响了人们使用键盘的方式，甚至改变了键盘这个词本身。在DX7之前，人们提到”键盘(Keyboard)”时，通常都是指钢琴、电钢(Rhodes)、风琴(Organ)这种乐器的键盘本身，这时候的合成器还与大众相去甚远。然而DX7改变了这一切，DX7的外观就是完全从模拟合成器的反面出发，摒弃了密密麻麻的旋钮，并且以“选择一个预设，然后开始演奏”的角度设计了操作模式，这为DX7的大卖奠定了基础。DX7很快成为了键盘手的必备武器，人民开始用键盘这个词来称呼合成器。可以说，雅马哈的DX系列打开了合成器大众化的大门。</p>
+<p>在开启我们的时间机器之前，让我们先来听一听<a href="https://www.bilibili.com/video/BV1hq4y1j728">DX7的声音</a></p>
+<iframe src="//player.bilibili.com/player.html?aid=545864828&bvid=BV1hq4y1j728&cid=343755007&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<h2 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h2><p>​    说到DX7，那就不得不提<u>FM合成</u>，这在当时是一种全新的声音合成技术，声音清澈而丰满。第一台商业化的FM合成器是Synclavier I，而雅马哈第一台FM合成器是GS1。FM合成是十分复杂的一类合成方式，并且走入千家万户的DX7的编辑界面十分蹩脚，因此很少有人真正玩明白了FM这一合成方式，这也是DX7的预设被如此“滥用”的原因。</p>
+<p>​    FM合成器的发明人是一位作曲家而非工程师，他的大名叫John Chowning，来自美国新泽西州，在学习了作曲和乐理之后，Chowning在斯坦福大学获得了音乐艺术的博士学位。之后，在斯坦福的研究里，Chowning对于电脑音乐产生了浓厚的兴趣，这是Chowing被认作电子音乐先驱的起点。要记住，在1964年，电脑可是超级怪咖的玩具。</p>
+<p><img src="/images/Chowning&Yamaha.jpg" alt="Chowning&amp;Yamaha"></p>
+<p>​    John Chowning当时使用的是Max Mathews开发的开发的MUSIC IV程序，这是第一款被广泛使用的声音生成程序。那个时候，斯坦福没有模拟合成器，但是有一台大型计算机。斯坦福在1965年还开设了著名的人工智能实验室，这为Chowing研究数字合成技术创造了绝佳的条件。</p>
+<p>​    Chowning记得当时贝尔实验室里的一个研究课题，用一个电脑分析并重新合成小号的声音。在这个研究中他发现，铜管乐器起音部分的声音特质和声音信号频率的带宽迅速增长有紧密的联系。在开始的几毫秒内，声音的能量主要集中在基频处，之后，随着音量在30-40毫秒内增长，更多的谐波以更高的音量连续出现。Chowning思考了一下，随后意识到他可以用简单的FM调制达成相似的结果，只要用一个包络来控制FM调制的量即可。随后的实验中他发现了这种技术的应用前景：单是只用两个振荡器就能得到动听逼真的声音，而这是用其他手段很难达到的。</p>
+<p>​    Chowning在实验中成功合成了各类复杂的声音，包括模拟原声乐器，甚至是人声。这让Max Mathews印象深刻，他鼓励Chowning继续研究下去。电子风琴厂商也对此技术产生了兴趣，但是他们的工程师似乎并不看好这一技术，因而错失了合作的机会。“他们都专注于研究模拟技术，对我所说的毫无概念。”John Chowning后来说到。</p>
+<h2 id="诞生"><a href="#诞生" class="headerlink" title="诞生"></a>诞生</h2><p>​    当时，雅马哈是世界上最大的乐器生产商，但是在美国市场中只占据了很少的份额，雅马哈急于寻找占领市场的方法。这时，斯坦福大学的一位毕业生研究了这家公司，并且，让当时雅马哈在美国分部的首席工程师来到了斯坦福，给他展示所研究的FM技术。“不出10分钟，他就理解了这些，我猜雅马哈当时已经在研究数字技术了”，John Chowning说道。雅马哈随后立即派遣了一批人研究FM合成技术，Chowning为FM合成技术申请了专利，雅马哈则在1974年获得了专利的授权。这份专利成为了斯坦福第二赚钱的专利，在到期之前收获了高达两千万美元。不过正如之前提到的，Synclavier I成为了第一台FM合成器，更有趣的地方是，它的专利授权来自雅马哈。</p>
+<p>​    实际上，罗兰的创始人梯郁太郎也和Chowning见了面，不过那已经是在雅马哈获得专利的半年以后了。他说，雅马哈对于斯坦福是最适合的伙伴，他们是最有能力实现FM合成技术商业化的企业。</p>
+<p>​    雅马哈终于在1981年造出了自己首台FM合成器——GS1，但是高达13000美元的价格劝退了大部分音乐人，这是因为其中使用的落后芯片技术，GS1使用了约50块集成电路芯片，导致其成本居高不下。到了DX7，随着超大规模集成电路的应用，芯片数量缩减了约25倍，虽然两者的表现有一定差距，但远在可以接受的范围之内。</p>
+<p>​    雅马哈在研究如何将FM合成技术应用到现实时，也在设计自己的芯片，没错，这两项技术的结晶就是DX7。雅马哈不仅改进了芯片，还用Chowing所说的“很不同寻常”的方式改变了算法，这使得DX7获得了约57kHz的采样带宽，以及极其出众的声音。Chowning也对此很钦佩，他说，“在斯坦福的那台数字合成器里，当我们用着和DX7一样多的96个振荡器时，我们只有25k-30kHz的带宽，DX7在这一点上要好得多，这是用耳朵一听就能听出来的”</p>
+<h2 id="DX7风暴"><a href="#DX7风暴" class="headerlink" title="DX7风暴"></a>DX7风暴</h2><p>​    当DX7投入市场时，它带来了一股横扫市场的风暴，就像1954年徕卡M3发布时的场景。习惯了模拟合成器声音的键盘手们被FM独特的音色（以及DX7的价格标签）吸引了。一时间，大家纷纷认为这就是来自未来的声音。雅马哈为DX7开展了铺天盖地的营销，几乎所有人手上都有了一台DX系列合成器，雅马哈在美国的市场终于打开了。DX7有一个很有名的预设——E PIANO 1，它是在模仿Fender Rhodes的声音。不过有意思的是，大众似乎更喜欢DX7清亮的EP声音，到了1986年，86%的榜首单曲都用了这一预设，可见其影响力一般。</p>
+<p>​    学习FM合成需要全新的思维模式，也需要大量的实践。实际上在当时，人群中流传的观点是“<u>It’s impossible, or at least very difficult, to program a DX7</u>.”不过也有一部分人例如Brian Eno做了相当深入的学习，掌握了FM合成技术，并大量地将DX7用于其音乐中。在其1983年的**<em><a href="https://music.163.com/album?id=112844&userid=118468166">Apollo: Atmospheres and Soundtracks</a>**</em>里，DX7无处不在。实际上Brian Eno有整整7台DX7！</p>
+<h2 id="DX大家族"><a href="#DX大家族" class="headerlink" title="DX大家族"></a>DX大家族</h2><p>​    DX7的定价十分合理，只要1995美元，是完全超越同价位模拟合成器的存在，不过依然有很多人负担不起这样的价格。考虑到这一点，用着精准的刀法，雅马哈细(yan)分(ge)出了DX系列大家族，包括：</p>
+<p><img src="/images/DX1.png" alt="DX1"></p>
+<p><strong>DX1</strong>：DX系列里的巨无霸，实际上是CSDX原型机的零售版吧，可以看作是两台DX7拼在一起，并换了73键木制全配重键盘。它有着两倍的复音和存储，有着双层音色和键盘分割功能，并且搭载了16位精度的DAC。同时，控制面板也得到了相当大的改进，虽然依然要翻菜单，但是你至少可以直观的看到主要参数。DX1的价格是可怕的13900美元，这也难怪它只造了140台。</p>
+<p><img src="/images/DX5.png" alt="DX5">    </p>
+<p><strong>DX5</strong>：科技的发展真的非常快，“仅仅”用了4年，雅马哈就把DX1的技术下放到了更低价位的DX5上，DX5和DX1区别不大，但是没有木边，键盘换成了塑料材质，价格也比DX1低了许多（与两台DX7相当），DX5是需要多声部演奏的键盘手的理想选择，但其输出的噪声要略高于DX7。</p>
+<p><img src="/images/DX9.png" alt="DX9"></p>
+<p><strong>DX9</strong>：阉割版DX7，除了复音翻倍没有任何改进，但是保留了DX7所有的缺点，还去掉了两个Operator以及力度感应和触后功能。在当时是一个DX7的入门版本（只要DX7一半的价钱），但是在现在，由于毫无特色而备受冷落</p>
+<p><img src="/images/DX11.png" alt="DX11"></p>
+<p><strong>DX11</strong>：1988年的DX7改进版（DX3哪里去了），一大改进是增加了8声部分割功能，可以看作是TX81Z的键盘版。另外的改动是增加了更多快速编辑参数的功能，这使得DX11稍微好用了一点。DX11有8复音，并且与DX7不同的是，DX11的振荡器有8种波形可选择，这弥补了它只有4个OP的不足。不过，DX11终究只是小弟，虽然有着大家喜欢的DX声音，但是地位依然是低于DX7的存在，键盘很可惜的没有力度和触后，手感也没DX7那么高级。</p>
+<p><img src="/images/DX21.png" alt="DX21"></p>
+<p><strong>DX21</strong>：升级一下DX9，你就得到了DX21，DX21的键盘同样没有力度，没有触后，有4个多波形OP以及合唱效果。不过DX21的预设很多——有192个固定预设和24个用户预设。另外，DX21的MIDI做的十分完备，有双层音色叠加，尺寸也更小，因而也有着自己的拥趸。这是许多人的DX入门机型，在A-Ha的Take Me On的MV里可以见到它的身影。</p>
+<p><img src="/images/DX100.png" alt="DX100"></p>
+<p><strong>DX100</strong>：DX系列的最低端，也是最便宜的型号，有着迷你琴键，且可以用电池供电。它的声音很薄，但是有一个合唱效果器，而预设都不怎么能用——除了那个令DX100出名的#1 Bass预设。DX100的声音比较独特，尤其适合做模拟味的Bass，在House、Acid音乐中很是流行。DX100还可以装上一个附件变声Keytar使用。现在的DX100很是少见，有的时候价格甚至会超过DX7🤔</p>
+<p><img src="/images/DX27.png" alt="DX27">    </p>
+<p><strong>DX27</strong>：DX100的全尺寸琴键版本，与DX100一同发售，声音与DX100无异 <del>科技以换壳为本</del>。DX27也并不常见，还有一个衍生型号DX27S，其在两侧加装了扬声器，定位家庭使用。</p>
+<p><img src="/images/DX7IIc.png" alt="DX7IIc">    </p>
+<p>​    DX7也有变种，如<strong>DX7iiD</strong>、DX7iiFD、<strong>DX7s</strong>以及<strong>DX7iiC 100周年纪念版</strong>，其中，DX7iiFD可能是最棒的DX7了，FD的意思是Floppy Disk，也就是说它有一个软驱，从而可以存储和加载海量的预设。DX7iiD就是FD去掉了软驱，而DX7s是一个廉价版本，没有立体声输出，但外观很接近。DX7iiC则是非常稀有的东西，一共只生产了100台，有着76键<strong>夜光</strong>键盘，更多的内置存储，不一样的配色，以及表面镀金的按钮。如今她已经成为收藏家的珍品，在防潮箱中静静地等待新主人的宠幸。(下列图片来自猫七)</p>
+<p><img src="/images/DX7iic_Nekonana_1.jpg" alt="DX7iic_Nekonana_1"></p>
+<p><img src="/images/DX7iic_nekonana_2.jpg" alt="DX7iic_nekonana_2"></p>
+<p><img src="/images/Reface-DX.jpeg" alt="Reface-DX"></p>
+<p>​    2015年，在复古热潮下，雅马哈发布了Reface系列合成器，其中一款是<strong>Reface DX</strong>。</p>
+<p>​    这是1988年以来第一款带键盘的DX系列产品（中间还有一个非常特立独行的DX200音源模块，按下不表）。它几乎就是DX100的现代版本，也能当作Keytar使用，而声音和控制界面都有了十足的改进，这是DX系列的一次重生。</p>
+<h2 id="影响"><a href="#影响" class="headerlink" title="影响"></a>影响</h2><p>​    DX7在音乐上留下了十分深刻的烙印，80年代中期的流行音乐和90年代初期的Techno中都能听到DX7的声音。DX7也深刻影响了合成器产业，在DX7发布后，Sequential、Moog等大品牌在这次风暴中纷纷倒下，不是破产就是被收购重组（顺便一提，在被雅马哈收购后，Dave Smith领导的Sequential团队进入了雅马哈开发了SY35等著名产品），就连罗兰和KORG也遭受了很大的打击。甚至，当年Sequential设计Prophet VS时，产品经理的要求是：它一定要能做出DX7的Slap Bass音色！同期的JX-8P，上面的薄膜开关和预设的EP声音都是受DX7影响的产物，其他厂商的产品也纷纷去掉了原本布满面板的旋钮和推子，将外观向DX7靠拢。</p>
+<img src="/images/JX-8PPPhoto1.jpeg" alt="JX-8PPPhoto1" style="zoom: 25%;" />
+
+<p>​    DX系列红极一时，雅马哈不仅自己制造FM合成器，也出售FM芯片给KORG等厂商，授权他们制造自己的产品，雅马哈也专门开发了一款FM声音芯片YM2612提供给给<u>世嘉Genesis</u>使用，所以一些80年代的游戏机里的声音，也是DX7的风味！</p>
+<h2 id="余生"><a href="#余生" class="headerlink" title="余生"></a>余生</h2><p>​    不过再后来，DX7的预设逐渐变为烂大街的声音，加上编辑音色十分困难的老毛病，人们对DX7的兴趣逐渐减弱。1987年，罗兰发布了D-50，这是一款将数字采样和减法合成结合在一起的产品，相比DX7，有了采样的加持，D-50的声音更加真实。最重要的是，D-50的声音架构理解起来要容易得多，更像传统的模拟合成器。市场就是这样，D-50很快占领了DX7的市场，DX7既是屠龙者，也成了恶龙，DX7落得了被它干掉的旧产品一样的下场，它的时代就这样过去了。</p>
+<p>​    到了今天，古董合成器的价值被重新发掘，这时候，DX7以其新鲜（相比现代合成器）的复古声音回到了舞台。并且，随着电脑的大众化，玩家可以用电脑轻松地管理和使用成千上万的预设音色。更棒的是，由于其极大的产量，DX7的价格并不昂贵。DX7就这样在合成器复古浪潮中回到了荣誉室。顺便一提，DX7的设计元素还初音未来的形象中出现，初音未来的配色和衣服的许多元素，就是来自于DX7。</p>
+<img src="/images/Miku and DX7.jpeg" alt="Miku and DX7" style="zoom: 50%;" />
+
+<p>​    </p>
+<p>​    DX7是毫无疑问的传奇，也是时代的象征，今天，FM合成器依然是一个十分重要的分支，后来的Volca FM、Modx、OPSix等产品都在或多或少地向DX7致敬，它们甚至还有着加载DX7预设的功能。这就是对这一声音遗产最好的继承。</p>
+<p><u><strong>The performance is about to begin.</strong></u></p>
+<hr>
+<p>拓展链接：</p>
+<p><a href="https://yamahablackboxes.com/#synthesizers-keyboards">Yamaha Black Boxes online archive</a></p>
+<p><a href="https://yamahablackboxes.com/articles/how-to-program-yamaha-dx7/">如何为DX7设计音色</a></p>
+<p><a href="https://alexannesty.com/assets/dx7s-circuit-diagram.pdf">DX7s原理图</a></p>
+<p><a href="https://5mag.net/gear/history-science-yamaha-dx7/">Black Ice: The Science of the Yamaha DX7 | 5 Magazine</a></p>
+]]></content>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>雅马哈</tag>
+        <tag>DX7</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Minimoog Model D</title>
     <url>/2021/02/08/Minimoog-Model-D/</url>
     <content><![CDATA[<h1 id="Minimoog-Model-D"><a href="#Minimoog-Model-D" class="headerlink" title="Minimoog Model D"></a>Minimoog Model D</h1><h2 id="一个产品"><a href="#一个产品" class="headerlink" title="一个产品"></a>一个产品</h2><h2 id="一种声音"><a href="#一种声音" class="headerlink" title="一种声音"></a>一种声音</h2><h2 id="一个时代"><a href="#一个时代" class="headerlink" title="一个时代"></a>一个时代</h2><p><img src="https://i.loli.net/2021/02/12/3dAoIleW9j4HxDt.jpg"></p>
@@ -108,75 +177,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Yamaha DX7的故事</title>
-    <url>/2021/05/25/DX7%E7%9A%84%E6%95%85%E4%BA%8B/</url>
-    <content><![CDATA[<h2 id="Yamaha-DX7的故事"><a href="#Yamaha-DX7的故事" class="headerlink" title="Yamaha DX7的故事"></a>Yamaha DX7的故事</h2><p><img src="/images/Yamaha-DX7-1.png" alt="Yamaha-DX7-1"></p>
-<p>​    雅马哈DX7可能是80年代最重要的合成器，它横扫了当时的合成器市场，还为合成器数字化的进程推进了一大步。本篇文章里，我们就来一起深入了解一下这台传奇合成器的故事。</p>
-<a id="more"></a>
-
-<p>​    DX7是世界上第一台大获成功的数字合成器，也是有史以来销量最高的合成器之一，累计销售超过20万台。DX7带来了巨大而又深远的影响，它不仅影响了人们使用键盘的方式，甚至改变了键盘这个词本身。在DX7之前，人们提到”键盘(Keyboard)”时，通常都是指钢琴、电钢(Rhodes)、风琴(Organ)这种乐器的键盘本身，这时候的合成器还与大众相去甚远。然而DX7改变了这一切，DX7的外观就是完全从模拟合成器的反面出发，摒弃了密密麻麻的旋钮，并且以“选择一个预设，然后开始演奏”的角度设计了操作模式，这为DX7的大卖奠定了基础。DX7很快成为了键盘手的必备武器，人民开始用键盘这个词来称呼合成器。可以说，雅马哈的DX系列打开了合成器大众化的大门。</p>
-<p>在开启我们的时间机器之前，让我们先来听一听<a href="https://www.bilibili.com/video/BV1hq4y1j728">DX7的声音</a></p>
-<iframe src="//player.bilibili.com/player.html?aid=545864828&bvid=BV1hq4y1j728&cid=343755007&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<h2 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h2><p>​    说到DX7，那就不得不提<u>FM合成</u>，这在当时是一种全新的声音合成技术，声音清澈而丰满。第一台商业化的FM合成器是Synclavier I，而雅马哈第一台FM合成器是GS1。FM合成是十分复杂的一类合成方式，并且走入千家万户的DX7的编辑界面十分蹩脚，因此很少有人真正玩明白了FM这一合成方式，这也是DX7的预设被如此“滥用”的原因。</p>
-<p>​    FM合成器的发明人是一位作曲家而非工程师，他的大名叫John Chowning，来自美国新泽西州，在学习了作曲和乐理之后，Chowning在斯坦福大学获得了音乐艺术的博士学位。之后，在斯坦福的研究里，Chowning对于电脑音乐产生了浓厚的兴趣，这是Chowing被认作电子音乐先驱的起点。要记住，在1964年，电脑可是超级怪咖的玩具。</p>
-<p><img src="/images/Chowning&Yamaha.jpg" alt="Chowning&amp;Yamaha"></p>
-<p>​    John Chowning当时使用的是Max Mathews开发的开发的MUSIC IV程序，这是第一款被广泛使用的声音生成程序。那个时候，斯坦福没有模拟合成器，但是有一台大型计算机。斯坦福在1965年还开设了著名的人工智能实验室，这为Chowing研究数字合成技术创造了绝佳的条件。</p>
-<p>​    Chowning记得当时贝尔实验室里的一个研究课题，用一个电脑分析并重新合成小号的声音。在这个研究中他发现，铜管乐器起音部分的声音特质和声音信号频率的带宽迅速增长有紧密的联系。在开始的几毫秒内，声音的能量主要集中在基频处，之后，随着音量在30-40毫秒内增长，更多的谐波以更高的音量连续出现。Chowning思考了一下，随后意识到他可以用简单的FM调制达成相似的结果，只要用一个包络来控制FM调制的量即可。随后的实验中他发现了这种技术的应用前景：单是只用两个振荡器就能得到动听逼真的声音，而这是用其他手段很难达到的。</p>
-<p>​    Chowning在实验中成功合成了各类复杂的声音，包括模拟原声乐器，甚至是人声。这让Max Mathews印象深刻，他鼓励Chowning继续研究下去。电子风琴厂商也对此技术产生了兴趣，但是他们的工程师似乎并不看好这一技术，因而错失了合作的机会。“他们都专注于研究模拟技术，对我所说的毫无概念。”John Chowning后来说到。</p>
-<h2 id="诞生"><a href="#诞生" class="headerlink" title="诞生"></a>诞生</h2><p>​    当时，雅马哈是世界上最大的乐器生产商，但是在美国市场中只占据了很少的份额，雅马哈急于寻找占领市场的方法。这时，斯坦福大学的一位毕业生研究了这家公司，并且，让当时雅马哈在美国分部的首席工程师来到了斯坦福，给他展示所研究的FM技术。“不出10分钟，他就理解了这些，我猜雅马哈当时已经在研究数字技术了”，John Chowning说道。雅马哈随后立即派遣了一批人研究FM合成技术，Chowning为FM合成技术申请了专利，雅马哈则在1974年获得了专利的授权。这份专利成为了斯坦福第二赚钱的专利，在到期之前收获了高达两千万美元。不过正如之前提到的，Synclavier I成为了第一台FM合成器，更有趣的地方是，它的专利授权来自雅马哈。</p>
-<p>​    实际上，罗兰的创始人梯郁太郎也和Chowning见了面，不过那已经是在雅马哈获得专利的半年以后了。他说，雅马哈对于斯坦福是最适合的伙伴，他们是最有能力实现FM合成技术商业化的企业。</p>
-<p>​    雅马哈终于在1981年造出了自己首台FM合成器——GS1，但是高达13000美元的价格劝退了大部分音乐人，这是因为其中使用的落后芯片技术，GS1使用了约50块集成电路芯片，导致其成本居高不下。到了DX7，随着超大规模集成电路的应用，芯片数量缩减了约25倍，虽然两者的表现有一定差距，但远在可以接受的范围之内。</p>
-<p>​    雅马哈在研究如何将FM合成技术应用到现实时，也在设计自己的芯片，没错，这两项技术的结晶就是DX7。雅马哈不仅改进了芯片，还用Chowing所说的“很不同寻常”的方式改变了算法，这使得DX7获得了约57kHz的采样带宽，以及极其出众的声音。Chowning也对此很钦佩，他说，“在斯坦福的那台数字合成器里，当我们用着和DX7一样多的96个振荡器时，我们只有25k-30kHz的带宽，DX7在这一点上要好得多，这是用耳朵一听就能听出来的”</p>
-<h2 id="DX7风暴"><a href="#DX7风暴" class="headerlink" title="DX7风暴"></a>DX7风暴</h2><p>​    当DX7投入市场时，它带来了一股横扫市场的风暴，就像1954年徕卡M3发布时的场景。习惯了模拟合成器声音的键盘手们被FM独特的音色（以及DX7的价格标签）吸引了。一时间，大家纷纷认为这就是来自未来的声音。雅马哈为DX7开展了铺天盖地的营销，几乎所有人手上都有了一台DX系列合成器，雅马哈在美国的市场终于打开了。DX7有一个很有名的预设——E PIANO 1，它是在模仿Fender Rhodes的声音。不过有意思的是，大众似乎更喜欢DX7清亮的EP声音，到了1986年，86%的榜首单曲都用了这一预设，可见其影响力一般。</p>
-<p>​    学习FM合成需要全新的思维模式，也需要大量的实践。实际上在当时，人群中流传的观点是“<u>It’s impossible, or at least very difficult, to program a DX7</u>.”不过也有一部分人例如Brian Eno做了相当深入的学习，掌握了FM合成技术，并大量地将DX7用于其音乐中。在其1983年的**<em><a href="https://music.163.com/album?id=112844&userid=118468166">Apollo: Atmospheres and Soundtracks</a>**</em>里，DX7无处不在。实际上Brian Eno有整整7台DX7！</p>
-<h2 id="DX大家族"><a href="#DX大家族" class="headerlink" title="DX大家族"></a>DX大家族</h2><p>​    DX7的定价十分合理，只要1995美元，是完全超越同价位模拟合成器的存在，不过依然有很多人负担不起这样的价格。考虑到这一点，用着精准的刀法，雅马哈细(yan)分(ge)出了DX系列大家族，包括：</p>
-<p><img src="/images/DX1.png" alt="DX1"></p>
-<p><strong>DX1</strong>：DX系列里的巨无霸，实际上是CSDX原型机的零售版吧，可以看作是两台DX7拼在一起，并换了73键木制全配重键盘。它有着两倍的复音和存储，有着双层音色和键盘分割功能，并且搭载了16位精度的DAC。同时，控制面板也得到了相当大的改进，虽然依然要翻菜单，但是你至少可以直观的看到主要参数。DX1的价格是可怕的13900美元，这也难怪它只造了140台。</p>
-<p><img src="/images/DX5.png" alt="DX5">    </p>
-<p><strong>DX5</strong>：科技的发展真的非常快，“仅仅”用了4年，雅马哈就把DX1的技术下放到了更低价位的DX5上，DX5和DX1区别不大，但是没有木边，键盘换成了塑料材质，价格也比DX1低了许多（与两台DX7相当），DX5是需要多声部演奏的键盘手的理想选择，但其输出的噪声要略高于DX7。</p>
-<p><img src="/images/DX9.png" alt="DX9"></p>
-<p><strong>DX9</strong>：阉割版DX7，除了复音翻倍没有任何改进，但是保留了DX7所有的缺点，还去掉了两个Operator以及力度感应和触后功能。在当时是一个DX7的入门版本（只要DX7一半的价钱），但是在现在，由于毫无特色而备受冷落</p>
-<p><img src="/images/DX11.png" alt="DX11"></p>
-<p><strong>DX11</strong>：1988年的DX7改进版（DX3哪里去了），一大改进是增加了8声部分割功能，可以看作是TX81Z的键盘版。另外的改动是增加了更多快速编辑参数的功能，这使得DX11稍微好用了一点。DX11有8复音，并且与DX7不同的是，DX11的振荡器有8种波形可选择，这弥补了它只有4个OP的不足。不过，DX11终究只是小弟，虽然有着大家喜欢的DX声音，但是地位依然是低于DX7的存在，键盘很可惜的没有力度和触后，手感也没DX7那么高级。</p>
-<p><img src="/images/DX21.png" alt="DX21"></p>
-<p><strong>DX21</strong>：升级一下DX9，你就得到了DX21，DX21的键盘同样没有力度，没有触后，有4个多波形OP以及合唱效果。不过DX21的预设很多——有192个固定预设和24个用户预设。另外，DX21的MIDI做的十分完备，有双层音色叠加，尺寸也更小，因而也有着自己的拥趸。这是许多人的DX入门机型，在A-Ha的Take Me On的MV里可以见到它的身影。</p>
-<p><img src="/images/DX100.png" alt="DX100"></p>
-<p><strong>DX100</strong>：DX系列的最低端，也是最便宜的型号，有着迷你琴键，且可以用电池供电。它的声音很薄，但是有一个合唱效果器，而预设都不怎么能用——除了那个令DX100出名的#1 Bass预设。DX100的声音比较独特，尤其适合做模拟味的Bass，在House、Acid音乐中很是流行。DX100还可以装上一个附件变声Keytar使用。现在的DX100很是少见，有的时候价格甚至会超过DX7🤔</p>
-<p><img src="/images/DX27.png" alt="DX27">    </p>
-<p><strong>DX27</strong>：DX100的全尺寸琴键版本，与DX100一同发售，声音与DX100无异 <del>科技以换壳为本</del>。DX27也并不常见，还有一个衍生型号DX27S，其在两侧加装了扬声器，定位家庭使用。</p>
-<p><img src="/images/DX7IIc.png" alt="DX7IIc">    </p>
-<p>​    DX7也有变种，如<strong>DX7iiD</strong>、DX7iiFD、<strong>DX7s</strong>以及<strong>DX7iiC 100周年纪念版</strong>，其中，DX7iiFD可能是最棒的DX7了，FD的意思是Floppy Disk，也就是说它有一个软驱，从而可以存储和加载海量的预设。DX7iiD就是FD去掉了软驱，而DX7s是一个廉价版本，没有立体声输出，但外观很接近。DX7iiC则是非常稀有的东西，一共只生产了100台，有着76键<strong>夜光</strong>键盘，更多的内置存储，不一样的配色，以及表面镀金的按钮。如今她已经成为收藏家的珍品，在防潮箱中静静地等待新主人的宠幸。(下列图片来自猫七)</p>
-<p><img src="/images/DX7iic_Nekonana_1.jpg" alt="DX7iic_Nekonana_1"></p>
-<p><img src="/images/DX7iic_nekonana_2.jpg" alt="DX7iic_nekonana_2"></p>
-<p><img src="/images/Reface-DX.jpeg" alt="Reface-DX"></p>
-<p>​    2015年，在复古热潮下，雅马哈发布了Reface系列合成器，其中一款是<strong>Reface DX</strong>。</p>
-<p>​    这是1988年以来第一款带键盘的DX系列产品（中间还有一个非常特立独行的DX200音源模块，按下不表）。它几乎就是DX100的现代版本，也能当作Keytar使用，而声音和控制界面都有了十足的改进，这是DX系列的一次重生。</p>
-<h2 id="影响"><a href="#影响" class="headerlink" title="影响"></a>影响</h2><p>​    DX7在音乐上留下了十分深刻的烙印，80年代中期的流行音乐和90年代初期的Techno中都能听到DX7的声音。DX7也深刻影响了合成器产业，在DX7发布后，Sequential、Moog等大品牌在这次风暴中纷纷倒下，不是破产就是被收购重组（顺便一提，在被雅马哈收购后，Dave Smith领导的Sequential团队进入了雅马哈开发了SY35等著名产品），就连罗兰和KORG也遭受了很大的打击。甚至，当年Sequential设计Prophet VS时，产品经理的要求是：它一定要能做出DX7的Slap Bass音色！同期的JX-8P，上面的薄膜开关和预设的EP声音都是受DX7影响的产物，其他厂商的产品也纷纷去掉了原本布满面板的旋钮和推子，将外观向DX7靠拢。</p>
-<img src="/images/JX-8PPPhoto1.jpeg" alt="JX-8PPPhoto1" style="zoom: 25%;" />
-
-<p>​    DX系列红极一时，雅马哈不仅自己制造FM合成器，也出售FM芯片给KORG等厂商，授权他们制造自己的产品，雅马哈也专门开发了一款FM声音芯片YM2612提供给给<u>世嘉Genesis</u>使用，所以一些80年代的游戏机里的声音，也是DX7的风味！</p>
-<h2 id="余生"><a href="#余生" class="headerlink" title="余生"></a>余生</h2><p>​    不过再后来，DX7的预设逐渐变为烂大街的声音，加上编辑音色十分困难的老毛病，人们对DX7的兴趣逐渐减弱。1987年，罗兰发布了D-50，这是一款将数字采样和减法合成结合在一起的产品，相比DX7，有了采样的加持，D-50的声音更加真实。最重要的是，D-50的声音架构理解起来要容易得多，更像传统的模拟合成器。市场就是这样，D-50很快占领了DX7的市场，DX7既是屠龙者，也成了恶龙，DX7落得了被它干掉的旧产品一样的下场，它的时代就这样过去了。</p>
-<p>​    到了今天，古董合成器的价值被重新发掘，这时候，DX7以其新鲜（相比现代合成器）的复古声音回到了舞台。并且，随着电脑的大众化，玩家可以用电脑轻松地管理和使用成千上万的预设音色。更棒的是，由于其极大的产量，DX7的价格并不昂贵。DX7就这样在合成器复古浪潮中回到了荣誉室。顺便一提，DX7的设计元素还初音未来的形象中出现，初音未来的配色和衣服的许多元素，就是来自于DX7。</p>
-<img src="/images/Miku and DX7.jpeg" alt="Miku and DX7" style="zoom: 50%;" />
-
-<p>​    </p>
-<p>​    DX7是毫无疑问的传奇，也是时代的象征，今天，FM合成器依然是一个十分重要的分支，后来的Volca FM、Modx、OPSix等产品都在或多或少地向DX7致敬，它们甚至还有着加载DX7预设的功能。这就是对这一声音遗产最好的继承。</p>
-<p><u><strong>The performance is about to begin.</strong></u></p>
-<hr>
-<p>拓展链接：</p>
-<p><a href="https://yamahablackboxes.com/#synthesizers-keyboards">Yamaha Black Boxes online archive</a></p>
-<p><a href="https://yamahablackboxes.com/articles/how-to-program-yamaha-dx7/">如何为DX7设计音色</a></p>
-<p><a href="https://alexannesty.com/assets/dx7s-circuit-diagram.pdf">DX7s原理图</a></p>
-<p><a href="https://5mag.net/gear/history-science-yamaha-dx7/">Black Ice: The Science of the Yamaha DX7 | 5 Magazine</a></p>
-]]></content>
-      <tags>
-        <tag>杂谈</tag>
-        <tag>雅马哈</tag>
-        <tag>DX7</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Sequential Prophet-5</title>
     <url>/2021/05/13/Sequential-Prophet-5/</url>
     <content><![CDATA[<h1 id="Prophet-5"><a href="#Prophet-5" class="headerlink" title="Prophet 5"></a>Prophet 5</h1><h2 id="大地的裂变"><a href="#大地的裂变" class="headerlink" title="大地的裂变"></a><strong>大地的裂变</strong></h2><p><img src="/images/Sequential-Prophet-5-GreatSynthesizers-03-Cropped.jpg" alt="Prophet-5 Rev3"></p>
@@ -207,6 +207,26 @@
         <tag>模拟合成器</tag>
         <tag>Sequential</tag>
         <tag>Prophet</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Softube-Model-84太好听了吧</title>
+    <url>/2021/07/26/Softube-Model-84%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86%E5%90%A7/</url>
+    <content><![CDATA[<p><img src="/images/Softube-Model-84-2.jpg" alt="Softube-Model-84-2"></p>
+<p>Softube开始做合成器建模的时候我是很激动的，毕竟凭Softube的建模实力，做这些轻而易举，当然，合成器这玩意不比各种效果器简单，特别是音色上的差异很容易被听出来，这次Softube的Model84（建模自Juno-106）着实让我吃了一惊。</p>
+<p>首先，这个界面可以算是第一梯队，虽然我个人对这种故意做旧的外观并不来电（那两个发黄的琴键有点要命），不过就拟真性来看，Softube做的相当不错。并且，界面没有像罗兰一样一比一地还原真琴，而是像TAL那样，为适应屏幕做了调整，推子和旋钮操作起来十分精准顺滑，手感颇佳，边弹边调参数也能感觉到声音是自然地在变化。</p>
+<p>![截屏2021-07-26 下午2.41.03](/images/截屏2021-07-26 下午2.41.03.png)</p>
+<p>当然，对于一款合成器来说，没有什么比声音更重要的了，当我玩起这插件的瞬间，我就感觉到一种前所未有的真实感，高频的颗粒感，模拟合成器特有的贴脸感，以及宽广而有做作的合唱。这是我第一次从软件合成器上得到如此多的震撼（我知道我看着很像收了厂家钱hhh）</p>
+<p>下面是一段实时调整音色的Demo，相信你也会像我一样惊讶！</p>
+<p><a href="https://www.bilibili.com/audio/au2448848?type=1?type=6">https://www.bilibili.com/audio/au2448848?type=1?type=6</a></p>
+<p>当然，它也不是没有缺点，倒不如说，Juno-106也有缺点，因为这个插件实在是太还原了。比如说你不能用包络调制PWM，高通滤波器也不是连续的，就连复音数都被死死限制在了6。好在你仍然有力度和触后的控制选项，但这也没法改变这是一台及其受限的合成器的事实。</p>
+<p>如果你很喜欢复古的合成器声音，或者更进一步地说——喜欢Juno-106的声音，那么可一定不要错过Model 84，它已经成了我最喜欢的软件合成器之一了。</p>
+<p>售价：99$（折扣）</p>
+<p>官网：<a href="https://www.softube.com/model-84-polyphonic-synthesizer">https://www.softube.com/model-84-polyphonic-synthesizer</a></p>
+<p>可全功能试用20天</p>
+]]></content>
+      <tags>
+        <tag>插件</tag>
       </tags>
   </entry>
   <entry>
@@ -259,9 +279,162 @@
 <p><img src="/images/OB-Xd%E8%AF%B4%E6%98%8E%E5%89%AF%E6%9C%AC.jpg" alt="OB-Xd说明副本"></p>
 ]]></content>
       <tags>
-        <tag>推荐</tag>
         <tag>插件</tag>
+        <tag>推荐</tag>
         <tag>Oberheim</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>奇葩的罗兰SH系列命名</title>
+    <url>/2021/02/25/%E5%A5%87%E8%91%A9%E7%9A%84%E7%BD%97%E5%85%B0SH%E7%B3%BB%E5%88%97%E5%91%BD%E5%90%8D/</url>
+    <content><![CDATA[<p><img src="https://i.loli.net/2021/02/25/T1F5ARQJxhVDnP9.png" alt="SH-101 logo.png"></p>
+<p>合成器这个词在日语里音译为シンセサイザー，罗马音写作Shinsesaizā，这就是罗兰SH合成器里“SH”的由来（看来雅马哈的SY是英语派系的）。SH系列不乏SH-101这样的名机，但是…对于众多玩家来说，SH系列的命名那叫一个奇葩，堪称合成器界的Xbox，看来有必要带大家捋一捋这奇葩的系列了。</p>
+<a id="more"></a>
+
+<h3 id="1973-SH-1000"><a href="#1973-SH-1000" class="headerlink" title="1973 SH-1000"></a><strong>1973 SH-1000</strong></h3><p><img src="https://i.loli.net/2021/02/25/7CjERY5Agboxdh1.jpg" alt="SH 1000.jpg"></p>
+<p>很好的开始，不是吗？从SH-1000到SH-9999一共可以出8999款产品呢！<del>妈妈再也不用担心我命名困难啦</del></p>
+<h3 id="1974-SH-2000"><a href="#1974-SH-2000" class="headerlink" title="1974 SH-2000"></a><strong>1974 SH-2000</strong></h3><p><img src="https://i.loli.net/2021/02/25/PSHIAExq2hY819Q.jpg" alt="roland-sh-2000-872.jpg"></p>
+<p>很标准的第二代命名，我相信没有人会被这种命名顺序弄糊涂。</p>
+<h3 id="1974-SH-3"><a href="#1974-SH-3" class="headerlink" title="1974 SH-3"></a><strong>1974 SH-3</strong></h3><p><img src="https://i.loli.net/2021/02/25/DqU42GrHd8FlNiS.jpg" alt="SH 3.jpg"></p>
+<p>等下，不是应该叫SH-3000吗？？你说名字太长了不好记？好吧，与时俱进嘛。</p>
+<h3 id="1974-SH-3a"><a href="#1974-SH-3a" class="headerlink" title="1974 SH-3a"></a><strong>1974 SH-3a</strong></h3><p><img src="https://i.loli.net/2021/02/25/Pb6YUVEzyNARXop.jpg" alt="SH 3a.jpeg"></p>
+<p>罗兰改了滤波器设计，名字后面加了个a，🉑️。</p>
+<h3 id="1975-SH-5"><a href="#1975-SH-5" class="headerlink" title="1975 SH-5"></a><strong>1975 SH-5</strong></h3><p><img src="https://i.loli.net/2021/02/25/fujEJB1Dq4k6phL.jpg" alt="SH-5.jpg"></p>
+<p>Wait，你们是不是漏了个叫SH-4的东西？</p>
+<h3 id="1978-SH-7"><a href="#1978-SH-7" class="headerlink" title="1978 SH-7"></a><strong>1978 SH-7</strong></h3><p><img src="https://i.loli.net/2021/02/25/aWAyZPliU8Igps2.jpg" alt="SH-7.jpeg"></p>
+<p>所以说罗兰想像英特尔那样采用3-5-7来标注产品线？行，再给你一次机会….</p>
+<h3 id="1978-SH-1"><a href="#1978-SH-1" class="headerlink" title="1978 SH-1"></a><strong>1978 SH-1</strong></h3><p><img src="https://i.loli.net/2021/02/25/XOzBH3n25eKJYbM.jpg" alt="SH-1.jpeg"></p>
+<p>好嘛，不知道该说什么了，这是要从头再来的节奏？早干啥去了？</p>
+<h3 id="1978-SH-09"><a href="#1978-SH-09" class="headerlink" title="1978 SH-09"></a><strong>1978 SH-09</strong></h3><p><img src="https://i.loli.net/2021/02/25/kY2q6jInAQwVfBm.jpg" alt="SH-09.jpeg"></p>
+<p>鉴定完毕，没有10年脑淤血想不出这个名字，下一个</p>
+<h3 id="1979-SH-2"><a href="#1979-SH-2" class="headerlink" title="1979 SH-2"></a><strong>1979 SH-2</strong></h3><p><img src="https://i.loli.net/2021/02/25/1nc9eOmv3NlZyG6.jpg" alt="roland-sh-2.jpg"></p>
+<p>好家伙，下一个是不是就该叫SH-4了？讲道理大部分人都会以为这货是SH系列的第二款。</p>
+<h3 id="1982-SH-101"><a href="#1982-SH-101" class="headerlink" title="1982 SH-101"></a><strong>1982 SH-101</strong></h3><p><img src="https://i.loli.net/2021/02/25/vVaTh7fZnbzXo6P.png" alt="SH-101.png"></p>
+<p>虽然各位应该挺熟悉这个名字的，但是我依然觉得罗兰的命名部出了点问题。如果说向波音学习？那下一款产品最好叫SH-202.</p>
+<h3 id="1983-2002-就这？？"><a href="#1983-2002-就这？？" class="headerlink" title="1983-2002 就这？？"></a><strong>1983-2002</strong> <strong>就这？？</strong></h3><hr>
+<p>没错，在这近20年里SH系列没有出过新产品，大部分人翻历史翻到这里大概会以为SH系列没了吧（就这命名混乱度，没了活该）</p>
+<h3 id="2002-SH-32"><a href="#2002-SH-32" class="headerlink" title="2002 SH-32"></a><strong>2002 SH-32</strong></h3><p><img src="https://i.loli.net/2021/02/25/CWb3J7s4GByOND8.jpg" alt="SH-32.jpeg"></p>
+<p>鉴定完毕，没有30年脑淤血想不出这个名字，下一个</p>
+<h3 id="2006-SH-201"><a href="#2006-SH-201" class="headerlink" title="2006 SH-201"></a><strong>2006 SH-201</strong></h3><p><img src="https://i.loli.net/2021/02/25/oA6czIQb4rt52qg.jpg" alt="SH-201.jpg"></p>
+<p>不得不说我挺佩服做命名的人的，这是超时空产品线吗</p>
+<h3 id="2010-SH-01"><a href="#2010-SH-01" class="headerlink" title="2010 SH-01"></a><strong>2010 SH-01</strong></h3><p><img src="https://i.loli.net/2021/02/25/3cYtEmkxqN8u6sA.jpg" alt="sh-01.jpg"></p>
+<p>问题来了，它和SH-1、SH-101以及SH-09有什么关系？</p>
+<p>没有关系！这就是个简单的数字合成器！<strong>Surprise Motherfxxker！</strong></p>
+<h3 id="2017-SH-01a"><a href="#2017-SH-01a" class="headerlink" title="2017 SH-01a"></a><strong>2017 SH-01a</strong></h3><p><img src="https://i.loli.net/2021/02/25/KQZJXAsHM9pDEuO.jpg" alt="sh-01a_K25m.jpg"></p>
+<p>相信你也猜到了，这个SH-01a和SH-01同样没有任何关系，只是为了符合Boutique系列命名规则又为了避免重复才采取的名字，这是目前SH最新的产品。</p>
+<hr>
+<p>这次就写到这里了，希望SH系列好自为之，好好反思，不要再祸害人了哈哈哈哈哈。</p>
+<p>（灵感和部分资料来自于<a href="https://www.youtube.com/watch?v=XHUxR1S6r2s%EF%BC%89">https://www.youtube.com/watch?v=XHUxR1S6r2s）</a></p>
+]]></content>
+      <tags>
+        <tag>器材党</tag>
+        <tag>杂谈</tag>
+        <tag>罗兰</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我不喜欢罗兰Boutique</title>
+    <url>/2021/07/26/%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%BD%97%E5%85%B0Boutique/</url>
+    <content><![CDATA[<p><img src="/images/Roland-Boutique-familia.jpg" alt="Boutique舰队"></p>
+<h2 id="奇怪的Boutique"><a href="#奇怪的Boutique" class="headerlink" title="奇怪的Boutique"></a>奇怪的Boutique</h2><p>当第一次看到Boutique系列时，我心里有一股说不出来的感觉：一方面，我为罗兰能复刻自己的经典产品而感到兴奋，另一方面则是疑惑：为什么要把它们做成这个样子？</p>
+<p>罗兰在2015年10月1日官宣了Boutique系列的存在，本质上就是把一系列经典产品通过ACB技术浓缩到一本书那么大的小方盒子里，ACB技术其实就是Supernatural技术的后代，所以除了和Studio Electronics一起开发的SE-02，Boutique系列全部都是数字合成器。</p>
+<p>看到这里很多人（包括我）都心凉了半截，毕竟数字模拟和真正意义上的复刻差别有多大我们还是知道的。并且罗兰此前就发不了System-1和System-8，宣称这两者可以完美的模拟多种经典合成器。还有一点，罗兰在宣传Roland Cloud时，说道，Roland Cloud的插件都有着相同的ACB技术，如果我的理解没错的话，插件的声音和这些Boutique是一样的。所以这不免让人感到奇怪，Boutique的小体积显然不是为了现场表演而生的，而在工作室使用的话，插件显然是更好的选择，Boutique系列显然多此一举，不是吗？</p>
+<p>到Boutique的价格出来时，我对其前景还是比较怀疑的，399刀的单价，加上键盘又要多一笔，这个价格可以买真模拟的Minilogue了，虽然看测评说声音不错（的确如此），但是我还是很难想到这样的“玩具”要卖给谁。</p>
+<h2 id="罗兰还是你罗兰"><a href="#罗兰还是你罗兰" class="headerlink" title="罗兰还是你罗兰"></a>罗兰还是你罗兰</h2><p>然而市场表现还是狠狠的打了我的脸，Boutique系列卖的相当不错，而且国行的定价也趋于合理，这说明Boutique总体上还是成功的，看来罗兰成功在细分市场找到了一片空地。</p>
+<p>后来我想了又想，如果我是一位古董琴爱好者，我其实是有相当大的概率会买一个Boutique来玩的，一方面罗兰在发布前三款产品时宣称它们是限量版，另一方面，这些小玩具看起来还是很养眼的，设计方面无可挑剔，作为一个桌面摆件是不是把玩一下也是相当的不错。另一方面，假如我有一个热爱合成器的孩子，那么Boutique系列也是圣诞节礼物的好选择，它们的外观比Volca系列精致，价格也在可接受范围内，同时，作为经典产品的代表，不会有人不想要。虽然本文的标题是“我不喜欢罗兰Boutique”，但实际上我还是很想要一台来玩玩的，可以说，罗兰的产品能力充分的展现出来，就如苹果一样，你知道你不需要它们，而且价格也高于一般产品，但是它们就是有种魔力，不断吸引着你，罗兰还是你罗兰。</p>
+<p><img src="/images/roland-boutique-JX-03.jpg" alt="roland-boutique-JX-03"></p>
+<h2 id="吐槽的点"><a href="#吐槽的点" class="headerlink" title="吐槽的点"></a>吐槽的点</h2><p>就拿前三款来说，复音数是一大吐槽点，原版都是6复音、8复音的设计，到了Boutique上，统统变成了4复音，并且还宣传：“你可以买两个串起来，就有8复音了。”这是我没有买Boutique的最大理由，如果连复音数都不一样，又怎么能称之为“忠实复刻”呢？![Youtube上网友的吐槽](/截屏2021-07-26 下午7.29.13.png)<br>Boutique系列还有几个共同的槽点，一是只有3.5mm输出，另一点是旋钮推子太小。只有3.5输出，我相信你们知道这意味着什么，非常脑残的设计，可能罗兰就没打算让你用来录音，USB音频模式需要将其作为声卡使用，完全谈不上方便。</p>
+<p>JP-08上的推子行程只有3mm，也就是半截手指的长度，其他两款也没好到哪里，想要精细调节的可以放弃了，这推子小孩子用都可能嫌小。不过考虑到日本人对于小而美的追求这一点是Boutique系列没法原谅的一点。</p>
+<p>K-25m外接键盘的设计倒是个加分项，让我想到了Surface Book的设计，对于这种产品，配个迷你键盘没什么好意外的，正好可以装包里带走。</p>
+<h2 id="后续产品"><a href="#后续产品" class="headerlink" title="后续产品"></a>后续产品</h2><p>罗兰可能自己也没有想到Boutique这么受欢迎，于是一鼓作气把自家经典产品全部复刻完了，包括SH-101、Juno-60（JU-06a）、VP330、D-50、TB-303、TR-808、TR-606、TR-909。</p>
+<p>其中呢，有几个需要提出来批评一下，比如说VP-03和TB-03，声音和原版相去甚远，属于买了必失望的那种，而D-05就是非常优秀了，毕竟本来就是数字合成器，复刻起来想必要容易许多，而且D-50本来就没有多少控制，就算缩到Boutique的尺寸也不会觉得拮据。</p>
+<p>此外，TR系列鼓机我觉得是Boutique系列最合适的复刻对象，因为鼓机并不需要键盘来控制，就像Pocket Operator一样，做口袋里的Groove Box才是最合适的（真的不考虑一下MC-101吗哈哈哈）。</p>
+<h2 id="我不喜欢"><a href="#我不喜欢" class="headerlink" title="我不喜欢"></a>我不喜欢</h2><p>本文标题已经说明了立场，但是声音问题不是我不喜欢它的原因，我真正反感的是罗兰对待这些产品的态度。毫无疑问一线的工程师和程序员都很努力，但是问题在于产品的方向，如果罗兰做一个1:1的复刻，即使是是数字的内核，也会有更多的人买单，而罗兰现在却把自己强大的技术限制在这些4复音的彩色小盒子里，不免让人唏嘘，也许，罗兰的管理层早就失去了对合成器的热爱，再也没有对辉煌遗产的敬畏，根本没有认真对待Boutique的内涵，而是将它们变成了简单的赚钱工具。一件产品有没有用心，是能看得出来的，看一看Korg复刻的Odyssey，再回头看看罗兰，高下立判。当然，你可以说这是方向不同，但是对于我们合成器爱好者而言，罗兰再也不是“We design the future”的形象了，也不难理解，为何梯郁太郎要在耄耋之年退出自己创立的公司了。</p>
+]]></content>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>罗兰</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我对于合成器复刻的看法</title>
+    <url>/2021/05/11/%E6%88%91%E5%AF%B9%E4%BA%8E%E5%90%88%E6%88%90%E5%99%A8%E5%A4%8D%E5%88%BB%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
+    <content><![CDATA[<p>模拟合成器这东西诞生也有半个世纪了，从一开始的先锋小众到现在的….额….还是小众….总之中间经历了种种大起大落。从产量一万多台的Minimoog到30万台+的DX7，经典的合成器层出不穷。然而再经典，再成功的产品也会迎来停产的命运，特别是那些产量少而难以保存到现在的那些，如何才能在今天重新得到它们的声音呢？</p>
+<a id="more"></a>
+
+<h2 id="周而复刻"><a href="#周而复刻" class="headerlink" title="周而复刻"></a>周而复刻</h2><p>当年，那些在舞台上大放异彩的合成器进入了一张张专辑里，构成了我们熟知的80年代声音。之后随着数字技术的发展，那些青春不再的产品们被丢进了垃圾桶，运气好一点的则落入了年轻的音乐人手里，静待未来的觉醒。</p>
+<p>但是电子产品也会坏，这么多年之后，该出现的毛病也都出现了，很多产品都陷入了无法维修的困境，可谓是坏一台少一台，这时候，不得不说时尚就是个圈，随着模拟合成器的复兴热潮，它们又以复刻的形式回来了。</p>
+<h2 id="老瓶装新酒"><a href="#老瓶装新酒" class="headerlink" title="老瓶装新酒"></a>老瓶装新酒</h2><p>其实现在大部分复刻都只能叫做Clone，因为这并不是一比一还原的重新生产，在原始元器件停产的情况下，是不可能获得完全一样的声音的，我们所看到的，只是在通过各种手段去<strong>还原</strong>经典的声音罢了，可谓是老瓶装新酒。像罗兰这种数字“复刻”，那可真的只是买个外壳罢了，里面依然是基于DSP的软件，实际上，JU-06、JX-03、JP-08这三款Boutique内部几乎是完全一样的，不过这三款最不能忍的还是只有4复音，这种“复刻”不要也罢哈哈哈哈。</p>
+<h2 id="还原度？没那么重要"><a href="#还原度？没那么重要" class="headerlink" title="还原度？没那么重要"></a>还原度？没那么重要</h2><p>很多人纠结复刻的声音还原度，他们会问：“这个复刻声音能达到原版的90%吗？”其实，买复刻的时候，你根本就不需要纠结这个问题，复刻的目的从来不是替代原版，而是给玩家除了原版以外的另一个选择。选择复刻的理由有很多：老琴不稳定、容易坏、买不起、买不到等等。但有一点是肯定的，对于一位合成器爱好者来说，拥有一台复刻是不会治好他们对于原版琴的渴望的。所以在我看来，复刻要做到外观、操作的一致，而对于声音，并不要求一模一样，毕竟，只要它好听，那么它就是一款好琴，就会有人用它，这就是复刻的另外一个方面——就算不像原版，它本身也可以是一款好产品。</p>
+<h2 id="要不要做改进？"><a href="#要不要做改进？" class="headerlink" title="要不要做改进？"></a>要不要做改进？</h2><p>其实基于经典产品做改进这种事一直有，但这件事得用一个全面的角度看——如果这款产品因为技术或成本限制而没能加上某样功能，在复刻时将其加上，那么这是一个很合理的操作。什么功能值得加上呢？MIDI，CV接口、更可靠的键盘、更耐用的旋钮等，这些都是不会影响产品本质的功能。还有一种是复刻的人自作聪明做了所谓的“改进”，比如说他觉得这个电容选的不好，换了更现代的电容，或者是发现哪里接线可以简化一下就做了简化。但是他们没有想到，正是很多很多这种细节构成了其标志性的声音，每一个电路元件都是由设计者计算并挑选得到的，改变这一点，就是改变了做复刻的初衷。</p>
+<h2 id="软件模拟"><a href="#软件模拟" class="headerlink" title="软件模拟"></a>软件模拟</h2><p>软件的东西还是叫模拟好一点，毕竟软件已经和硬件完全没有相同点了，但是软件的模拟却是最实用的一个，因为在现在的音乐制作条件下，软件比硬件高效的多，光是不会坏可以同时加载多个插件这一点就足以吸引那些以实用为目的的音乐人了。另一方面，软件模拟的质量也在发生戏剧性的提高，软件不再是Weak、Powerless的同义词。但为什么大家还在追求硬件呢？拥有和操作实物的感觉确实是软件无法比拟的，而大家也不难想到，软件也不过是想拥有硬件路上对金钱的妥协罢了。</p>
+<p>我个人也喜欢软件模拟，不仅是其便利性，更是因为，在下决心购买硬件之前，你可以先用软件体验一下这台琴，虽然声音不一定是完全一致的，但是让你可以拥有一个大致的概念，这样就能消灭很多GAS(Gear Acquisition SYndrome)。</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h2><p>复刻早就不是什么新鲜事，但我更喜欢这样考虑——买复刻是因为你喜欢复刻产品的声音，而不是因为喜欢原版产品的声音就去买复刻，这只是你去考虑复刻产品的一个理由罢了</p>
+]]></content>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数字合成器VS模拟合成器</title>
+    <url>/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/</url>
+    <content><![CDATA[<p>　　合成器很难选择是怎么回事呢？合成器相信大家都很熟悉，但是合成器很难选择是怎么回事呢，下面就让小编带大家一起了解吧。<br>　　合成器很难选择，其实就是数字和模拟合成器各有优点，大家可能会很惊讶合成器怎么会很难选择呢？但事实就是这样，小编也感到非常惊讶。<br>　　这就是关于合成器很难选择的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p>
+]]></content>
+      <tags>
+        <tag>器材党</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>炒冷饭:罗兰合成器纪录片</title>
+    <url>/2021/02/25/%E7%82%92%E5%86%B7%E9%A5%AD-%E7%BD%97%E5%85%B0%E5%90%88%E6%88%90%E5%99%A8%E7%BA%AA%E5%BD%95%E7%89%87/</url>
+    <content><![CDATA[<p>这是我看到的第一个高质量的合成器纪录片，不仅介绍了罗兰具有代表性的产品，还为提到的产品做了Demo，搭配轻松的解说口吻，看完第一遍我就有为其制作字幕的年头。无奈人生苦短，整整花了一年多才完工（中间咕了大半年）。好在终于是做出来了，非常推荐那些对合成器历史感兴趣的人看一看。</p>
+<p>这篇文章就是单纯的捞一捞～</p>
+<p><a href="https://www.bilibili.com/video/BV17k4y1y7T5">https://www.bilibili.com/video/BV17k4y1y7T5</a></p>
+<iframe src="//player.bilibili.com/player.html?aid=754502763&bvid=BV17k4y1y7T5&cid=264197222&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+]]></content>
+      <tags>
+        <tag>视频</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>经典合成器的经典故障</title>
+    <url>/2021/05/14/%E7%BB%8F%E5%85%B8%E5%90%88%E6%88%90%E5%99%A8%E7%9A%84%E7%BB%8F%E5%85%B8%E6%95%85%E9%9A%9C/</url>
+    <content><![CDATA[<p>本文部分资料来自<a href="https://reverb.com/news/the-most-common-maintenance-issues-of-22-classic-synths-and-how-to-fix-them">The Most Common Maintenance Issues of 22 Classic Synths | Reverb News</a></p>
+<p>模拟合成器正在经历一波复兴热潮，很多古董琴成为了被追求的对象，而它们的价格也水涨船高。然而，任何产品都不是完美的，再经典的产品也有其缺陷，今天我们就来看一看那些经典产品上常见的缺陷。</p>
+<a id="more"></a>
+
+<h3 id="Juno-106-声音芯片损坏"><a href="#Juno-106-声音芯片损坏" class="headerlink" title="Juno-106:声音芯片损坏"></a>Juno-106:声音芯片损坏</h3><p><img src="/Users/duanliyan/synthfever/source/images/roland-juno-106-1468504.jpg" alt="roland-juno-106-1468504"></p>
+<p>Juno-106的声音由6个独立的芯片版产生，这六个芯片板由一层树脂包裹。这可能是用来保持温度稳定和隐藏电路设计所做的处理，不过在若干年后，它们会老化，从而变得易于带电，同时也易吸收湿气，从而导致内部短路。这会使你得到奇怪的共鸣，失真的声音，或者是根本没有声音。这就是Juno-106几乎必然会发生的故障。</p>
+<img src="/Users/duanliyan/synthfever/source/images/Juno-Chips_qju4bv.jpg" alt="Juno-Chips_qju4bv" style="zoom:50%;" />
+
+<p>好在，现在你可以买到替换用的电路板，也有机会在其发生故障前妥善处理，如果你有一台完全原装的Juno，它值得好好保存。</p>
+<h3 id="Korg-Polysix、Korg-Poly-61-电池漏液"><a href="#Korg-Polysix、Korg-Poly-61-电池漏液" class="headerlink" title="Korg Polysix、Korg Poly 61:电池漏液"></a>Korg Polysix、Korg Poly 61:电池漏液</h3><p><img src="/Users/duanliyan/synthfever/source/images/PolySix.jpeg" alt="PolySix"></p>
+<p>内部电池漏液是几乎所有古董电子产品的通病，不过，在Poly-61和PolySix上，这一问题尤为严重，因为它们的电池就放在CPU附近，这会影响预设储存和参数设置等问题。</p>
+<p>长时间放置后，电池的碱液会渗透出来，碱液会腐蚀电路板和其中的原件，并且这一损害是不可逆的，如果你的PolySix已经发生了漏液，你需要迅速更换电池，并且用弱酸清洁被腐蚀的电路板，这样才能解决这一问题。</p>
+<h3 id="Roland-TR-606、TB-303-电池漏液、开关失灵"><a href="#Roland-TR-606、TB-303-电池漏液、开关失灵" class="headerlink" title="Roland TR-606、TB-303:电池漏液、开关失灵"></a>Roland TR-606、TB-303:电池漏液、开关失灵</h3><p><img src="/Users/duanliyan/synthfever/source/images/303&606.jpg" alt="303&amp;606"></p>
+<p>这两个便宜货出问题是一点也不奇怪，电池漏液是与上面Polysix几乎一样的问题</p>
+<p>303和606都是很耐用的设备，但是这俩货的按键并不是那么可靠，因为年代的缘故，303和606的按键经常双击，甚至是完全不起作用。</p>
+<p>解决的方法也很简单，只要换一对全新的微动开关就可以让它们重新焕发生机。</p>
+<h3 id="Oberheim-Matrix-6、Xpander、Yamaha-DX7等等-显示屏老化"><a href="#Oberheim-Matrix-6、Xpander、Yamaha-DX7等等-显示屏老化" class="headerlink" title="Oberheim Matrix 6、Xpander、Yamaha DX7等等:显示屏老化"></a>Oberheim Matrix 6、Xpander、Yamaha DX7等等:显示屏老化</h3><p><img src="/Users/duanliyan/synthfever/source/images/Matrix-6.jpeg" alt="Matrix-6"></p>
+<p>Matrix6是一台惊人的合成器，与Matrix 12一样，各方面都是当时的顶级水准，但是它们搭载的显示屏在时间长了以后会老化，主要表现就是亮度变暗，虽然你可以在一定程度上调整亮度，但是总会有一天屏幕会达到无法使用的程度。DX7也差不多，所采用的LCD显示屏在数十年以后会丧失对比度，变得很难读出任何内容。</p>
+<p>这些屏幕的替换零件已经停止生产，所以只能寻找客制化的零件，如果可能，将它们换成OLED屏是一个不错的选择。</p>
+<p><strong>Sequential Circuits Prophet 600、Moog Source、Fender Chroma Polaris:薄膜开关失效</strong></p>
+<p><img src="/Users/duanliyan/synthfever/source/images/moog-source-1.png" alt="moog-source-1"></p>
+<p>当年的薄膜开关很是流行，如果你不知道它们是什么，就想一想从前洗衣机上的按钮是什么样子。这些薄膜开关被许多的经典合成器所采用，但是在时间的洗礼之下，许多薄膜开关都不再灵敏（还记得洗衣机上面的按钮吗）。同样，现在想要更换这些开关也是难上加难，所以，如果你打算购买这样的合成器，一定要确保这些开关都好使。</p>
+<p><strong>ARP Odyssey、ARP Omni、ARP Axxe、ARP 2600:电容损坏</strong></p>
+<p><img src="/Users/duanliyan/synthfever/source/images/arp-omni-1-193-03.jpg" alt="arp-omni-1-193-03"></p>
+<p>ARP在自己的电源上使用了钽电容，这样可以使电压稳定。而在一些需要精确电压的电路里，钽电容也被使用。钽电容相比其他部件更容易坏，一般的故障是短路，而这是个严重的故障，如果电源出了故障，其下游的原件也会一起受损，最终整台合成器就完全损坏了。</p>
+<p>更换一个电源是最好的解决方案，不过对于ARP Omni来说，它的每一个按键下都有一个钽电容，所以，如果可能的话，将所有的部件重新更换一遍会很有益。</p>
+<p><strong>Realistic/Moog MG-1: Protective:泡沫降解</strong></p>
+<p>![MOOG MG-1](/Users/duanliyan/synthfever/source/images/MOOG MG-1.jpeg)</p>
+<p>1982年，Moog为Realistic生产了MG-1合成器，这是一款低成本的产品，所以难免使用了更加便宜的部件。MG-1在推子和主面板之间垫了一层黑色的保护海绵。不过这种海绵的化学结构不太稳定，随着时间推移，它们会讲解，变成黏胶一样的东西，然后，开关和推子就被粘住了。清洁它们难度很大，而且在清洁之后，它们也可能会失去原有的功能，这也是这台合成器如此稀有的一个原因。</p>
+<p><strong>Oberheim DX/DMX, Emu Drumulator, SP-12, SP-1200: 开关失效</strong></p>
+<p><img src="/Users/duanliyan/synthfever/source/images/oberheim-dx-1.jpg" alt="oberheim-dx-1"></p>
+<p>早期的经典鼓机都用了类似的开关，这种开关会随着灰尘的积累逐渐失效，在这个视频中你可以看到修复它们的方法<a href="https://www.youtube.com/watch?v=pImvzSE5wjQ">https://www.youtube.com/watch?v=pImvzSE5wjQ</a></p>
+]]></content>
+      <tags>
+        <tag>科普</tag>
       </tags>
   </entry>
   <entry>
@@ -317,84 +490,8 @@
 <p>如果选择FM合成器作为开端其实也不差，但是在你能自如地捏声音之前，你需要做大量的功课，不过目前的FM合成器并不多，Korg OPsix和Yamaha Reface DX都是不错的选择。</p>
 ]]></content>
       <tags>
-        <tag>新手</tag>
         <tag>科普</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>奇葩的罗兰SH系列命名</title>
-    <url>/2021/02/25/%E5%A5%87%E8%91%A9%E7%9A%84%E7%BD%97%E5%85%B0SH%E7%B3%BB%E5%88%97%E5%91%BD%E5%90%8D/</url>
-    <content><![CDATA[<p><img src="https://i.loli.net/2021/02/25/T1F5ARQJxhVDnP9.png" alt="SH-101 logo.png"></p>
-<p>合成器这个词在日语里音译为シンセサイザー，罗马音写作Shinsesaizā，这就是罗兰SH合成器里“SH”的由来（看来雅马哈的SY是英语派系的）。SH系列不乏SH-101这样的名机，但是…对于众多玩家来说，SH系列的命名那叫一个奇葩，堪称合成器界的Xbox，看来有必要带大家捋一捋这奇葩的系列了。</p>
-<a id="more"></a>
-
-<h3 id="1973-SH-1000"><a href="#1973-SH-1000" class="headerlink" title="1973 SH-1000"></a><strong>1973 SH-1000</strong></h3><p><img src="https://i.loli.net/2021/02/25/7CjERY5Agboxdh1.jpg" alt="SH 1000.jpg"></p>
-<p>很好的开始，不是吗？从SH-1000到SH-9999一共可以出8999款产品呢！<del>妈妈再也不用担心我命名困难啦</del></p>
-<h3 id="1974-SH-2000"><a href="#1974-SH-2000" class="headerlink" title="1974 SH-2000"></a><strong>1974 SH-2000</strong></h3><p><img src="https://i.loli.net/2021/02/25/PSHIAExq2hY819Q.jpg" alt="roland-sh-2000-872.jpg"></p>
-<p>很标准的第二代命名，我相信没有人会被这种命名顺序弄糊涂。</p>
-<h3 id="1974-SH-3"><a href="#1974-SH-3" class="headerlink" title="1974 SH-3"></a><strong>1974 SH-3</strong></h3><p><img src="https://i.loli.net/2021/02/25/DqU42GrHd8FlNiS.jpg" alt="SH 3.jpg"></p>
-<p>等下，不是应该叫SH-3000吗？？你说名字太长了不好记？好吧，与时俱进嘛。</p>
-<h3 id="1974-SH-3a"><a href="#1974-SH-3a" class="headerlink" title="1974 SH-3a"></a><strong>1974 SH-3a</strong></h3><p><img src="https://i.loli.net/2021/02/25/Pb6YUVEzyNARXop.jpg" alt="SH 3a.jpeg"></p>
-<p>罗兰改了滤波器设计，名字后面加了个a，🉑️。</p>
-<h3 id="1975-SH-5"><a href="#1975-SH-5" class="headerlink" title="1975 SH-5"></a><strong>1975 SH-5</strong></h3><p><img src="https://i.loli.net/2021/02/25/fujEJB1Dq4k6phL.jpg" alt="SH-5.jpg"></p>
-<p>Wait，你们是不是漏了个叫SH-4的东西？</p>
-<h3 id="1978-SH-7"><a href="#1978-SH-7" class="headerlink" title="1978 SH-7"></a><strong>1978 SH-7</strong></h3><p><img src="https://i.loli.net/2021/02/25/aWAyZPliU8Igps2.jpg" alt="SH-7.jpeg"></p>
-<p>所以说罗兰想像英特尔那样采用3-5-7来标注产品线？行，再给你一次机会….</p>
-<h3 id="1978-SH-1"><a href="#1978-SH-1" class="headerlink" title="1978 SH-1"></a><strong>1978 SH-1</strong></h3><p><img src="https://i.loli.net/2021/02/25/XOzBH3n25eKJYbM.jpg" alt="SH-1.jpeg"></p>
-<p>好嘛，不知道该说什么了，这是要从头再来的节奏？早干啥去了？</p>
-<h3 id="1978-SH-09"><a href="#1978-SH-09" class="headerlink" title="1978 SH-09"></a><strong>1978 SH-09</strong></h3><p><img src="https://i.loli.net/2021/02/25/kY2q6jInAQwVfBm.jpg" alt="SH-09.jpeg"></p>
-<p>鉴定完毕，没有10年脑淤血想不出这个名字，下一个</p>
-<h3 id="1979-SH-2"><a href="#1979-SH-2" class="headerlink" title="1979 SH-2"></a><strong>1979 SH-2</strong></h3><p><img src="https://i.loli.net/2021/02/25/1nc9eOmv3NlZyG6.jpg" alt="roland-sh-2.jpg"></p>
-<p>好家伙，下一个是不是就该叫SH-4了？讲道理大部分人都会以为这货是SH系列的第二款。</p>
-<h3 id="1982-SH-101"><a href="#1982-SH-101" class="headerlink" title="1982 SH-101"></a><strong>1982 SH-101</strong></h3><p><img src="https://i.loli.net/2021/02/25/vVaTh7fZnbzXo6P.png" alt="SH-101.png"></p>
-<p>虽然各位应该挺熟悉这个名字的，但是我依然觉得罗兰的命名部出了点问题。如果说向波音学习？那下一款产品最好叫SH-202.</p>
-<h3 id="1983-2002-就这？？"><a href="#1983-2002-就这？？" class="headerlink" title="1983-2002 就这？？"></a><strong>1983-2002</strong> <strong>就这？？</strong></h3><hr>
-<p>没错，在这近20年里SH系列没有出过新产品，大部分人翻历史翻到这里大概会以为SH系列没了吧（就这命名混乱度，没了活该）</p>
-<h3 id="2002-SH-32"><a href="#2002-SH-32" class="headerlink" title="2002 SH-32"></a><strong>2002 SH-32</strong></h3><p><img src="https://i.loli.net/2021/02/25/CWb3J7s4GByOND8.jpg" alt="SH-32.jpeg"></p>
-<p>鉴定完毕，没有30年脑淤血想不出这个名字，下一个</p>
-<h3 id="2006-SH-201"><a href="#2006-SH-201" class="headerlink" title="2006 SH-201"></a><strong>2006 SH-201</strong></h3><p><img src="https://i.loli.net/2021/02/25/oA6czIQb4rt52qg.jpg" alt="SH-201.jpg"></p>
-<p>不得不说我挺佩服做命名的人的，这是超时空产品线吗</p>
-<h3 id="2010-SH-01"><a href="#2010-SH-01" class="headerlink" title="2010 SH-01"></a><strong>2010 SH-01</strong></h3><p><img src="https://i.loli.net/2021/02/25/3cYtEmkxqN8u6sA.jpg" alt="sh-01.jpg"></p>
-<p>问题来了，它和SH-1、SH-101以及SH-09有什么关系？</p>
-<p>没有关系！这就是个简单的数字合成器！<strong>Surprise Motherfxxker！</strong></p>
-<h3 id="2017-SH-01a"><a href="#2017-SH-01a" class="headerlink" title="2017 SH-01a"></a><strong>2017 SH-01a</strong></h3><p><img src="https://i.loli.net/2021/02/25/KQZJXAsHM9pDEuO.jpg" alt="sh-01a_K25m.jpg"></p>
-<p>相信你也猜到了，这个SH-01a和SH-01同样没有任何关系，只是为了符合Boutique系列命名规则又为了避免重复才采取的名字，这是目前SH最新的产品。</p>
-<hr>
-<p>这次就写到这里了，希望SH系列好自为之，好好反思，不要再祸害人了哈哈哈哈哈。</p>
-<p>（灵感和部分资料来自于<a href="https://www.youtube.com/watch?v=XHUxR1S6r2s%EF%BC%89">https://www.youtube.com/watch?v=XHUxR1S6r2s）</a></p>
-]]></content>
-      <tags>
-        <tag>器材党</tag>
-        <tag>杂谈</tag>
-        <tag>罗兰</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数字合成器VS模拟合成器</title>
-    <url>/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/</url>
-    <content><![CDATA[<p>　　合成器很难选择是怎么回事呢？合成器相信大家都很熟悉，但是合成器很难选择是怎么回事呢，下面就让小编带大家一起了解吧。<br>　　合成器很难选择，其实就是数字和模拟合成器各有优点，大家可能会很惊讶合成器怎么会很难选择呢？但事实就是这样，小编也感到非常惊讶。<br>　　这就是关于合成器很难选择的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p>
-]]></content>
-      <tags>
-        <tag>器材党</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我对于合成器复刻的看法</title>
-    <url>/2021/05/11/%E6%88%91%E5%AF%B9%E4%BA%8E%E5%90%88%E6%88%90%E5%99%A8%E5%A4%8D%E5%88%BB%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
-    <content><![CDATA[<p>模拟合成器这东西诞生也有半个世纪了，从一开始的先锋小众到现在的….额….还是小众….总之中间经历了种种大起大落。从产量一万多台的Minimoog到30万台+的DX7，经典的合成器层出不穷。然而再经典，再成功的产品也会迎来停产的命运，特别是那些产量少而难以保存到现在的那些，如何才能在今天重新得到它们的声音呢？</p>
-<a id="more"></a>
-
-<h2 id="周而复刻"><a href="#周而复刻" class="headerlink" title="周而复刻"></a>周而复刻</h2><p>当年，那些在舞台上大放异彩的合成器进入了一张张专辑里，构成了我们熟知的80年代声音。之后随着数字技术的发展，那些青春不再的产品们被丢进了垃圾桶，运气好一点的则落入了年轻的音乐人手里，静待未来的觉醒。</p>
-<p>但是电子产品也会坏，这么多年之后，该出现的毛病也都出现了，很多产品都陷入了无法维修的困境，可谓是坏一台少一台，这时候，不得不说时尚就是个圈，随着模拟合成器的复兴热潮，它们又以复刻的形式回来了。</p>
-<h2 id="老瓶装新酒"><a href="#老瓶装新酒" class="headerlink" title="老瓶装新酒"></a>老瓶装新酒</h2><p>其实现在大部分复刻都只能叫做Clone，因为这并不是一比一还原的重新生产，在原始元器件停产的情况下，是不可能获得完全一样的声音的，我们所看到的，只是在通过各种手段去<strong>还原</strong>经典的声音罢了，可谓是老瓶装新酒。像罗兰这种数字“复刻”，那可真的只是买个外壳罢了，里面依然是基于DSP的软件，实际上，JU-06、JX-03、JP-08这三款Boutique内部几乎是完全一样的，不过这三款最不能忍的还是只有4复音，这种“复刻”不要也罢哈哈哈哈。</p>
-<h2 id="还原度？没那么重要"><a href="#还原度？没那么重要" class="headerlink" title="还原度？没那么重要"></a>还原度？没那么重要</h2><p>很多人纠结复刻的声音还原度，他们会问：“这个复刻声音能达到原版的90%吗？”其实，买复刻的时候，你根本就不需要纠结这个问题，复刻的目的从来不是替代原版，而是给玩家除了原版以外的另一个选择。选择复刻的理由有很多：老琴不稳定、容易坏、买不起、买不到等等。但有一点是肯定的，对于一位合成器爱好者来说，拥有一台复刻是不会治好他们对于原版琴的渴望的。所以在我看来，复刻要做到外观、操作的一致，而对于声音，并不要求一模一样，毕竟，只要它好听，那么它就是一款好琴，就会有人用它，这就是复刻的另外一个方面——就算不像原版，它本身也可以是一款好产品。</p>
-<h2 id="要不要做改进？"><a href="#要不要做改进？" class="headerlink" title="要不要做改进？"></a>要不要做改进？</h2><p>其实基于经典产品做改进这种事一直有，但这件事得用一个全面的角度看——如果这款产品因为技术或成本限制而没能加上某样功能，在复刻时将其加上，那么这是一个很合理的操作。什么功能值得加上呢？MIDI，CV接口、更可靠的键盘、更耐用的旋钮等，这些都是不会影响产品本质的功能。还有一种是复刻的人自作聪明做了所谓的“改进”，比如说他觉得这个电容选的不好，换了更现代的电容，或者是发现哪里接线可以简化一下就做了简化。但是他们没有想到，正是很多很多这种细节构成了其标志性的声音，每一个电路元件都是由设计者计算并挑选得到的，改变这一点，就是改变了做复刻的初衷。</p>
-<h2 id="软件模拟"><a href="#软件模拟" class="headerlink" title="软件模拟"></a>软件模拟</h2><p>软件的东西还是叫模拟好一点，毕竟软件已经和硬件完全没有相同点了，但是软件的模拟却是最实用的一个，因为在现在的音乐制作条件下，软件比硬件高效的多，光是不会坏可以同时加载多个插件这一点就足以吸引那些以实用为目的的音乐人了。另一方面，软件模拟的质量也在发生戏剧性的提高，软件不再是Weak、Powerless的同义词。但为什么大家还在追求硬件呢？拥有和操作实物的感觉确实是软件无法比拟的，而大家也不难想到，软件也不过是想拥有硬件路上对金钱的妥协罢了。</p>
-<p>我个人也喜欢软件模拟，不仅是其便利性，更是因为，在下决心购买硬件之前，你可以先用软件体验一下这台琴，虽然声音不一定是完全一致的，但是让你可以拥有一个大致的概念，这样就能消灭很多GAS(Gear Acquisition SYndrome)。</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h2><p>复刻早就不是什么新鲜事，但我更喜欢这样考虑——买复刻是因为你喜欢复刻产品的声音，而不是因为喜欢原版产品的声音就去买复刻，这只是你去考虑复刻产品的一个理由罢了</p>
-]]></content>
-      <tags>
-        <tag>杂谈</tag>
+        <tag>新手</tag>
       </tags>
   </entry>
   <entry>
@@ -445,61 +542,8 @@
 <p><img src="/images/poly-para.jpg" alt="poly-para"></p>
 ]]></content>
       <tags>
+        <tag>科普</tag>
         <tag>新手</tag>
-        <tag>科普</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>炒冷饭:罗兰合成器纪录片</title>
-    <url>/2021/02/25/%E7%82%92%E5%86%B7%E9%A5%AD-%E7%BD%97%E5%85%B0%E5%90%88%E6%88%90%E5%99%A8%E7%BA%AA%E5%BD%95%E7%89%87/</url>
-    <content><![CDATA[<p>这是我看到的第一个高质量的合成器纪录片，不仅介绍了罗兰具有代表性的产品，还为提到的产品做了Demo，搭配轻松的解说口吻，看完第一遍我就有为其制作字幕的年头。无奈人生苦短，整整花了一年多才完工（中间咕了大半年）。好在终于是做出来了，非常推荐那些对合成器历史感兴趣的人看一看。</p>
-<p>这篇文章就是单纯的捞一捞～</p>
-<p><a href="https://www.bilibili.com/video/BV17k4y1y7T5">https://www.bilibili.com/video/BV17k4y1y7T5</a></p>
-<iframe src="//player.bilibili.com/player.html?aid=754502763&bvid=BV17k4y1y7T5&cid=264197222&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-]]></content>
-      <tags>
-        <tag>视频</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>经典合成器的经典故障</title>
-    <url>/2021/05/14/%E7%BB%8F%E5%85%B8%E5%90%88%E6%88%90%E5%99%A8%E7%9A%84%E7%BB%8F%E5%85%B8%E6%95%85%E9%9A%9C/</url>
-    <content><![CDATA[<p>本文部分资料来自<a href="https://reverb.com/news/the-most-common-maintenance-issues-of-22-classic-synths-and-how-to-fix-them">The Most Common Maintenance Issues of 22 Classic Synths | Reverb News</a></p>
-<p>模拟合成器正在经历一波复兴热潮，很多古董琴成为了被追求的对象，而它们的价格也水涨船高。然而，任何产品都不是完美的，再经典的产品也有其缺陷，今天我们就来看一看那些经典产品上常见的缺陷。</p>
-<a id="more"></a>
-
-<h3 id="Juno-106-声音芯片损坏"><a href="#Juno-106-声音芯片损坏" class="headerlink" title="Juno-106:声音芯片损坏"></a>Juno-106:声音芯片损坏</h3><p><img src="/Users/duanliyan/synthfever/source/images/roland-juno-106-1468504.jpg" alt="roland-juno-106-1468504"></p>
-<p>Juno-106的声音由6个独立的芯片版产生，这六个芯片板由一层树脂包裹。这可能是用来保持温度稳定和隐藏电路设计所做的处理，不过在若干年后，它们会老化，从而变得易于带电，同时也易吸收湿气，从而导致内部短路。这会使你得到奇怪的共鸣，失真的声音，或者是根本没有声音。这就是Juno-106几乎必然会发生的故障。</p>
-<img src="/Users/duanliyan/synthfever/source/images/Juno-Chips_qju4bv.jpg" alt="Juno-Chips_qju4bv" style="zoom:50%;" />
-
-<p>好在，现在你可以买到替换用的电路板，也有机会在其发生故障前妥善处理，如果你有一台完全原装的Juno，它值得好好保存。</p>
-<h3 id="Korg-Polysix、Korg-Poly-61-电池漏液"><a href="#Korg-Polysix、Korg-Poly-61-电池漏液" class="headerlink" title="Korg Polysix、Korg Poly 61:电池漏液"></a>Korg Polysix、Korg Poly 61:电池漏液</h3><p><img src="/Users/duanliyan/synthfever/source/images/PolySix.jpeg" alt="PolySix"></p>
-<p>内部电池漏液是几乎所有古董电子产品的通病，不过，在Poly-61和PolySix上，这一问题尤为严重，因为它们的电池就放在CPU附近，这会影响预设储存和参数设置等问题。</p>
-<p>长时间放置后，电池的碱液会渗透出来，碱液会腐蚀电路板和其中的原件，并且这一损害是不可逆的，如果你的PolySix已经发生了漏液，你需要迅速更换电池，并且用弱酸清洁被腐蚀的电路板，这样才能解决这一问题。</p>
-<h3 id="Roland-TR-606、TB-303-电池漏液、开关失灵"><a href="#Roland-TR-606、TB-303-电池漏液、开关失灵" class="headerlink" title="Roland TR-606、TB-303:电池漏液、开关失灵"></a>Roland TR-606、TB-303:电池漏液、开关失灵</h3><p><img src="/Users/duanliyan/synthfever/source/images/303&606.jpg" alt="303&amp;606"></p>
-<p>这两个便宜货出问题是一点也不奇怪，电池漏液是与上面Polysix几乎一样的问题</p>
-<p>303和606都是很耐用的设备，但是这俩货的按键并不是那么可靠，因为年代的缘故，303和606的按键经常双击，甚至是完全不起作用。</p>
-<p>解决的方法也很简单，只要换一对全新的微动开关就可以让它们重新焕发生机。</p>
-<h3 id="Oberheim-Matrix-6、Xpander、Yamaha-DX7等等-显示屏老化"><a href="#Oberheim-Matrix-6、Xpander、Yamaha-DX7等等-显示屏老化" class="headerlink" title="Oberheim Matrix 6、Xpander、Yamaha DX7等等:显示屏老化"></a>Oberheim Matrix 6、Xpander、Yamaha DX7等等:显示屏老化</h3><p><img src="/Users/duanliyan/synthfever/source/images/Matrix-6.jpeg" alt="Matrix-6"></p>
-<p>Matrix6是一台惊人的合成器，与Matrix 12一样，各方面都是当时的顶级水准，但是它们搭载的显示屏在时间长了以后会老化，主要表现就是亮度变暗，虽然你可以在一定程度上调整亮度，但是总会有一天屏幕会达到无法使用的程度。DX7也差不多，所采用的LCD显示屏在数十年以后会丧失对比度，变得很难读出任何内容。</p>
-<p>这些屏幕的替换零件已经停止生产，所以只能寻找客制化的零件，如果可能，将它们换成OLED屏是一个不错的选择。</p>
-<p><strong>Sequential Circuits Prophet 600、Moog Source、Fender Chroma Polaris:薄膜开关失效</strong></p>
-<p><img src="/Users/duanliyan/synthfever/source/images/moog-source-1.png" alt="moog-source-1"></p>
-<p>当年的薄膜开关很是流行，如果你不知道它们是什么，就想一想从前洗衣机上的按钮是什么样子。这些薄膜开关被许多的经典合成器所采用，但是在时间的洗礼之下，许多薄膜开关都不再灵敏（还记得洗衣机上面的按钮吗）。同样，现在想要更换这些开关也是难上加难，所以，如果你打算购买这样的合成器，一定要确保这些开关都好使。</p>
-<p><strong>ARP Odyssey、ARP Omni、ARP Axxe、ARP 2600:电容损坏</strong></p>
-<p><img src="/Users/duanliyan/synthfever/source/images/arp-omni-1-193-03.jpg" alt="arp-omni-1-193-03"></p>
-<p>ARP在自己的电源上使用了钽电容，这样可以使电压稳定。而在一些需要精确电压的电路里，钽电容也被使用。钽电容相比其他部件更容易坏，一般的故障是短路，而这是个严重的故障，如果电源出了故障，其下游的原件也会一起受损，最终整台合成器就完全损坏了。</p>
-<p>更换一个电源是最好的解决方案，不过对于ARP Omni来说，它的每一个按键下都有一个钽电容，所以，如果可能的话，将所有的部件重新更换一遍会很有益。</p>
-<p><strong>Realistic/Moog MG-1: Protective:泡沫降解</strong></p>
-<p>![MOOG MG-1](/Users/duanliyan/synthfever/source/images/MOOG MG-1.jpeg)</p>
-<p>1982年，Moog为Realistic生产了MG-1合成器，这是一款低成本的产品，所以难免使用了更加便宜的部件。MG-1在推子和主面板之间垫了一层黑色的保护海绵。不过这种海绵的化学结构不太稳定，随着时间推移，它们会讲解，变成黏胶一样的东西，然后，开关和推子就被粘住了。清洁它们难度很大，而且在清洁之后，它们也可能会失去原有的功能，这也是这台合成器如此稀有的一个原因。</p>
-<p><strong>Oberheim DX/DMX, Emu Drumulator, SP-12, SP-1200: 开关失效</strong></p>
-<p><img src="/Users/duanliyan/synthfever/source/images/oberheim-dx-1.jpg" alt="oberheim-dx-1"></p>
-<p>早期的经典鼓机都用了类似的开关，这种开关会随着灰尘的积累逐渐失效，在这个视频中你可以看到修复它们的方法<a href="https://www.youtube.com/watch?v=pImvzSE5wjQ">https://www.youtube.com/watch?v=pImvzSE5wjQ</a></p>
-]]></content>
-      <tags>
-        <tag>科普</tag>
       </tags>
   </entry>
   <entry>
@@ -576,9 +620,9 @@
       </tags>
   </entry>
   <entry>
-    <title>单音五杰</title>
+    <title>单音五剑客</title>
     <url>/2021/02/08/%E5%8D%95%E9%9F%B3%E4%BA%94%E6%9D%B0/</url>
-    <content><![CDATA[<h1 id="单音五杰"><a href="#单音五杰" class="headerlink" title="单音五杰"></a>单音五杰</h1><p>在那个合成器市场还是一片蓝海的年代，单音合成器是最为普遍的存在。并且，作为合成器最早的存在形式，单音合成器具有毫无疑问的重要意义。这里我挑选了五台最具代表性的单音模拟合成器，说一说它们的故事。<img src="https://i.loli.net/2021/02/08/b6KczWgBLQq2opC.jpg" alt="194.jpg"></p>
+    <content><![CDATA[<h1 id="单音五剑客"><a href="#单音五剑客" class="headerlink" title="单音五剑客"></a>单音五剑客</h1><p>在那个合成器市场还是一片蓝海的年代，单音合成器是最为普遍的存在。并且，作为合成器最早的存在形式，单音合成器具有毫无疑问的重要意义。这里我挑选了五台最具代表性的单音模拟合成器，说一说它们的故事。<img src="https://i.loli.net/2021/02/08/b6KczWgBLQq2opC.jpg" alt="194.jpg"></p>
 <a id="more"></a>
 
 <h2 id="Minimoog-Model-D（1971）"><a href="#Minimoog-Model-D（1971）" class="headerlink" title="Minimoog Model D（1971）"></a>Minimoog Model D（1971）</h2><p>可以说：Minimoog重新定义了合成器，它改变了以往（1971年以前）的模块式设计，将简单的功能包装到一个非常小的琴身里（这也是名字里”mini”的来历），大大降低了使用门槛。Minimoog引爆了市场，也使它成为了第一台取得巨大商业成功的合成器（下图为Reissue版）。</p>
